@@ -4,7 +4,7 @@
         "$$-\\left({\\operatorname{csc}\\left(x\\right)}^2\\right)$$"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "For the following exercises, use the quotient rule to derive the given equations.",
+    "stepTitle": "För följande övningar, använd kvotregeln för att härleda de givna ekvationerna.",
     "stepBody": "$$\\frac{d}{dx} cotx$$",
     "answerType": "string",
     "variabilization": {},

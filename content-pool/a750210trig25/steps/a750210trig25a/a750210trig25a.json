@@ -4,7 +4,7 @@
         "$$cos\\left(x\\right) cos\\left(x\\right)$$"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "For $$sin\\left(x\\right) \\left(\\operatorname{csc}\\left(x\\right)-sin\\left(x\\right)\\right)$$, write the expression in term of sines and cosines, then simplify. The final answer does not have to be in terms of sine and cosine only.",
+    "stepTitle": "För $$sin\\\\left(x\\\\right) \\\\left(\\\\operatorname{csc}\\\\left(x\\\\right)-sin\\\\left(x\\\\right)\\\\right)$$, skriv uttrycket i termer av sinus och cosinus, och förenkla sedan. Det slutliga svaret behöver inte vara enbart i termer av sinus och cosinus.",
     "stepBody": "",
     "answerType": "string",
     "variabilization": {},

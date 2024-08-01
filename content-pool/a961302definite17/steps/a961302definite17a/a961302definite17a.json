@@ -4,7 +4,7 @@
         "Antisymmetric"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "Is the integrand symmetric or antisymmetric with respect to $$x=3$$?",
+    "stepTitle": "Är integranden symmetrisk eller antisymmetrisk med avseende på $$x=3$$?",
     "stepBody": "",
     "answerType": "string",
     "variabilization": {},

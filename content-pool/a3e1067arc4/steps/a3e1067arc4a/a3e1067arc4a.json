@@ -4,7 +4,7 @@
         "$$3.819$$"
     ],
     "problemType": "TextBox",
-    "stepTitle": "Let $$f(x)=sin(x)$$ Calculate the arc length of the graph of f(x) over the interval [0,pi].",
+    "stepTitle": "Låt $$f(x)=sin(x)$$ Beräkna båglängden av grafen för f(x) över intervallet [0,pi].",
     "stepBody": "",
     "answerType": "arithmetic",
     "variabilization": {},

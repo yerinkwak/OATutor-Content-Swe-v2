@@ -3,8 +3,8 @@
         "id": "aca1a7dderivative1a-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "The Power Rule",
-        "text": "If $$f(x)=x^n$$, then $$f'(x)={nx}^{n-1}$$.",
+        "title": "Potensregeln",
+        "text": "Om $$f(x)=x^n$$, då $$f'(x)={nx}^{n-1}$$.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -15,8 +15,8 @@
         "dependencies": [
             "aca1a7dderivative1a-h1"
         ],
-        "title": "Application of Power Rule $$1$$",
-        "text": "To get the derivative of $$x^7$$, we multiply our constant (1) by our exponent (7) and subtract the exponent power by $$1$$.",
+        "title": "Tillämpning av potensregeln $$1$$",
+        "text": "För att få derivatan av $$x^7$$, multiplicerar vi vår konstant (1) med vår exponent (7) och subtraherar exponentens potens med $$1$$.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -32,8 +32,8 @@
         "dependencies": [
             "aca1a7dderivative1a-h2"
         ],
-        "title": "Application of Power Rule $$2$$",
-        "text": "What is the derivative of $$x^7$$?",
+        "title": "Tillämpning av potensregeln $$2$$",
+        "text": "Vad är derivatan av $$x^7$$?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "",
@@ -50,8 +50,8 @@
         "dependencies": [
             "aca1a7dderivative1a-h3"
         ],
-        "title": "The Constant Rule",
-        "text": "If f(x) is a constant c, $$f'(x)=0$$.",
+        "title": "Konstantregeln",
+        "text": "Om f(x) är en konstant c, $$f'(x)=0$$.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -67,8 +67,8 @@
         "dependencies": [
             "aca1a7dderivative1a-h4"
         ],
-        "title": "Application of Constant Rule",
-        "text": "What is the derivative of 10?",
+        "title": "Tillämpning av konstantregeln",
+        "text": "Vad är derivatan av 10?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "",
@@ -85,8 +85,8 @@
         "dependencies": [
             "aca1a7dderivative1a-h5"
         ],
-        "title": "The Sum Rule $$1$$",
-        "text": "The derivative of the sum of a function f and a function g is the same as the sum of the derivative of f and the derivative of g.",
+        "title": "Summaregeln $$1$$",
+        "text": "Derivatan av summan av en funktion f och en funktion g är densamma som summan av derivatan av f och derivatan av g.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -97,8 +97,8 @@
         "dependencies": [
             "aca1a7dderivative1a-h6"
         ],
-        "title": "The Sum Rule $$2$$",
-        "text": "You can add the two separate derivatives that we just found to find our answer.",
+        "title": "Summaregeln $$2$$",
+        "text": "Du kan lägga ihop de två separata derivatorna som vi just hittade för att hitta vårt svar.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""

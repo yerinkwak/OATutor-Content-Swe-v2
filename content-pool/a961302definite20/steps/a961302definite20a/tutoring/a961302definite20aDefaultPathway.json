@@ -3,8 +3,8 @@
         "id": "a961302definite20a-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Apply the Integral of a Sum Property",
-        "text": "$$\\int_{a}^{b} f{\\left(x\\right)}+g{\\left(x\\right)} \\,dx=\\int_{a}^{b} f(x) \\,dx+\\int_{a}^{b} g(x) \\,dx$$. In other words, the integral of a sum is the sum of the integrals. This means separating the terms into two different integrals.",
+        "title": "Använd egenskapen för integralen av en summa",
+        "text": "I logik används ofta en uppsättning symboler för att uttrycka logisk representation. Med andra ord är integralen av en summa summan av integralerna. Detta innebär att separera termerna i två olika integraler.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -13,8 +13,8 @@
         "id": "a961302definite20a-h2",
         "type": "hint",
         "dependencies": [],
-        "title": "Evaluate the Integrals and Add Them Up Together",
-        "text": "Now that we applied the property of definite integrals to the problem to manipulate the expressions, we can evaluate them to find the answer.",
+        "title": "Utvärdera integralerna och lägg ihop dem.",
+        "text": "Nu när vi har tillämpat egenskapen för bestämda integraler på problemet för att manipulera uttrycken, kan vi utvärdera dem för att hitta svaret.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -28,8 +28,8 @@
             "$$5$$"
         ],
         "dependencies": [],
-        "title": "Evaluate the Integrals and Add Them Up Together",
-        "text": "What is $$\\int_{2}^{4} f(x) \\,dx+\\int_{2}^{4} g(x) \\,dx$$?",
+        "title": "Utvärdera integralerna och addera dem tillsammans.",
+        "text": "Vad är $$\\\\int_{2}^{4} f(x) \\\\,dx+\\\\int_{2}^{4} g(x) \\\\,dx$$?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "",
@@ -43,8 +43,8 @@
                     "$$5$$"
                 ],
                 "dependencies": [],
-                "title": "Evaluate the Integrals and Add Them Up Together",
-                "text": "What is $$8-3$$?",
+                "title": "Utvärdera integralerna och addera dem tillsammans.",
+                "text": "Vad är $$8-3$$?",
                 "variabilization": {},
                 "oer": "https://OATutor.io <OATutor>",
                 "license": ""

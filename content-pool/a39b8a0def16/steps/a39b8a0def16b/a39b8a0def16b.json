@@ -4,7 +4,7 @@
         "$$\\frac{1}{3}$$"
     ],
     "problemType": "TextBox",
-    "stepTitle": "For the previous equation, find the average velocity between $$t=2$$ and $$t=2+h$$, where $$h=0.1$$.",
+    "stepTitle": "För den föregående ekvationen, hitta medelhastigheten mellan $$t=2$$ och $$t=2+h$$, där $$h=0.1$$.",
     "stepBody": "",
     "answerType": "arithmetic",
     "variabilization": {},

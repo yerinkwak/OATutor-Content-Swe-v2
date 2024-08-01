@@ -3,8 +3,8 @@
         "id": "a750210trig23a-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Reciprocal Triginometric Identity",
-        "text": "Recall that secx is equal to $$\\frac{1}{cosx}$$",
+        "title": "Reciproka trigonometriska identiteter",
+        "text": "Kom ihåg att secx är lika med $$\\\\frac{1}{cosx}$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -15,8 +15,8 @@
         "dependencies": [
             "a750210trig23a-h1"
         ],
-        "title": "Reciprocal Triginometric Identity",
-        "text": "Recall that cotx is equal to $$\\frac{cosx}{sinx}$$",
+        "title": "Reciproka trigonometriska identiteter",
+        "text": "Kom ihåg att \\(\\cot x\\) är lika med $$\\\\frac{cosx}{sinx}$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -32,7 +32,7 @@
         "dependencies": [
             "a750210trig23a-h2"
         ],
-        "title": "Use the above to simplify the following",
+        "title": "Använd ovanstående för att förenkla följande",
         "text": "$$\\frac{1}{cosx} sinx \\frac{cosx}{sinx}$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",

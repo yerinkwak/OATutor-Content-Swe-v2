@@ -3,8 +3,8 @@
         "id": "a39b8a0def22a-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Average Velocity Equation",
-        "text": "The instantaneous velocity of both vehicles is given by the slope of the tangent line at $$t=4$$.",
+        "title": "Medelhastighetsekvationen",
+        "text": "Den momentana hastigheten för båda fordonen ges av lutningen på tangentlinjen vid $$t=4$$.",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -20,8 +20,8 @@
         "dependencies": [
             "a39b8a0def22a-h1"
         ],
-        "title": "Velocities of Vehicles",
-        "text": "Is f(t) or g(t)'s slope greater when $$t=4$$?",
+        "title": "Fordonens hastigheter",
+        "text": "Är lutningen för f(t) eller g(t) större när $$t=4$$?",
         "variabilization": {},
         "oer": "",
         "license": "",

@@ -3,8 +3,8 @@
         "id": "a39b8a0def17a-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Average Velocity Equation",
-        "text": "If s(t) is the position of an object moving along a coordinate axis, the average velocity of the object over a time interval [a,t] is $$V_{avg}=\\frac{s\\left(t\\right)-s\\left(a\\right)}{t-a}$$",
+        "title": "Medelhastighetsekvationen",
+        "text": "Om s(t) är positionen för ett objekt som rör sig längs en koordinataxel, är objektets medelhastighet över ett tidsintervall [a,t] $$V_{avg}=\\\\frac{s\\\\left(t\\\\right)-s\\\\left(a\\\\right)}{t-a}$$",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -15,8 +15,8 @@
         "dependencies": [
             "a39b8a0def17a-h1"
         ],
-        "title": "Plugging In",
-        "text": "In this question, $$t$$ goes from $$2$$ to $$2+h$$. Plug $$2+h$$ in $$t$$ and $$2$$ in a for the previous equation.",
+        "title": "Inkoppling",
+        "text": "I den här frågan går $$t$$ från $$2$$ till $$2+h$$. Sätt in $$2+h$$ i $$t$$ och $$2$$ i a för den tidigare ekvationen.",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -27,8 +27,8 @@
         "dependencies": [
             "a39b8a0def17a-h2"
         ],
-        "title": "Expanding Powers of Three",
-        "text": "The equation for $${\\left(a+b\\right)}^3$$ is $$a^3+3a^b+{3\\left(a b\\right)}^2+b^3$$.",
+        "title": "Utveckling av trepotenser",
+        "text": "Ekvationen för $${\\\\left(a+b\\\\right)}^3$$ är $$a^3+3a^b+{3\\\\left(a b\\\\right)}^2+b^3$$.",
         "variabilization": {},
         "oer": "",
         "license": ""

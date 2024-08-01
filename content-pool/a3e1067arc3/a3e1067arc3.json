@@ -1,10 +1,10 @@
 {
     "id": "a3e1067arc3",
-    "title": "Using a Computer or Calculator to Determine the Arc Length of a Function of $$x$$. Round to three decimal places.",
+    "title": "Använda en dator eller miniräknare för att bestämma båglängden av en funktion av $$x$$. Avrunda till tre decimaler.",
     "body": "",
     "variabilization": {},
     "oer": "https://openstax.org/details/books/calculus-volume-1 <OpenStax: Calculus Volume 1>",
     "license": 0.0,
-    "lesson": "6.4 Arc Length of a Curve and Surface Area",
+    "lesson": "6.4 Båglängd av en kurva och yta",
     "courseName": "OpenStax: Calculus Volume 1"
 }

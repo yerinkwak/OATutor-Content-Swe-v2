@@ -3,8 +3,8 @@
         "id": "a394625deriv23a-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Breaking down the question",
-        "text": "Do the first derivative and then derive that two more time",
+        "title": "Bryta ner frågan",
+        "text": "Gör den första derivatan och derivera sedan den två gånger till.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -21,7 +21,7 @@
             "a394625deriv23a-h1"
         ],
         "title": "Sub-question",
-        "text": "What's first derivative?",
+        "text": "Vad är första derivatan?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "",
@@ -43,7 +43,7 @@
             "a394625deriv23a-h2"
         ],
         "title": "Sub-question",
-        "text": "What's the derivative of first derivative",
+        "text": "Vad är derivatan av första derivatan?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "",
@@ -65,7 +65,7 @@
             "a394625deriv23a-h3"
         ],
         "title": "Sub-question",
-        "text": "What's the derivative of second derivative",
+        "text": "Vad är derivatan av andraderivatan?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "",
@@ -81,8 +81,8 @@
         "dependencies": [
             "a394625deriv23a-h4"
         ],
-        "title": "The derivative of the $$(n-1)th$$ derivative is the nth derivative",
-        "text": "Conclude your answer from sub-questions",
+        "title": "Derivatan av $$(n-1)th$$ derivatan är den n:te derivatan",
+        "text": "Dra din slutsats från deluppgifterna.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""

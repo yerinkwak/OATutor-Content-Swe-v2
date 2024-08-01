@@ -3,8 +3,8 @@
         "id": "a3e1067arc14a-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Find the surface area",
-        "text": "The surface area can be found with $$(2*pi)*\\int_{a}^{b} f{\\left(x\\right)} \\sqrt{1+{\\operatorname{f'}\\left(x\\right)}^2} \\,dx$$, where f'(x) indicates the derivative of f(x). We need to plug f(x) and intervals into this equation",
+        "title": "Hitta ytarean",
+        "text": "Ytarean kan hittas med $$(2*pi)*\\\\int_{a}^{b} f{\\\\left(x\\\\right)} \\\\sqrt{1+{\\\\operatorname{f'}\\\\left(x\\\\right)}^2} \\\\,dx$$, där f'(x) anger derivatan av f(x). Vi behöver sätta in f(x) och intervall i denna ekvation",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -20,8 +20,8 @@
         "dependencies": [
             "a3e1067arc14a-h1"
         ],
-        "title": "Derivative of f(x)",
-        "text": "What is f'(x)?",
+        "title": "Derivatan av f(x)",
+        "text": "Vad är f'(x)?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -37,8 +37,8 @@
         "dependencies": [
             "a3e1067arc14a-h2"
         ],
-        "title": "Simplify $${\\operatorname{f'}\\left(x\\right)}^2$$",
-        "text": "What is $${\\operatorname{f'}\\left(x\\right)}^2$$?",
+        "title": "Förenkla $${\\\\operatorname{f'}\\\\left(x\\\\right)}^2$$",
+        "text": "Vad är $${\\\\operatorname{f'}\\\\left(x\\\\right)}^2$$?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -49,8 +49,8 @@
         "dependencies": [
             "a3e1067arc14a-h3"
         ],
-        "title": "Find the surface area",
-        "text": "After plugging f(x) and the interval into the equation, we will have Surface $$Area=(2*pi)*\\int_{2}^{6} \\sqrt{x} \\sqrt{1+\\frac{1}{4x}} \\,dx$$",
+        "title": "Hitta ytarean",
+        "text": "Efter att ha satt in f(x) och intervallet i ekvationen, får vi ytan $$Area=(2*pi)*\\\\int_{2}^{6} \\\\sqrt{x} \\\\sqrt{1+\\\\frac{1}{4x}} \\\\,dx$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -61,8 +61,8 @@
         "dependencies": [
             "a3e1067arc14a-h4"
         ],
-        "title": "Evaluate the integral",
-        "text": "Use a computer, calculator, or another device to solve the integral.",
+        "title": "Utvärdera integralen",
+        "text": "Använd en dator, miniräknare eller annan enhet för att lösa integralen.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""

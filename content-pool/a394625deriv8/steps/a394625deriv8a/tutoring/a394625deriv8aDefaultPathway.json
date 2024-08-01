@@ -3,8 +3,8 @@
         "id": "a394625deriv8a-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Breaking down the question",
-        "text": "We can separate the functions into tan(x) and $$1-sec(x)$$",
+        "title": "Bryta ner frågan",
+        "text": "Vi kan separera funktionerna till tan(x) och $$1-sec(x)$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -21,7 +21,7 @@
             "a394625deriv8a-h1"
         ],
         "title": "Sub-question",
-        "text": "What's the derivative of tan(x)",
+        "text": "Vad är derivatan av tan(x)",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "",
@@ -43,7 +43,7 @@
             "a394625deriv8a-h2"
         ],
         "title": "Sub-question",
-        "text": "What's the derivative of $$1-sec(x)$$",
+        "text": "Vad är derivatan av $$1-sec(x)$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "",
@@ -59,8 +59,8 @@
         "dependencies": [
             "a394625deriv8a-h3"
         ],
-        "title": "Apply derivatives' rule",
-        "text": "Apply the quotient derivative rule of composed functions to find the final solution",
+        "title": "Tillämpa deriveringsregeln",
+        "text": "Tillämpa kvotregeln för derivator av sammansatta funktioner för att hitta den slutliga lösningen.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""

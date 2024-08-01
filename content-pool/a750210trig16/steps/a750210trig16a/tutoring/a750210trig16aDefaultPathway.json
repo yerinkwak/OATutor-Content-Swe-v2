@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Angles",
-        "text": "The value inside the parenthesis of the cos refers to an angle which can also correspond to a point on the unit circle, but in this case does not.",
+        "text": "Värdet inuti parentesen för cos avser en vinkel som också kan motsvara en punkt på enhetscirkeln, men i detta fall gör det inte det.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -15,8 +15,8 @@
         "dependencies": [
             "a750210trig16a-h1"
         ],
-        "title": "Half angle formula",
-        "text": "Since $$\\frac{5\\pi}{12}$$ is not a common angle on the unit circle, we need to use the half angle formula. The half angle formula is $$cos\\left(\\frac{x}{2}\\right)$$ $$=$$ $$\\pm \\sqrt{\\frac{1+cosx}{2}}$$. Note that if $$\\frac{x}{2}$$ $$=$$ $$\\frac{5\\pi}{12}$$, then $$x=\\frac{5\\pi}{6}$$.",
+        "title": "Halvvinkelformel",
+        "text": "Eftersom $$\\\\frac{5\\\\pi}{12}$$ inte är en vanlig vinkel på enhetscirkeln, behöver vi använda halvvinkelformeln. Halvvinkelformeln är $$cos\\\\left(\\\\frac{x}{2}\\\\right)$$ $$=$$ $$\\\\pm \\\\sqrt{\\\\frac{1+cosx}{2}}$$. Observera att om $$\\\\frac{x}{2}$$ $$=$$ $$\\\\frac{5\\\\pi}{12}$$, då $$x=\\\\frac{5\\\\pi}{6}$$.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -32,8 +32,8 @@
         "dependencies": [
             "a750210trig16a-h2"
         ],
-        "title": "Unit Circle",
-        "text": "What does $$cos\\left(\\frac{5\\pi}{6}\\right)$$ correspond to on the unit circle?",
+        "title": "Enhetscirkel",
+        "text": "Vad motsvarar $$cos\\\\left(\\\\frac{5\\\\pi}{6}\\\\right)$$ på enhetscirkeln?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "",
@@ -54,7 +54,7 @@
             "a750210trig16a-h3"
         ],
         "title": "Calculate",
-        "text": "Calculate $$\\pm \\sqrt{\\frac{1+\\left(-\\frac{\\sqrt{3}}{2}\\right)}{2}}$$",
+        "text": "Beräkna $$\\\\pm \\\\sqrt{\\\\frac{1+\\\\left(-\\\\frac{\\\\sqrt{3}}{2}\\\\right)}{2}}$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "",
@@ -70,7 +70,7 @@
             "a750210trig16a-h2"
         ],
         "title": "Quadrants",
-        "text": "Remember that $$\\frac{5\\pi}{12}$$ is less than $$\\frac{\\pi}{2}$$, so it is in quadrant $$1$$, thus $$cos\\left(\\frac{5\\pi}{6}\\right)$$ is positive.",
+        "text": "Kom ihåg att $$\\\\frac{5\\\\pi}{12}$$ är mindre än $$\\\\frac{\\\\pi}{2}$$, så det är i kvadrant $$1$$, alltså är $$cos\\\\left(\\\\frac{5\\\\pi}{6}\\\\right)$$ positiv.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""

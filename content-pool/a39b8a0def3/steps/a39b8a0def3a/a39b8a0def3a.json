@@ -4,7 +4,7 @@
         "$$-0.75$$"
     ],
     "problemType": "TextBox",
-    "stepTitle": "Find the slope of the secant line between the values $$x_1$$ and $$x_2$$ for $$f(x)=\\frac{4}{3x-1}$$, where $$x_1=1$$ and $$x_2=3$$.",
+    "stepTitle": "Hitta lutningen på sekantlinjen mellan värdena $$x_1$$ och $$x_2$$ för $$f(x)=\\\\frac{4}{3x-1}$$, där $$x_1=1$$ och $$x_2=3$$.",
     "stepBody": "",
     "answerType": "arithmetic",
     "variabilization": {},

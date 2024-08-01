@@ -3,8 +3,8 @@
         "id": "a39b8a0def16b-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Plugging In",
-        "text": "Plug $$t=2$$ and $$t=2+h$$ into the equation found in the previous section for the average velocity.",
+        "title": "Infogning",
+        "text": "Sätt in $$t=2$$ och $$t=2+h$$ i ekvationen som finns i föregående avsnitt för medelhastigheten.",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -21,7 +21,7 @@
             "a39b8a0def16b-h1"
         ],
         "title": "Constants",
-        "text": "As there are no variables, is the average velocity the same or different for different time intervals?",
+        "text": "Eftersom det inte finns några variabler, är medelhastigheten densamma eller olika för olika tidsintervall?",
         "variabilization": {},
         "oer": "",
         "license": "",

@@ -3,8 +3,8 @@
         "id": "a39b8a0def6a-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Tangent Line Equation",
-        "text": "The tangent line to f(x) at a is the line passing through the point (a,f(a)) having slope $$\\lim_{h\\to0} \\frac{f{\\left(a+h\\right)}-f{\\left(a\\right)}}{h}$$.",
+        "title": "Tangentlinjens ekvation",
+        "text": "Tangenten till f(x) vid a är linjen som passerar genom punkten (a,f(a)) med lutningen $$\\\\lim_{h\\\\to0} \\\\frac{f{\\\\left(a+h\\\\right)}-f{\\\\left(a\\\\right)}}{h}$$.",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -15,8 +15,8 @@
         "dependencies": [
             "a39b8a0def6a-h1"
         ],
-        "title": "Plugging In",
-        "text": "As $$a=2$$ in this equation, plug $$2$$ into every f(a).",
+        "title": "Inkoppling",
+        "text": "Som $$a=2$$ i denna ekvation, sätt in $$2$$ i varje f(a).",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -28,7 +28,7 @@
             "a39b8a0def6a-h2"
         ],
         "title": "Simplify",
-        "text": "Simplify the resulting equation: $$\\frac{3-4\\left(2+h\\right)-\\left(-4\\times2\\right)}{h}$$",
+        "text": "Förenkla den resulterande ekvationen: $$\\\\frac{3-4\\\\left(2+h\\\\right)-\\\\left(-4\\\\times2\\\\right)}{h}$$",
         "variabilization": {},
         "oer": "",
         "license": ""

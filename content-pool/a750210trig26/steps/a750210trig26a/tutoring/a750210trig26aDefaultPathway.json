@@ -3,8 +3,8 @@
         "id": "a750210trig26a-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Reciprocal Triginometric Identity",
-        "text": "Recall that tanx is equal to $$\\frac{sinx}{cosx}$$",
+        "title": "Reciproka trigonometriska identiteter",
+        "text": "Kom ihåg att tanx är lika med $$\\\\frac{sinx}{cosx}$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -15,8 +15,8 @@
         "dependencies": [
             "a750210trig26a-h1"
         ],
-        "title": "Pythagorean identities",
-        "text": "Recall that $$1$$ + $$tan\\left(x\\right) tan\\left(x\\right)$$ is equal to $$\\operatorname{sec}\\left(x\\right) \\operatorname{sec}\\left(x\\right)$$",
+        "title": "Pythagoreiska identiteter",
+        "text": "Kom ihåg att $$1$$ + $$tan\\\\left(x\\\\right) tan\\\\left(x\\\\right)$$ är lika med $$\\\\operatorname{sec}\\\\left(x\\\\right) \\\\operatorname{sec}\\\\left(x\\\\right)$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -28,7 +28,7 @@
             "a750210trig26a-h2"
         ],
         "title": "Expanding",
-        "text": "It may be helpful to expand $${\\left(1+tan\\left(x\\right)\\right)}^2$$ into $$1+2tan\\left(x\\right)+tan\\left(x\\right) tan\\left(x\\right)$$",
+        "text": "Det kan vara hjälpsamt att utveckla $${\\\\left(1+tan\\\\left(x\\\\right)\\\\right)}^2$$ till $$1+2tan\\\\left(x\\\\right)+tan\\\\left(x\\\\right) tan\\\\left(x\\\\right)$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -44,7 +44,7 @@
         "dependencies": [
             "a750210trig26a-h3"
         ],
-        "title": "Use the above to simplify the following",
+        "title": "Använd ovanstående för att förenkla följande",
         "text": "$$1+2tan\\left(x\\right)+tan\\left(x\\right) tan\\left(x\\right)-2tan\\left(x\\right)$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",

@@ -3,8 +3,8 @@
         "id": "a394625deriv4a-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Breaking down the question",
-        "text": "We can separate the hard functions into $$x^3$$ and $$3sin\\left(x\\right)$$",
+        "title": "Bryta ner frågan",
+        "text": "Vi kan separera de svåra funktionerna i $$x^3$$ och $$3sin\\\\left(x\\\\right)$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -21,7 +21,7 @@
             "a394625deriv4a-h1"
         ],
         "title": "Sub-question",
-        "text": "What's the derivative of $$x^3$$",
+        "text": "Vad är derivatan av $$x^3$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "",
@@ -43,7 +43,7 @@
             "a394625deriv4a-h2"
         ],
         "title": "Sub-question",
-        "text": "What's the derivative of sin(x)",
+        "text": "Vad är derivatan av \\(\\sin(x)\\)?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "",
@@ -59,8 +59,8 @@
         "dependencies": [
             "a394625deriv4a-h3"
         ],
-        "title": "Apply derivatives' rule",
-        "text": "Apply the derivative rule of composed functions to find the final solution",
+        "title": "Tillämpa deriveringsregeln",
+        "text": "Använd derivatans regel för sammansatta funktioner för att hitta den slutliga lösningen.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""

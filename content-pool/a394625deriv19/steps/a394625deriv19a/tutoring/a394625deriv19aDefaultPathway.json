@@ -3,8 +3,8 @@
         "id": "a394625deriv19a-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Breaking down the question",
-        "text": "Write csc(x) as sin(x) and cos(x)",
+        "title": "Bryta ner frågan",
+        "text": "Skriv \\(\\csc(x)\\) som \\(\\sin(x)\\) och \\(\\cos(x)\\)",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -21,7 +21,7 @@
             "a394625deriv19a-h1"
         ],
         "title": "Sub-question",
-        "text": "What's sec(x)?",
+        "text": "Vad är sec(x)?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "",
@@ -43,7 +43,7 @@
             "a394625deriv19a-h2"
         ],
         "title": "Sub-question",
-        "text": "What's the derivative of sin(x)",
+        "text": "Vad är derivatan av \\(\\sin(x)\\)?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "",
@@ -65,7 +65,7 @@
             "a394625deriv19a-h3"
         ],
         "title": "Sub-question",
-        "text": "What's the derivative of $$\\frac{1}sin^$\\left(x\\righ$$",
+        "text": "Vad är derivatan av $$\\\\frac{1}sin^$\\\\left(x\\\\righ$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "",
@@ -81,8 +81,8 @@
         "dependencies": [
             "a394625deriv19a-h4"
         ],
-        "title": "Change Representations",
-        "text": "Change sin and cos to tan and sec",
+        "title": "Byt representationer",
+        "text": "Ändra sin och cos till tan och sec",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""

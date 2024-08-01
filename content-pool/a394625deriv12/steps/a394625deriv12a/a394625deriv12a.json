@@ -4,7 +4,7 @@
         "$$x=\\frac{\\pi}{2}$$"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "For the following exercises, find the equation of the tangent line to each of the given functions at the indicated values of $$x$$.",
+    "stepTitle": "För följande övningar, hitta ekvationen för tangentlinjen till var och en av de givna funktionerna vid de angivna värdena av $$x$$.",
     "stepBody": "$$f(x)=csc(x), x=\\frac{\\pi}{2}$$",
     "answerType": "string",
     "variabilization": {},

@@ -3,8 +3,8 @@
         "id": "a82ea5csubstitution3a-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Choose an Expression",
-        "text": "We know the derivative of cost is -sint, so we set $$u=cost$$. Then $$du=-sindt$$.",
+        "title": "Välj ett uttryck",
+        "text": "Vi vet att derivatan av kostnaden är -sint, så vi sätter $$u=cost$$. Sedan $$du=-sindt$$.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -15,8 +15,8 @@
         "dependencies": [
             "a82ea5csubstitution3a-h1"
         ],
-        "title": "Substitute cost Into the Integral",
-        "text": "Substitute u with cost into the integral.",
+        "title": "Substituera kostnaden i integralen",
+        "text": "Ersätt u med kostnad i integralen.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -27,8 +27,8 @@
         "dependencies": [
             "a82ea5csubstitution3a-h2"
         ],
-        "title": "Evaluate the Integral",
-        "text": "Evaluate the integral.",
+        "title": "Utvärdera integralen",
+        "text": "Utvärdera integralen.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -44,8 +44,8 @@
         "dependencies": [
             "a82ea5csubstitution3a-h3"
         ],
-        "title": "Evaluate the Integral",
-        "text": "What is the result of evaluating the integral?",
+        "title": "Utvärdera integralen",
+        "text": "Vad är resultatet av att beräkna integralen?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "",
@@ -62,8 +62,8 @@
         "dependencies": [
             "a82ea5csubstitution3a-h4"
         ],
-        "title": "Put Answer Back",
-        "text": "Put the answer back in terms of $$t$$.",
+        "title": "Sätt tillbaka svaret",
+        "text": "Skriv svaret i termer av $$t$$.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""

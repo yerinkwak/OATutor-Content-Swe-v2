@@ -3,8 +3,8 @@
         "id": "a3e1067arc13a-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Arc length formula",
-        "text": "Arc Length can be found by computing $$\\int_{a}^{b} \\sqrt{1+{\\operatorname{g'}\\left(y\\right)}^2} \\,dy$$, g'(y) is derivative of g(y) and interval [a,b]",
+        "title": "Formel för båglängd",
+        "text": "Båglängd kan hittas genom att beräkna $$\\\\int_{a}^{b} \\\\sqrt{1+{\\\\operatorname{g'}\\\\left(y\\\\right)}^2} \\\\,dy$$, g'(y) är derivatan av g(y) och intervallet [a,b]",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -15,8 +15,8 @@
         "dependencies": [
             "a3e1067arc13a-h1"
         ],
-        "title": "Find the derivative of f(x)",
-        "text": "We have $$g(y)=x=\\sqrt{y}$$, so $$g'(y)=\\frac{1}{2\\sqrt{y}}$$",
+        "title": "Hitta derivatan av f(x)",
+        "text": "Vi har $$g(y)=x=\\\\sqrt{y}$$, så $$g'(y)=\\\\frac{1}{2\\\\sqrt{y}}$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -27,8 +27,8 @@
         "dependencies": [
             "a3e1067arc13a-h2"
         ],
-        "title": "Plug in",
-        "text": "After we plug g'(y) and interval, we will have Arc $$Length=\\int_{0}^{1} \\sqrt{1+{\\left(\\frac{1}{2\\sqrt{y}}\\right)}^2} \\,dy=\\int_{0}^{1} \\sqrt{1+\\frac{1}{4y}} \\,dy$$",
+        "title": "Sätt in",
+        "text": "Efter att vi har satt in g'(y) och intervallet, kommer vi att ha Arc $$Length=\\\\int_{0}^{1} \\\\sqrt{1+{\\\\left(\\\\frac{1}{2\\\\sqrt{y}}\\\\right)}^2} \\\\,dy=\\\\int_{0}^{1} \\\\sqrt{1+\\\\frac{1}{4y}} \\\\,dy$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -39,8 +39,8 @@
         "dependencies": [
             "a3e1067arc13a-h3"
         ],
-        "title": "Evaluate the integral",
-        "text": "Use a computer, calculator, or another device to solve the integral.",
+        "title": "Utvärdera integralen",
+        "text": "Använd en dator, miniräknare eller annan enhet för att lösa integralen.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""

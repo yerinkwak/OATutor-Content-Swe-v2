@@ -3,8 +3,8 @@
         "id": "a750210trig25a-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Reciprocal Triginometric Identity",
-        "text": "Recall that cscx is equal to $$\\frac{1}{sinx}$$",
+        "title": "Reciproka trigonometriska identiteter",
+        "text": "Kom ihåg att cscx är lika med $$\\\\frac{1}{sinx}$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -15,8 +15,8 @@
         "dependencies": [
             "a750210trig25a-h1"
         ],
-        "title": "Pythagorean identities",
-        "text": "Recall that $$sinx sinx$$ + $$cosx cosx=1$$",
+        "title": "Pythagoreiska identiteter",
+        "text": "Kom ihåg att $$sinx sinx$$ + $$cosx cosx=1$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -32,7 +32,7 @@
         "dependencies": [
             "a750210trig25a-h2"
         ],
-        "title": "Use the above to simplify the following",
+        "title": "Använd ovanstående för att förenkla följande",
         "text": "sin(x)*((1/sin(x)-sin(x))",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",

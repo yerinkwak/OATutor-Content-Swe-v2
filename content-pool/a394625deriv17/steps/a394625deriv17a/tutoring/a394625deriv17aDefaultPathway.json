@@ -3,8 +3,8 @@
         "id": "a394625deriv17a-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Breaking down the question",
-        "text": "Write cot(x) as sin(x) and cos(x)",
+        "title": "Bryta ner frågan",
+        "text": "Skriv \\(\\cot(x)\\) som \\(\\sin(x)\\) och \\(\\cos(x)\\)",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -21,7 +21,7 @@
             "a394625deriv17a-h1"
         ],
         "title": "Sub-question",
-        "text": "What's cot(x)?",
+        "text": "Vad är cot(x)?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "",
@@ -42,7 +42,7 @@
             "a394625deriv17a-h2"
         ],
         "title": "Sub-question",
-        "text": "What's the derivative of sin(x)",
+        "text": "Vad är derivatan av sin(x)",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "",
@@ -64,7 +64,7 @@
             "a394625deriv17a-h3"
         ],
         "title": "Sub-question",
-        "text": "What's the derivative of cos(x)",
+        "text": "Vad är derivatan av cos(x)",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "",
@@ -80,8 +80,8 @@
         "dependencies": [
             "a394625deriv17a-h4"
         ],
-        "title": "Apply derivatives' rule",
-        "text": "Apply the quotient derivative rule of composed functions to find the final solution",
+        "title": "Tillämpa deriveringsregeln",
+        "text": "Använd kvotregeln för derivator av sammansatta funktioner för att hitta den slutliga lösningen.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""

@@ -3,8 +3,8 @@
         "id": "a39b8a0def16c-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Instantaneous Velocity Equation",
-        "text": "Instantaneous velocity at a is given by v(a)=lim{t,a,(s(t)-s(a))/(t-a)}",
+        "title": "Ekvationen för momentan hastighet",
+        "text": "Den momentana hastigheten vid a ges av v(a)=lim{t,a,(s(t)-s(a))/(t-a)}",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -15,8 +15,8 @@
         "dependencies": [
             "a39b8a0def16c-h1"
         ],
-        "title": "Plugging In",
-        "text": "Plug in $$a=2$$ into the instantaneous velocity equation.",
+        "title": "Inkoppling",
+        "text": "Sätt in $$a=2$$ i ekvationen för momentanhastighet.",
         "variabilization": {},
         "oer": "",
         "license": ""

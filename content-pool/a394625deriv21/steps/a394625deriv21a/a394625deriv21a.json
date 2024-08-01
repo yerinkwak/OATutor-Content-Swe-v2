@@ -4,7 +4,7 @@
         "$$-2sin(x)cos(x)$$"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "For the following exercises, find second derivative for the given functions.",
+    "stepTitle": "För följande övningar, hitta andraderivatan för de givna funktionerna.",
     "stepBody": "$$y=sin\\left(x\\right) cos\\left(x\\right)$$",
     "answerType": "string",
     "variabilization": {},

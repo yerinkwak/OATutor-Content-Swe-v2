@@ -4,7 +4,7 @@
         "$$8x$$"
     ],
     "problemType": "TextBox",
-    "stepTitle": "Use the definition of a derivative to find f\u2032(x).",
+    "stepTitle": "Använd definitionen av en derivata för att hitta f′(x).",
     "stepBody": "$$f(x)=4x^2$$",
     "answerType": "arithmetic",
     "variabilization": {},

@@ -3,8 +3,8 @@
         "id": "acf60f3DerivativeFunction9b-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Second derivative",
-        "text": "Use $$f''(x)=\\lim_{h\\to0} \\frac{\\operatorname{f'}\\left(x+h\\right)-\\operatorname{f'}\\left(x\\right)}{h}$$ to find second derivative",
+        "title": "Andraderivata",
+        "text": "Använd $$f''(x)=\\\\lim_{h\\\\to0} \\\\frac{\\\\operatorname{f'}\\\\left(x+h\\\\right)-\\\\operatorname{f'}\\\\left(x\\\\right)}{h}$$ för att hitta andraderivatan",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -15,8 +15,8 @@
         "dependencies": [
             "acf60f3DerivativeFunction9b-h1"
         ],
-        "title": "Derivative function",
-        "text": "We will get $$f''(x)=\\lim_{h\\to0} \\frac{2\\left(x+h\\right)-2x}{h}$$",
+        "title": "Derivatafunktion",
+        "text": "Vi kommer att få $$f''(x)=\\\\lim_{h\\\\to0} \\\\frac{2\\\\left(x+h\\\\right)-2x}{h}$$",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -28,7 +28,7 @@
             "acf60f3DerivativeFunction9b-h2"
         ],
         "title": "Expand",
-        "text": "Expand $$\\frac{2\\left(x+h\\right)-2x}{h}$$ and Simplify",
+        "text": "Expandera $$\\\\frac{2\\\\left(x+h\\\\right)-2x}{h}$$ och förenkla",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -45,7 +45,7 @@
             "acf60f3DerivativeFunction9b-h3"
         ],
         "title": "Simplify",
-        "text": "What will get?",
+        "text": "Vad kommer att få?",
         "variabilization": {},
         "oer": "",
         "license": "",
@@ -61,8 +61,8 @@
         "dependencies": [
             "acf60f3DerivativeFunction9b-h4"
         ],
-        "title": "Evaluate the limit",
-        "text": "To get a final answer, evaluate the limit by inserting h-->0 $$=$$ $$h=0$$",
+        "title": "Utvärdera gränsvärdet",
+        "text": "För att få ett slutgiltigt svar, utvärdera gränsvärdet genom att sätta in \\( h \\rightarrow 0 \\) $$=$$ $$h=0$$",
         "variabilization": {},
         "oer": "",
         "license": ""

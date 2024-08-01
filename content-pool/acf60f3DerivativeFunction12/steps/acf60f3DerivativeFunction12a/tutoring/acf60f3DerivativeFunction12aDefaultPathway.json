@@ -3,8 +3,8 @@
         "id": "acf60f3DerivativeFunction12a-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Derivative function",
-        "text": "Since $$v(t)=s\u2032(t)$$ and $$a(t)=v\u2032(t)=s''(t)$$, we begin by finding the derivative of s(t): $$s'(t)=\\lim_{h\\to0} \\frac{s\\left(t+h\\right)-s\\left(t\\right)}{h}$$",
+        "title": "Deriverad funktion",
+        "text": "Eftersom $$v(t)=s′(t)$$ och $$a(t)=v′(t)=s''(t)$$, börjar vi med att hitta derivatan av s(t): $$s'(t)=\\\\lim_{h\\\\to0} \\\\frac{s\\\\left(t+h\\\\right)-s\\\\left(t\\\\right)}{h}$$",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -15,8 +15,8 @@
         "dependencies": [
             "acf60f3DerivativeFunction12a-h1"
         ],
-        "title": "Derivative function",
-        "text": "We will get $$s'(t)=\\lim_{h\\to0} \\frac{3{\\left(t+h\\right)}^2-4\\left(t+h\\right)+1-3t^2-4t+1}{h}$$",
+        "title": "Derivatafunktion",
+        "text": "Vi kommer att få $$s'(t)=\\\\lim_{h\\\\to0} \\\\frac{3{\\\\left(t+h\\\\right)}^2-4\\\\left(t+h\\\\right)+1-3t^2-4t+1}{h}$$",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -28,7 +28,7 @@
             "acf60f3DerivativeFunction12a-h2"
         ],
         "title": "Expand",
-        "text": "Expand $$\\frac{3{\\left(t+h\\right)}^2-4\\left(t+h\\right)+1-3t^2-4t+1}{h}$$ and Simplify",
+        "text": "Expandera $$\\\\frac{3{\\\\left(t+h\\\\right)}^2-4\\\\left(t+h\\\\right)+1-3t^2-4t+1}{h}$$ och förenkla",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -45,7 +45,7 @@
             "acf60f3DerivativeFunction12a-h3"
         ],
         "title": "Simplify",
-        "text": "What will get?",
+        "text": "Vad kommer att få?",
         "variabilization": {},
         "oer": "",
         "license": "",
@@ -61,8 +61,8 @@
         "dependencies": [
             "acf60f3DerivativeFunction12a-h4"
         ],
-        "title": "Evaluate the limit",
-        "text": "Evaluate the limit by inserting h-->0 $$=$$ $$h=0$$",
+        "title": "Utvärdera gränsvärdet",
+        "text": "Utvärdera gränsvärdet genom att sätta in \\( h \\to 0 \\) $$=$$ $$h=0$$",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -78,8 +78,8 @@
         "dependencies": [
             "acf60f3DerivativeFunction12a-h5"
         ],
-        "title": "Derivative of s(t)",
-        "text": "What is s'(t)?",
+        "title": "Derivatan av s(t)",
+        "text": "Vad är s'(t)?",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -90,8 +90,8 @@
         "dependencies": [
             "acf60f3DerivativeFunction12a-h6"
         ],
-        "title": "Second derivative",
-        "text": "Next, need to find s''(t) from $$s'(t)=6t-4$$",
+        "title": "Andraderivata",
+        "text": "Nästa, behöver vi hitta s''(t) från $$s'(t)=6t-4$$",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -102,8 +102,8 @@
         "dependencies": [
             "acf60f3DerivativeFunction12a-h7"
         ],
-        "title": "Second derivative",
-        "text": "Use $$s''(t)=\\lim_{h\\to0} \\frac{\\operatorname{s'}\\left(t+h\\right)-\\operatorname{s'}\\left(t\\right)}{h}$$ to find second derivative",
+        "title": "Andraderivata",
+        "text": "Använd $$s''(t)=\\\\lim_{h\\\\to0} \\\\frac{\\\\operatorname{s'}\\\\left(t+h\\\\right)-\\\\operatorname{s'}\\\\left(t\\\\right)}{h}$$ för att hitta andraderivatan",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -114,8 +114,8 @@
         "dependencies": [
             "acf60f3DerivativeFunction12a-h8"
         ],
-        "title": "Derivative function",
-        "text": "We will get $$s''(t)=\\lim_{h\\to0} \\frac{6\\left(t+h\\right)-4-6t+4}{h}$$",
+        "title": "Derivatafunktion",
+        "text": "Vi kommer att få $$s''(t)=\\\\lim_{h\\\\to0} \\\\frac{6\\\\left(t+h\\\\right)-4-6t+4}{h}$$",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -127,7 +127,7 @@
             "acf60f3DerivativeFunction12a-h9"
         ],
         "title": "Expand",
-        "text": "Expand $$\\frac{6\\left(t+h\\right)-4-6t+4}{h}$$ and Simplify",
+        "text": "Expandera $$\\\\frac{6\\\\left(t+h\\\\right)-4-6t+4}{h}$$ och förenkla",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -144,7 +144,7 @@
             "acf60f3DerivativeFunction12a-h10"
         ],
         "title": "Simplify",
-        "text": "What will get?",
+        "text": "Vad kommer vi att få?",
         "variabilization": {},
         "oer": "",
         "license": "",
@@ -160,8 +160,8 @@
         "dependencies": [
             "acf60f3DerivativeFunction12a-h11"
         ],
-        "title": "Evaluate the limit",
-        "text": "To get a final answer, evaluate the limit by inserting h-->0 $$=$$ $$h=0$$",
+        "title": "Utvärdera gränsvärdet",
+        "text": "För att få ett slutgiltigt svar, beräkna gränsvärdet genom att sätta in \\( h \\to 0 \\) $$=$$ $$h=0$$",
         "variabilization": {},
         "oer": "",
         "license": ""

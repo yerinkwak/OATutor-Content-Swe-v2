@@ -3,8 +3,8 @@
         "id": "acf60f3DerivativeFunction7a-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Derivative function",
-        "text": "Start directly with the definition of the derivative function. $$f\u2032(x)=\\lim_{h\\to0} \\frac{f{\\left(x+h\\right)}-f{\\left(x\\right)}}{h}$$",
+        "title": "Derivatafunktion",
+        "text": "Börja direkt med definitionen av derivatafunktionen. I logik används ofta en uppsättning symboler för att uttrycka logisk representation.",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -15,8 +15,8 @@
         "dependencies": [
             "acf60f3DerivativeFunction7a-h1"
         ],
-        "title": "Derivative function",
-        "text": "We will get $$f'(x)=\\lim_{h\\to0} \\frac{\\frac{9}{x+h}-\\frac{9}{x}}{h}$$",
+        "title": "Derivatafunktion",
+        "text": "Vi kommer att få $$f'(x)=\\\\lim_{h\\\\to0} \\\\frac{\\\\frac{9}{x+h}-\\\\frac{9}{x}}{h}$$",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -32,8 +32,8 @@
         "dependencies": [
             "acf60f3DerivativeFunction7a-h2"
         ],
-        "title": "Simplify numerator",
-        "text": "What is the simplified numerator $$\\frac{9}{x+h}-\\frac{9}{x}$$?",
+        "title": "Förenkla täljaren",
+        "text": "Vad är den förenklade täljaren $$\\\\frac{9}{x+h}-\\\\frac{9}{x}$$?",
         "variabilization": {},
         "oer": "",
         "license": "",
@@ -61,7 +61,7 @@
             "acf60f3DerivativeFunction7a-h4"
         ],
         "title": "Simplify",
-        "text": "Cancel the common factor $$h$$",
+        "text": "Strunta i den gemensamma faktorn $$h$$",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -78,7 +78,7 @@
             "acf60f3DerivativeFunction7a-h5"
         ],
         "title": "Simplify",
-        "text": "What will get ?",
+        "text": "Vad kommer att få?",
         "variabilization": {},
         "oer": "",
         "license": "",
@@ -94,8 +94,8 @@
         "dependencies": [
             "acf60f3DerivativeFunction7a-h6"
         ],
-        "title": "Evaluate the limit",
-        "text": "To get a final answer, evaluate the limit by inserting h-->0 $$=$$ $$h=0$$",
+        "title": "Utvärdera gränsvärdet",
+        "text": "För att få ett slutgiltigt svar, utvärdera gränsvärdet genom att sätta in \\( h \\to 0 \\) $$=$$ $$h=0$$",
         "variabilization": {},
         "oer": "",
         "license": ""

@@ -3,8 +3,8 @@
         "id": "a3e1067arc11a-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Arc length formula",
-        "text": "Arc Length can be found by computing $$\\int_{a}^{b} \\sqrt{1+{\\operatorname{g'}\\left(y\\right)}^2} \\,dy$$, g'(y) is derivative of g(y) and interval [a,b]",
+        "title": "Formel för båglängd",
+        "text": "Båglängd kan hittas genom att beräkna $$\\\\int_{a}^{b} \\\\sqrt{1+{\\\\operatorname{g'}\\\\left(y\\\\right)}^2} \\\\,dy$$, g'(y) är derivatan av g(y) och intervallet [a,b]",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -15,8 +15,8 @@
         "dependencies": [
             "a3e1067arc11a-h1"
         ],
-        "title": "Find the derivative of g(y)",
-        "text": "We have $$g(y)=x=4y$$, so $$g'(y)=4$$",
+        "title": "Hitta derivatan av g(y)",
+        "text": "Vi har $$g(y)=x=4y$$, så $$g'(y)=4$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -27,8 +27,8 @@
         "dependencies": [
             "a3e1067arc11a-h2"
         ],
-        "title": "Plug in",
-        "text": "After we plug g'(y) and interval, we will have Arc $$Length=\\int_{-1}^{1} \\sqrt{1+4^2} \\,dy=\\int_{-1}^{1} \\sqrt{17} \\,dy$$",
+        "title": "Sätt in",
+        "text": "Efter att vi har satt in g'(y) och intervallet, kommer vi att ha Arc $$Length=\\\\int_{-1}^{1} \\\\sqrt{1+4^2} \\\\,dy=\\\\int_{-1}^{1} \\\\sqrt{17} \\\\,dy$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -39,8 +39,8 @@
         "dependencies": [
             "a3e1067arc11a-h3"
         ],
-        "title": "Evaluate the integral",
-        "text": "We can take $$\\sqrt{17}$$ out of integral, which gives us Arc $$Length=\\sqrt{17}$$ times $$y$$ with limit from $$-1$$ to $$1$$",
+        "title": "Utvärdera integralen",
+        "text": "Vi kan ta $$\\\\sqrt{17}$$ ut ur integralen, vilket ger oss Arc $$Length=\\\\sqrt{17}$$ gånger $$y$$ med gräns från $$-1$$ till $$1$$.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -56,8 +56,8 @@
         "dependencies": [
             "a3e1067arc11a-h4"
         ],
-        "title": "Evaluate the integral",
-        "text": "What is $$\\sqrt{17} \\left(1-\\left(-1\\right)\\right)$$?",
+        "title": "Utvärdera integralen",
+        "text": "Vad är $$\\\\sqrt{17} \\\\left(1-\\\\left(-1\\\\right)\\\\right)$$?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""

@@ -3,8 +3,8 @@
         "id": "a394625deriv12a-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Breaking down the question",
-        "text": "Find the derivative value and that will be the slope",
+        "title": "Bryta ner frågan",
+        "text": "Hitta derivatans värde och det kommer att vara lutningen",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -21,7 +21,7 @@
             "a394625deriv12a-h1"
         ],
         "title": "Sub-question",
-        "text": "What's the derivative of csc(x)",
+        "text": "Vad är derivatan av csc(x)",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "",
@@ -43,7 +43,7 @@
             "a394625deriv12a-h2"
         ],
         "title": "Sub-question",
-        "text": "What's the derivative value at $$x$$",
+        "text": "Vad är derivatans värde vid $$x$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "",
@@ -64,7 +64,7 @@
             "a394625deriv12a-h3"
         ],
         "title": "Sub-question",
-        "text": "What's the function value at $$x$$?",
+        "text": "Vad är funktionsvärdet vid $$x$$?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -75,8 +75,8 @@
         "dependencies": [
             "a394625deriv12a-h4"
         ],
-        "title": "One fixed point and determined slope determines the line",
-        "text": "We got the line passed the tangent point and we got its slope to be the derivative value, so we can determine the line",
+        "title": "En fast punkt och bestämd lutning bestämmer linjen",
+        "text": "Vi fick linjen att passera tangeringspunkten och vi fick dess lutning att vara derivatans värde, så vi kan bestämma linjen.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""

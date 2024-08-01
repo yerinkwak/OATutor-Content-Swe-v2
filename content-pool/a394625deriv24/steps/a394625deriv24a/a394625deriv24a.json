@@ -4,7 +4,7 @@
         "$$5cos\\left(x\\right)$$"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "For the following exercises, find second derivative for the given functions.",
+    "stepTitle": "För följande övningar, hitta andraderivatan för de givna funktionerna.",
     "stepBody": "$$y=5cos\\left(x\\right)$$, 4th derivative",
     "answerType": "string",
     "variabilization": {},

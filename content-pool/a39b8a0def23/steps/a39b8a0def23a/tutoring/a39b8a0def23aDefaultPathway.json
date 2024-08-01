@@ -3,8 +3,8 @@
         "id": "a39b8a0def23a-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Graphing a Function",
-        "text": "Use a graphing calculator to graph f(x). Then use the ZOOM function to approximate values of a.",
+        "title": "Rita en funktion",
+        "text": "Använd en grafräknare för att rita f(x). Använd sedan ZOOM-funktionen för att approximera värdena på a.",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -13,8 +13,8 @@
         "id": "a39b8a0def23a-h2",
         "type": "hint",
         "dependencies": [],
-        "title": "Zero Derivative",
-        "text": "When a tangent line at some $$x$$ on the f(x) is horizontal, $$f'(x)=0$$.",
+        "title": "Noll Derivata",
+        "text": "När en tangentlinje vid någon $$x$$ på f(x) är horisontell, $$f'(x)=0$$.",
         "variabilization": {},
         "oer": "",
         "license": ""

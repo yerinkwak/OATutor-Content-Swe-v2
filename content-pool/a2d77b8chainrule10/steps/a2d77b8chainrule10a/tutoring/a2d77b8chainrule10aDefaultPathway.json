@@ -3,8 +3,8 @@
         "id": "a2d77b8chainrule10a-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "The Chain Rule",
-        "text": "Remember, the chain rule in Leibniz's notation tells us that $$\\frac{dy}{dx}=\\frac{dy}{du} \\frac{du}{dx}$$",
+        "title": "Kedjeregeln",
+        "text": "Kom ihåg, kedjeregeln i Leibniz notation säger oss att $$\\\\frac{dy}{dx}=\\\\frac{dy}{du} \\\\frac{du}{dx}$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
@@ -15,8 +15,8 @@
         "dependencies": [
             "a2d77b8chainrule10a-h1"
         ],
-        "title": "Decompose the Function",
-        "text": "First we need to decompose our function $$y$$ into the form $$y=f(u)$$ and $$u=g(x)$$, try finding what f(u) and g(x) should be in this case!",
+        "title": "Dekomponera funktionen",
+        "text": "Först behöver vi dela upp vår funktion $$y$$ i formen $$y=f(u)$$ och $$u=g(x)$$, försök att hitta vad f(u) och g(x) ska vara i detta fall!",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
@@ -32,8 +32,8 @@
         "dependencies": [
             "a2d77b8chainrule10a-h2"
         ],
-        "title": "Find f(u)",
-        "text": "What is f(u)?",
+        "title": "Hitta f(u)",
+        "text": "Vad är f(u)?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
@@ -55,8 +55,8 @@
         "dependencies": [
             "a2d77b8chainrule10a-h3"
         ],
-        "title": "Find g(x)",
-        "text": "What is g(x)?",
+        "title": "Hitta g(x)",
+        "text": "Vad är g(x)?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
@@ -73,8 +73,8 @@
         "dependencies": [
             "a2d77b8chainrule10a-h4"
         ],
-        "title": "Find the Derivative",
-        "text": "Next, we take the derivative of f(u) in terms of u, $$\\frac{dy}{du}$$, and the derivative of g(x) in terms of $$x$$, $$\\frac{du}{dx}$$. Multiplying these two expressions together yields our final answer, dy/dx!",
+        "title": "Hitta derivatan",
+        "text": "Nästa tar vi derivatan av f(u) med avseende på u, $$\\\\frac{dy}{du}$$, och derivatan av g(x) med avseende på $$x$$, $$\\\\frac{du}{dx}$$. Att multiplicera dessa två uttryck tillsammans ger vårt slutgiltiga svar, dy/dx!",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
@@ -90,8 +90,8 @@
         "dependencies": [
             "a2d77b8chainrule10a-h5"
         ],
-        "title": "Find $$\\frac{dy}{du}$$",
-        "text": "What is $$\\frac{dy}{du}$$?",
+        "title": "Hitta $$\\\\frac{dy}{du}$$",
+        "text": "Vad är $$\\\\frac{dy}{du}$$?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
@@ -113,8 +113,8 @@
         "dependencies": [
             "a2d77b8chainrule10a-h6"
         ],
-        "title": "Find $$\\frac{du}{dx}$$",
-        "text": "What is $$\\frac{du}{dx}$$?",
+        "title": "Hitta $$\\\\frac{du}{dx}$$",
+        "text": "Vad är $$\\\\frac{du}{dx}$$?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
@@ -131,8 +131,8 @@
         "dependencies": [
             "a2d77b8chainrule10a-h7"
         ],
-        "title": "Plug in",
-        "text": "Finally, we only need to multiply these two expressions to find our final answer. Don't forget to plug in what we have for u in terms of $$x$$ into our final answer!",
+        "title": "Ange",
+        "text": "Slutligen behöver vi bara multiplicera dessa två uttryck för att hitta vårt slutgiltiga svar. Glöm inte att sätta in vad vi har för u i termer av $$x$$ i vårt slutgiltiga svar!",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"

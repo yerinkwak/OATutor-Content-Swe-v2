@@ -3,8 +3,8 @@
         "id": "a394625deriv3a-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Breaking down the question",
-        "text": "We can separate the functions into $$x^2$$ and cot(x)",
+        "title": "Bryta ner frågan",
+        "text": "Vi kan separera funktionerna i $$x^2$$ och cot(x)",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -21,7 +21,7 @@
             "a394625deriv3a-h1"
         ],
         "title": "Sub-question",
-        "text": "What's the derivative of $$x^2$$",
+        "text": "Vad är derivatan av $$x^2$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "",
@@ -43,7 +43,7 @@
             "a394625deriv3a-h2"
         ],
         "title": "Sub-question",
-        "text": "What's the derivative of cot(x)",
+        "text": "Vad är derivatan av cot(x)",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "",
@@ -59,8 +59,8 @@
         "dependencies": [
             "a394625deriv3a-h3"
         ],
-        "title": "Apply derivatives' rule",
-        "text": "Apply the derivative rule of composed functions to find the final solution",
+        "title": "Tillämpa deriveringsregeln",
+        "text": "Tillämpa deriveringsregeln för sammansatta funktioner för att hitta den slutliga lösningen",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""

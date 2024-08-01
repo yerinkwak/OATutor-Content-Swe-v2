@@ -3,8 +3,8 @@
         "id": "a1cc0dcareas8a-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Find the limits",
-        "text": "In order to set up the definite integrals of the $$2$$ functions, we have to find the limits where they intersect by setting them equal to each other and solve for $$y$$.",
+        "title": "Hitta gränsvärdena",
+        "text": "För att ställa upp de bestämda integralerna av $$2$$-funktionerna måste vi hitta gränserna där de skär varandra genom att sätta dem lika och lösa för $$y$$.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -15,8 +15,8 @@
         "dependencies": [
             "a1cc0dcareas8a-h1"
         ],
-        "title": "Find the limits",
-        "text": "$$y^2=9$$ then $$y=-3$$ and $$y=3$$.",
+        "title": "Hitta gränsvärdena",
+        "text": "$$y^2=9$$ sedan $$y=-3$$ och $$y=3$$.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -27,8 +27,8 @@
         "dependencies": [
             "a1cc0dcareas8a-h2"
         ],
-        "title": "Define the right graph",
-        "text": "The area of A is given by $$\\int_{c}^{d} |u\\left(y\\right)-v\\left(y\\right)| \\,dy$$, as u(y) is an upper graph and v(y)is the lower one.",
+        "title": "Definiera den högra grafen",
+        "text": "Arean av A ges av $$\\\\int_{c}^{d} |u\\\\left(y\\\\right)-v\\\\left(y\\\\right)| \\\\,dy$$, eftersom u(y) är en övre graf och v(y) är den nedre.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -44,8 +44,8 @@
         "dependencies": [
             "a1cc0dcareas8a-h3"
         ],
-        "title": "Define the right graph",
-        "text": "What is the right graph in this problem?",
+        "title": "Definiera den högra grafen",
+        "text": "Vilken är den rätta grafen i detta problem?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "",
@@ -60,7 +60,7 @@
         "dependencies": [
             "a1cc0dcareas8a-h4"
         ],
-        "title": "Set up the integral",
+        "title": "Ställ upp integralen",
         "text": "$$\\int_{-3}^{3} 9-y^2 \\,dy$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
@@ -72,7 +72,7 @@
         "dependencies": [
             "a1cc0dcareas8a-h5"
         ],
-        "title": "Compute the integral",
+        "title": "Beräkna integralen",
         "text": "$$9y-\\frac{y^3}{3}$$ as the limits go from $$y=-3$$ to $$y=3$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",

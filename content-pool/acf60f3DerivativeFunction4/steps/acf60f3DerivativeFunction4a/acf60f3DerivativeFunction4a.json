@@ -4,7 +4,7 @@
         "$$-3$$"
     ],
     "problemType": "TextBox",
-    "stepTitle": "Use the definition of a derivative to find f\u2032(x).",
+    "stepTitle": "Använd definitionen av en derivata för att hitta f′(x).",
     "stepBody": "$$f(x)=2-3x$$",
     "answerType": "arithmetic",
     "variabilization": {},

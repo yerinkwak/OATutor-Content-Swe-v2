@@ -3,8 +3,8 @@
         "id": "ab2ed79implicit22a-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Sides of a Box",
-        "text": "A rectangular box has six sides. The base is square, and there are $$4$$ rectangles that create the sides of the box.",
+        "title": "Sidor av en låda",
+        "text": "En rektangulär låda har sex sidor. Basen är kvadratisk, och det finns $$4$$ rektanglar som skapar sidorna av lådan.",
         "variabilization": {},
         "oer": "",
         "license": ""

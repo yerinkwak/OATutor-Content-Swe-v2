@@ -4,7 +4,7 @@
         "DNE"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "f(x) is $$1$$ when $$x<1$$, and $$x$$ when $$x \\geq 1$$. What is the derivative for f(x) when at $$x=1$$?",
+    "stepTitle": "f(x) är $$1$$ när $$x<1$$, och $$x$$ när $$x \\\\geq 1$$. Vad är derivatan för f(x) vid $$x=1$$?",
     "stepBody": "",
     "answerType": "string",
     "variabilization": {},

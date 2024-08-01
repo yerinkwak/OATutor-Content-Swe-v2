@@ -3,8 +3,8 @@
         "id": "a394625deriv24a-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Breaking down the question",
-        "text": "Do the first derivative and then derive that three more times",
+        "title": "Bryta ner frågan",
+        "text": "Gör den första derivatan och derivera sedan den tre gånger till.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -21,7 +21,7 @@
             "a394625deriv24a-h1"
         ],
         "title": "Sub-question",
-        "text": "What's first derivative?",
+        "text": "Vad är den första derivatan?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "",
@@ -44,7 +44,7 @@
             "a394625deriv24a-h2"
         ],
         "title": "Sub-question",
-        "text": "What's the derivative of first derivative",
+        "text": "Vad är derivatan av första derivatan?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "",
@@ -67,7 +67,7 @@
             "a394625deriv24a-h1"
         ],
         "title": "Sub-question",
-        "text": "What's the derivative of second derivative?",
+        "text": "Vad är derivatan av andraderivatan?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "",
@@ -90,7 +90,7 @@
             "a394625deriv24a-h1"
         ],
         "title": "Sub-question",
-        "text": "What's the derivative of the third derivative?",
+        "text": "Vad är derivatan av den tredje derivatan?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "",
@@ -107,8 +107,8 @@
         "dependencies": [
             "a394625deriv24a-h3"
         ],
-        "title": "The derivative of the $$n-1th$$ derivative is the nth derivative",
-        "text": "Conclude your answer from sub-questions",
+        "title": "Derivatan av $$n-1th$$ derivatan är den n:te derivatan",
+        "text": "Dra din slutsats från deluppgifterna.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""

@@ -3,8 +3,8 @@
         "id": "a961302definite12a-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Set Up Integrals",
-        "text": "Set up three definite integrals. Since all triangles are above the x-axis, we are adding them up together. The integrands are already provided for you on the graph. Be sure to use the correct intervals.",
+        "title": "Ställa upp integraler",
+        "text": "Ställ upp tre bestämda integraler. Eftersom alla trianglar är ovanför x-axeln, adderar vi dem tillsammans. Integranderna är redan angivna för dig på grafen. Se till att använda rätt intervall.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -18,8 +18,8 @@
             "$$14$$"
         ],
         "dependencies": [],
-        "title": "Evaluate the Integrals",
-        "text": "Evaluate the definite integrals you set up.",
+        "title": "Utvärdera integralerna",
+        "text": "Utvärdera de bestämda integralerna du har ställt upp.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "",
@@ -33,8 +33,8 @@
                     "$$14$$"
                 ],
                 "dependencies": [],
-                "title": "Evaluate the Integrals",
-                "text": "What is $$1+2\\times2+3\\times3$$?",
+                "title": "Utvärdera integralerna",
+                "text": "Vad är $$1+2\\\\times2+3\\\\times3$$?",
                 "variabilization": {},
                 "oer": "https://OATutor.io <OATutor>",
                 "license": ""

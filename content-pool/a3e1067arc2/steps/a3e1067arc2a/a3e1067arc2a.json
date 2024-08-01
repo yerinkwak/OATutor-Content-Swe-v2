@@ -4,7 +4,7 @@
         "$$1.657$$"
     ],
     "problemType": "TextBox",
-    "stepTitle": "Let $$f(x)=\\frac{4}{3} x^{\\frac{3}{2}}$$. Calculate the arc length of the graph of f(x) over the interval [0,1]. Round the answer to three decimal places.",
+    "stepTitle": "Låt $$f(x)=\\\\frac{4}{3} x^{\\\\frac{3}{2}}$$. Beräkna båglängden av grafen för f(x) över intervallet [0,1]. Avrunda svaret till tre decimaler.",
     "stepBody": "",
     "answerType": "arithmetic",
     "variabilization": {},

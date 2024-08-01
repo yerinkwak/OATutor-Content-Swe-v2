@@ -4,7 +4,7 @@
         "$$3$$"
     ],
     "problemType": "TextBox",
-    "stepTitle": "Find the slope of the tangent line $$m=f'(a)$$, where $$f(x)=x^2+x$$ and $$a=1$$",
+    "stepTitle": "Hitta lutningen på tangentlinjen $$m=f'(a)$$, där $$f(x)=x^2+x$$ och $$a=1$$",
     "stepBody": "",
     "answerType": "arithmetic",
     "variabilization": {},

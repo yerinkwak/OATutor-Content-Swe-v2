@@ -4,7 +4,7 @@
         "$$\\frac{x}{30}$$"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "Suppose that N(x) computes the number of gallons of gas used by a vehicle traveling $$x$$ miles. Suppose the vehicle gets $$30$$ mpg. What is a mathematical expression for N(x)?",
+    "stepTitle": "Antag att N(x) beräknar antalet gallon bensin som används av ett fordon som färdas $$x$$ miles. Antag att fordonet får $$30$$ mpg. Vad är ett matematiskt uttryck för N(x)?",
     "stepBody": "",
     "answerType": "string",
     "variabilization": {},

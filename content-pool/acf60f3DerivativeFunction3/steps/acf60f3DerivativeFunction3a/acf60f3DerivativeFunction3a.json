@@ -4,7 +4,7 @@
         "$$2x$$"
     ],
     "problemType": "TextBox",
-    "stepTitle": "Find the derivative of $$f(x)=x^2$$.",
+    "stepTitle": "Hitta derivatan av $$f(x)=x^2$$.",
     "stepBody": "",
     "answerType": "arithmetic",
     "variabilization": {},

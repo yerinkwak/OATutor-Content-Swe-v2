@@ -4,7 +4,7 @@
         "$$\\frac{1}{2} \\sqrt{x}$$"
     ],
     "problemType": "TextBox",
-    "stepTitle": "Find the derivative of $$f(x)=\\sqrt{x}$$",
+    "stepTitle": "Hitta derivatan av $$f(x)=\\\\sqrt{x}$$",
     "stepBody": "",
     "answerType": "arithmetic",
     "variabilization": {},

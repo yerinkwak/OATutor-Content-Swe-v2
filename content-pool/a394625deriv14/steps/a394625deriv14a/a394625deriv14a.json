@@ -4,7 +4,7 @@
         "$$y=\\sqrt{2} x-\\frac{\\sqrt{2} \\pi-4\\sqrt{2}}{4}$$"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "For the following exercises, find the equation of the tangent line to each of the given functions at the indicated values of $$x$$.",
+    "stepTitle": "För följande övningar, hitta ekvationen för tangentlinjen till var och en av de givna funktionerna vid de angivna värdena av $$x$$.",
     "stepBody": "$$f(x)=sec(x), x=\\frac{\\pi}{4}$$",
     "answerType": "string",
     "variabilization": {},

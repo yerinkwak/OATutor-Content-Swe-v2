@@ -3,8 +3,8 @@
         "id": "a39b8a0def12a-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Derivative Equation",
-        "text": "The derivative of the function f(x) at a is defined by /lim{x,a}(f(x)-f(a))/(x-a).",
+        "title": "Derivataekvation",
+        "text": "Derivatan av funktionen f(x) vid a definieras som \\lim_{x \\to a} \\frac{{f(x) - f(a)}}{{x - a}}.",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -15,8 +15,8 @@
         "dependencies": [
             "a39b8a0def12a-h1"
         ],
-        "title": "Plugging In",
-        "text": "Plug $$2$$ into a and expand the equation.",
+        "title": "Att sätta in",
+        "text": "Sätt in $$2$$ i a och utveckla ekvationen.",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -28,7 +28,7 @@
             "a39b8a0def12a-h2"
         ],
         "title": "Simplify",
-        "text": "Simplify the resulting equation: $$\\frac{x^2+9x-2^2+9\\times2}{x-2}$$",
+        "text": "Förenkla den resulterande ekvationen: $$\\\\frac{x^2+9x-2^2+9\\\\times2}{x-2}$$",
         "variabilization": {},
         "oer": "",
         "license": ""

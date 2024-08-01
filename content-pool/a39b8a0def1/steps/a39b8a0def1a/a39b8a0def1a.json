@@ -4,7 +4,7 @@
         "$$4$$"
     ],
     "problemType": "TextBox",
-    "stepTitle": "Find the slope of the secant line between the values $$x_1$$ and $$x_2$$ for $$f(x)=4x+7$$, where $$x_1=2$$ and $$x_2=5$$.",
+    "stepTitle": "Hitta lutningen på sekantlinjen mellan värdena $$x_1$$ och $$x_2$$ för $$f(x)=4x+7$$, där $$x_1=2$$ och $$x_2=5$$.",
     "stepBody": "",
     "answerType": "arithmetic",
     "variabilization": {},

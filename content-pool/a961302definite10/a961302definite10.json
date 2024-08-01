@@ -1,10 +1,10 @@
 {
     "id": "a961302definite10",
-    "title": "Expressing Limits as Definite Integrals",
-    "body": "Express the right limit as $$n$$ approaches infinity as definite integrals, identifying the correct intervals.",
+    "title": "Att uttrycka gränsvärden som bestämda integraler",
+    "body": "Uttryck högergränsen när $$n$$ går mot oändligheten som bestämda integraler och identifiera de korrekta intervallen.",
     "variabilization": {},
     "oer": "https://openstax.org/details/books/calculus-volume-1 <OpenStax: Calculus Volume 1>",
     "license": 0.0,
-    "lesson": "5.2 The Definite Integral",
+    "lesson": "5.2 Den bestämda integralen",
     "courseName": "OpenStax: Calculus Volume 1"
 }

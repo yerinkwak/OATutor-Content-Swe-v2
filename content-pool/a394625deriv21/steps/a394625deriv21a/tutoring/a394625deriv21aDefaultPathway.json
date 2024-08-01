@@ -3,8 +3,8 @@
         "id": "a394625deriv21a-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Breaking down the question",
-        "text": "Do the first derivative and then derive that one more time",
+        "title": "Bryta ner frågan",
+        "text": "Gör den första derivatan och derivera sedan den en gång till.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -21,7 +21,7 @@
             "a394625deriv21a-h1"
         ],
         "title": "Sub-question",
-        "text": "What's first derivative?",
+        "text": "Vad är första derivatan?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "",
@@ -43,7 +43,7 @@
             "a394625deriv21a-h2"
         ],
         "title": "Sub-question",
-        "text": "What's the derivative of first derivative",
+        "text": "Vad är derivatan av första derivatan?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "",
@@ -59,8 +59,8 @@
         "dependencies": [
             "a394625deriv21a-h3"
         ],
-        "title": "The derivative of the first derivative is the second derivative",
-        "text": "Conclude your answer from sub-questions",
+        "title": "Derivatan av den första derivatan är den andra derivatan.",
+        "text": "Dra din slutsats från deluppgifterna.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""

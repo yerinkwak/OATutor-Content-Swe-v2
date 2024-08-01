@@ -3,8 +3,8 @@
         "id": "a1cc0dcareas2a-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Determine the limits of integration",
-        "text": "You'll need to find the x-values where the two curves intersect by setting the given $$2$$ functions equal to each other $$f(x)=g(x)$$",
+        "title": "Bestäm integrationsgränserna",
+        "text": "Du behöver hitta x-värdena där de två kurvorna skär varandra genom att sätta de givna $$2$$ funktionerna lika med varandra $$f(x)=g(x)$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -18,8 +18,8 @@
             "$$[-2,6]$$"
         ],
         "dependencies": [],
-        "title": "Determine the limits of integration",
-        "text": "What are the limits of integration?",
+        "title": "Bestäm integrationsgränserna",
+        "text": "Vilka är integrationsgränserna?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "",
@@ -33,8 +33,8 @@
         "id": "a1cc0dcareas2a-s1",
         "type": "hint",
         "dependencies": [],
-        "title": "Determine the limits of integration",
-        "text": "As $$f(x)=g(x)$$, we then have $$9-{\\left(\\frac{x}{2}\\right)}^2=6-x$$",
+        "title": "Bestäm integrationsgränserna",
+        "text": "Som $$f(x)=g(x)$$ har vi då $$9-{\\\\left(\\\\frac{x}{2}\\\\right)}^2=6-x$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -43,8 +43,8 @@
         "id": "a1cc0dcareas2a-s2",
         "type": "hint",
         "dependencies": [],
-        "title": "Solve for $$x$$",
-        "text": "$$9-\\frac{x}{4}=6-x$$ then $$\\left(x-6\\right) \\left(x+2\\right)=0$$. The graphs of functions intersect when $$x=6$$ and $$x=-2$$ so we want to integrate from $$-2$$ to $$6$$.",
+        "title": "Lös för $$x$$",
+        "text": "$$9-\\\\frac{x}{4}=6-x$$ sedan $$\\\\left(x-6\\\\right) \\\\left(x+2\\\\right)=0$$. Graferna av funktionerna skär varandra när $$x=6$$ och $$x=-2$$ så vi vill integrera från $$-2$$ till $$6$$.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -55,7 +55,7 @@
         "dependencies": [
             "a1cc0dcareas2a-h2"
         ],
-        "title": "Set up the integral",
+        "title": "Ställ upp integralen",
         "text": "$$\\int_{-2}^{6} 9-{\\left(\\frac{x}{2}\\right)}^2-6-x \\,dx=\\int_{-2}^{6} 3-\\frac{x^2}{4}+x \\,dx$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
@@ -80,7 +80,7 @@
             "a1cc0dcareas2a-h4"
         ],
         "title": "Conclusion",
-        "text": "The area of the region is $$\\frac{64}{3}$$ $${unit}^2$$",
+        "text": "Arean av området är $$\\\\frac{64}{3}$$ $${unit}^2$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""

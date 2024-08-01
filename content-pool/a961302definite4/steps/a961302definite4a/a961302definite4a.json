@@ -4,7 +4,7 @@
         "$$10$$"
     ],
     "problemType": "TextBox",
-    "stepTitle": "Find the total area between $$f(x)=x-2$$ and the x-axis over the interval [0, 6].",
+    "stepTitle": "Hitta den totala arean mellan $$f(x)=x-2$$ och x-axeln över intervallet [0, 6].",
     "stepBody": "",
     "answerType": "arithmetic",
     "variabilization": {},

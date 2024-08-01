@@ -4,7 +4,7 @@
         "$$c=85$$"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "For the following exercises, consider triangle ABC, a right triangle with a right angle at C. $$a=84$$, $$b=13$$. Find the missing side of the triangle.",
+    "stepTitle": "För följande övningar, betrakta triangel ABC, en rätvinklig triangel med en rät vinkel vid C. $$a=84$$, $$b=13$$. Hitta triangelns saknade sida.",
     "stepBody": "For this step round to $$1$$ decimal place",
     "answerType": "string",
     "variabilization": {},

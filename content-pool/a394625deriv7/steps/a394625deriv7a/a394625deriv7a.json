@@ -4,7 +4,7 @@
         "$$\\left(1-sin\\left(x\\right)\\right) \\left(x-sin\\left(x\\right)-cos\\left(x\\right)\\right)$$"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "For the following exercises, find $$\\frac{dy}{dx}$$ for the given functions.",
+    "stepTitle": "För följande övningar, hitta $$\\\\frac{dy}{dx}$$ för de givna funktionerna.",
     "stepBody": "$$y=\\left(x+cos\\left(x\\right)\\right) \\left(1-sin\\left(x\\right)\\right)$$",
     "answerType": "string",
     "variabilization": {},

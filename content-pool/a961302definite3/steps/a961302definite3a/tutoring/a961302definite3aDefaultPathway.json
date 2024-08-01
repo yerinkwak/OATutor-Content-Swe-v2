@@ -3,8 +3,8 @@
         "id": "a961302definite3a-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Find the Area of Triangle $$A_1$$",
-        "text": "According to the figure, the function produces a straight line that forms two triangles $$A_1$$ and $$A_2$$. Use the geometric formula for the area of the triangle, $$A=\\frac{1}{2} b h$$, to find the area of triangle $$A_1$$ above the axis.",
+        "title": "Hitta arean av triangel $$A_1$$",
+        "text": "Enligt figuren producerar funktionen en rät linje som bildar två trianglar $$A_1$$ och $$A_2$$. Använd den geometriska formeln för triangelns area, $$A=\\\\frac{1}{2} b h$$, för att hitta arean av triangel $$A_1$$ ovanför axeln.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -20,8 +20,8 @@
         "dependencies": [
             "a961302definite3a-h1"
         ],
-        "title": "Find the Area of Triangle $$A_1$$",
-        "text": "What is the area of triangle $$A_1$$?",
+        "title": "Hitta arean av triangel $$A_1$$",
+        "text": "Vad är arean av triangel $$A_1$$?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "",
@@ -35,8 +35,8 @@
                     "$$9$$"
                 ],
                 "dependencies": [],
-                "title": "Find the Area of Triangle $$A_1$$",
-                "text": "What is $$A=\\frac{1}{2} b h$$ if $$3$$ is the base and $$6$$ is the height?",
+                "title": "Hitta arean av triangel $$A_1$$",
+                "text": "Vad är $$A=\\\\frac{1}{2} b h$$ om $$3$$ är basen och $$6$$ är höjden?",
                 "variabilization": {},
                 "oer": "https://OATutor.io <OATutor>",
                 "license": ""
@@ -49,8 +49,8 @@
         "dependencies": [
             "a961302definite3a-h2"
         ],
-        "title": "Find the Area of Triangle $$A_2$$",
-        "text": "Use the geometric formula for the area of the triangle, $$A=\\frac{1}{2} b h$$, to find the area of triangle $$A_2$$, below the axis.",
+        "title": "Hitta arean av triangel $$A_2$$",
+        "text": "Använd den geometriska formeln för triangelns area, $$A=\\\\frac{1}{2} b h$$, för att hitta arean av triangel $$A_2$$, under axeln.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -66,8 +66,8 @@
         "dependencies": [
             "a961302definite3a-h3"
         ],
-        "title": "Find the Area of Triangle $$A_2$$",
-        "text": "What is the area of triangle $$A_2$$?",
+        "title": "Hitta arean av triangel $$A_2$$",
+        "text": "Vad är arean av triangel $$A_2$$?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "",
@@ -81,8 +81,8 @@
                     "$$9$$"
                 ],
                 "dependencies": [],
-                "title": "Find the Area of Triangle $$A_2$$",
-                "text": "What is $$A=\\frac{1}{2} b h$$ if $$3$$ is the base and $$6$$ is the height?",
+                "title": "Hitta arean av triangel $$A_2$$",
+                "text": "Vad är $$A=\\\\frac{1}{2} b h$$ om $$3$$ är basen och $$6$$ är höjden?",
                 "variabilization": {},
                 "oer": "https://OATutor.io <OATutor>",
                 "license": ""
@@ -95,8 +95,8 @@
         "dependencies": [
             "a961302definite3a-h4"
         ],
-        "title": "Subtract $$A_2$$ from $$A_1$$ to Find the Net Area",
-        "text": "The net area is $$\\int_{-3}^{3} 2x \\,dx=A_1-A_2$$.",
+        "title": "Subtrahera $$A_2$$ från $$A_1$$ för att hitta nettot.",
+        "text": "Den netta arean är $$\\\\int_{-3}^{3} 2x \\\\,dx=A_1-A_2$$.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -112,8 +112,8 @@
         "dependencies": [
             "a961302definite3a-h5"
         ],
-        "title": "Subtract $$A_2$$ from $$A_1$$ to Find the Net Area",
-        "text": "What is $$A_1-A_2$$?",
+        "title": "Subtrahera $$A_2$$ från $$A_1$$ för att hitta nettot.",
+        "text": "Vad är $$A_1-A_2$$?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "",
@@ -127,8 +127,8 @@
                     "$$0$$"
                 ],
                 "dependencies": [],
-                "title": "Subtract $$A_2$$ from $$A_1$$ to Find the Net Area",
-                "text": "$$A_1$$ and $$A_2$$ both equal to $$9$$. What is $$9-9$$?",
+                "title": "Subtrahera $$A_2$$ från $$A_1$$ för att hitta nettot.",
+                "text": "$$A_1$$ och $$A_2$$ är båda lika med $$9$$. Vad är $$9-9$$?",
                 "variabilization": {},
                 "oer": "https://OATutor.io <OATutor>",
                 "license": ""
@@ -142,7 +142,7 @@
             "a961302definite3a-h6"
         ],
         "title": "Analysis",
-        "text": "If $$A_1$$ is the area above the x-axis and $$A_2$$ is the area below the x-axis, then the net area is $$A_1-A_2$$. Since the areas of the two triangles are equal, the net area is zero.",
+        "text": "Om $$A_1$$ är arean ovanför x-axeln och $$A_2$$ är arean under x-axeln, då är nettot $$A_1-A_2$$. Eftersom areorna av de två trianglarna är lika, är nettoarean noll.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""

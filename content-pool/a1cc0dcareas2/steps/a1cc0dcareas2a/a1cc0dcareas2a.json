@@ -4,7 +4,7 @@
         "$$3x-\\frac{x^3}{12}+\\frac{x^2}{2}$$ as the limits go from $$x=-2$$ to $$x=6$$"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "If R is the region bounded above by the graph of the function $$f(x)=9-{\\left(\\frac{x}{2}\\right)}^2$$ and below by the graph of the function $$g(x)=6-x$$, fin the area of region R.",
+    "stepTitle": "Om R är området som begränsas ovan av grafen för funktionen $$f(x)=9-{\\\\left(\\\\frac{x}{2}\\\\right)}^2$$ och nedan av grafen för funktionen $$g(x)=6-x$$, hitta arean av området R.",
     "stepBody": "##figure1.gif## ",
     "answerType": "string",
     "variabilization": {},

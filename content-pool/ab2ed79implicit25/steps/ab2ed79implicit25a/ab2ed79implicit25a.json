@@ -4,7 +4,7 @@
         "$$\\frac{1}{{sec}^2} y$$"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "For $$x=tan(y)$$, use implicit differentiation to determine y\u2032. Think about wheher the answer agrees with the formulas previously determined.",
+    "stepTitle": "För $$x=tan(y)$$, använd implicit differentiering för att bestämma y′. Tänk på om svaret stämmer överens med de tidigare bestämda formlerna.",
     "stepBody": "",
     "answerType": "string",
     "variabilization": {},

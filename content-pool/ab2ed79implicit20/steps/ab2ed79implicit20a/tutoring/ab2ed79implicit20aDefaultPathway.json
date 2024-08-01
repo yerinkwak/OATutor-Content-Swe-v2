@@ -3,8 +3,8 @@
         "id": "ab2ed79implicit20a-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Implicit Differentiation",
-        "text": "Use implicit differentiation to find $$\\frac{dy}{dx}$$. Differentiate both sides of the equation, then simplify.",
+        "title": "Implicit differentiering",
+        "text": "Använd implicit differentiering för att hitta $$\\\\frac{dy}{dx}$$. Derivera båda sidor av ekvationen, förenkla sedan.",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -15,8 +15,8 @@
         "dependencies": [
             "ab2ed79implicit20a-h1"
         ],
-        "title": "Point-Slope Form",
-        "text": "Plug $$(81,16)$$ into the $$\\frac{dy}{dx}$$ equation for the slope of the equation at $$(81,16)$$.",
+        "title": "Punkt-lutningsform",
+        "text": "Sätt in $$(81,16)$$ i $$\\\\frac{dy}{dx}$$-ekvationen för lutningen av ekvationen vid $$(81,16)$$.",
         "variabilization": {},
         "oer": "",
         "license": ""

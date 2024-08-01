@@ -1,10 +1,10 @@
 {
     "id": "a3e1067arc10",
-    "title": "Find the length",
-    "body": "Find the length of the functions over the given interval.",
+    "title": "Hitta längden",
+    "body": "Hitta längden på funktionerna över det givna intervallet.",
     "variabilization": {},
     "oer": "https://openstax.org/details/books/calculus-volume-1 <OpenStax: Calculus Volume 1>",
     "license": 0.0,
-    "lesson": "6.4 Arc Length of a Curve and Surface Area",
+    "lesson": "6.4 Båglängd av en kurva och yta",
     "courseName": "OpenStax: Calculus Volume 1"
 }

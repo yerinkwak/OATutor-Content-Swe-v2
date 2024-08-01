@@ -4,7 +4,7 @@
         "$$4xy+2x^2$$"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "Consider a box with a square base with sides $$x$$ and height $$y$$. Find an equation for the surface area of the rectangular box, S(x,y).",
+    "stepTitle": "Betrakta en låda med en kvadratisk bas med sidor $$x$$ och höjd $$y$$. Hitta en ekvation för ytarean av den rektangulära lådan, \\( S(x,y) \\).",
     "stepBody": "",
     "answerType": "string",
     "variabilization": {},

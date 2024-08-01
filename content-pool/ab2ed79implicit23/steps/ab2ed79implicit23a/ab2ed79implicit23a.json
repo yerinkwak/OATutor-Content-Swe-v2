@@ -4,7 +4,7 @@
         "$$-2.67$$"
     ],
     "problemType": "TextBox",
-    "stepTitle": "If the surface area of the rectangular box is $$78$$ square feet, find $$\\frac{dy}{dx}$$ when $$x=3$$ feet and $$y=5$$\\nfeet. The surface area equation of the box is $$4xy+2x^2$$. Round to $$2$$ decimal places.",
+    "stepTitle": "Om rektangelns ytarea är $$78$$ kvadratfot, hitta $$\\\\frac{dy}{dx}$$ när $$x=3$$ fot och $$y=5$$ fot. Ekvationen för boxens yta är $$4xy+2x^2$$. Avrunda till $$2$$ decimaler.",
     "stepBody": "",
     "answerType": "arithmetic",
     "variabilization": {},

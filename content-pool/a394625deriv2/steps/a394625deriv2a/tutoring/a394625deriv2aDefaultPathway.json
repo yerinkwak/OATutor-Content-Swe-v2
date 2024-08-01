@@ -3,8 +3,8 @@
         "id": "a394625deriv2a-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Breaking down the question",
-        "text": "We can separate the functions into $$3\\operatorname{csc}\\left(x\\right)$$ and $$\\frac{5}{x}$$",
+        "title": "Bryta ner frågan",
+        "text": "Vi kan dela upp funktionerna i $$3\\\\operatorname{csc}\\\\left(x\\\\right)$$ och $$\\\\frac{5}{x}$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -21,7 +21,7 @@
             "a394625deriv2a-h1"
         ],
         "title": "Sub-question",
-        "text": "What's the derivative of $$3\\operatorname{csc}\\left(x\\right)$$",
+        "text": "Vad är derivatan av $$3\\\\operatorname{csc}\\\\left(x\\\\right)$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "",
@@ -43,7 +43,7 @@
             "a394625deriv2a-h2"
         ],
         "title": "Sub-question",
-        "text": "What's the derivative of $$\\frac{5}{x}$$",
+        "text": "Vad är derivatan av $$\\\\frac{5}{x}$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "",
@@ -59,8 +59,8 @@
         "dependencies": [
             "a394625deriv2a-h3"
         ],
-        "title": "Adding up derivatives",
-        "text": "Add all the derivatives and get the final answer.(Derivatives of constants are 0)",
+        "title": "Addering av derivator",
+        "text": "Lägg ihop alla derivator och få slutresultatet. Derivator av konstanter är 0.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""

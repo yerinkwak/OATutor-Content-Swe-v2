@@ -4,7 +4,7 @@
         "$$25.22$$"
     ],
     "problemType": "TextBox",
-    "stepTitle": "For the previous equation, find the average velocity between $$t=2$$ and $$t=2+h$$, where $$h=0.1$$. Round to $$2$$ decimal places.",
+    "stepTitle": "För den föregående ekvationen, hitta medelhastigheten mellan $$t=2$$ och $$t=2+h$$, där $$h=0.1$$. Avrunda till $$2$$ decimaler.",
     "stepBody": "",
     "answerType": "arithmetic",
     "variabilization": {},

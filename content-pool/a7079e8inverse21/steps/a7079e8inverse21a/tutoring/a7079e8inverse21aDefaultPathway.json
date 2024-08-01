@@ -3,8 +3,8 @@
         "id": "a7079e8inverse21a-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Applying the product rule.",
-        "text": "Because we are multiplying $$2$$ functions, we need to use the product rule in order to find the derivative. For reference the product rule is $$\\frac{d}{dy} f{\\left(x\\right)} g{\\left(x\\right)}=\\operatorname{f'}\\left(x\\right) g{\\left(x\\right)}+f{\\left(x\\right)} \\operatorname{g'}\\left(x\\right)$$.",
+        "title": "Tillämpa produktregeln.",
+        "text": "Eftersom vi multiplicerar $$2$$ funktioner, måste vi använda produktregeln för att hitta derivatan. För referens är produktregeln $$\\\\frac{d}{dy} f{\\\\left(x\\\\right)} g{\\\\left(x\\\\right)}=\\\\operatorname{f'}\\\\left(x\\\\right) g{\\\\left(x\\\\right)}+f{\\\\left(x\\\\right)} \\\\operatorname{g'}\\\\left(x\\\\right)$$.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -15,8 +15,8 @@
         "dependencies": [
             "a7079e8inverse21a-h1"
         ],
-        "title": "Derivative of inverse trigonometric functions:csc(x)",
-        "text": "The formula for the derivative of inverse csc(x) is $$\\frac{d}{dx} {csc}^{-1} x=\\frac{-1}{|x| \\sqrt{x^2-1}}$$.",
+        "title": "Derivatan av inversa trigonometriska funktioner: csc(x)",
+        "text": "Formeln för derivatan av inversen av csc(x) är $$\\\\frac{d}{dx} {csc}^{-1} x=\\\\frac{-1}{|x| \\\\sqrt{x^2-1}}$$.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""

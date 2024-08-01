@@ -4,7 +4,7 @@
         "$$-4$$"
     ],
     "problemType": "TextBox",
-    "stepTitle": "Find the slope of the tangent line $$m=f'(a)$$, where $$f(x)=3-4x$$ and $$a=2$$",
+    "stepTitle": "Hitta lutningen på tangentlinjen $$m=f'(a)$$, där $$f(x)=3-4x$$ och $$a=2$$",
     "stepBody": "",
     "answerType": "arithmetic",
     "variabilization": {},

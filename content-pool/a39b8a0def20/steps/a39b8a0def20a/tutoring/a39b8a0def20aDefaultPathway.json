@@ -3,8 +3,8 @@
         "id": "a39b8a0def20a-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Limit Definition of the Derivative",
-        "text": "The limit defintion of a derivative is $$\\lim_{h\\to0} \\frac{f{\\left(x+h\\right)}-f{\\left(x\\right)}}{h}$$.",
+        "title": "Gränsdefinitionen av derivatan",
+        "text": "Gränsvärdesdefinitionen av en derivata är $$\\\\lim_{h\\\\to0} \\\\frac{f{\\\\left(x+h\\\\right)}-f{\\\\left(x\\\\right)}}{h}$$.",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -15,8 +15,8 @@
         "dependencies": [
             "a39b8a0def20a-h1"
         ],
-        "title": "Plugging In",
-        "text": "Plug in $$h=0$$ into the previous equation.",
+        "title": "Inkoppling",
+        "text": "Sätt in $$h=0$$ i den föregående ekvationen.",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -32,8 +32,8 @@
         "dependencies": [
             "a39b8a0def20a-h2"
         ],
-        "title": "Resulting Limit",
-        "text": "What is the value of this limit?",
+        "title": "Resulterande gränsvärde",
+        "text": "Vad är värdet av detta gränsvärde?",
         "variabilization": {},
         "oer": "",
         "license": "",
@@ -50,8 +50,8 @@
         "dependencies": [
             "a39b8a0def20a-h2"
         ],
-        "title": "Undefined Limits",
-        "text": "Limits are undefined when they do not approach a finite value or when both sides do not approach the same value.",
+        "title": "Odefinierade gränsvärden",
+        "text": "Gränsvärden är odefinierade när de inte närmar sig ett ändligt värde eller när båda sidor inte närmar sig samma värde.",
         "variabilization": {},
         "oer": "",
         "license": ""

@@ -3,8 +3,8 @@
         "id": "a961302definite16a-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Apply the Integral of a Sum Property",
-        "text": "$$\\int_{a}^{b} f{\\left(x\\right)}+g{\\left(x\\right)} \\,dx=\\int_{a}^{b} f(x) \\,dx+\\int_{a}^{b} g(x) \\,dx$$. In other words, the integral of a sum is the sum of the integrals. This means separating the terms into two different integrals.",
+        "title": "Använd egenskapen för integral av en summa",
+        "text": "I logik används ofta en uppsättning symboler för att uttrycka logisk representation. Med andra ord är integralen av en summa summan av integralerna. Detta innebär att separera termerna i två olika integraler.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -15,8 +15,8 @@
         "dependencies": [
             "a961302definite16a-h1"
         ],
-        "title": "Apply the Integral of the Product Property",
-        "text": "$$\\int_{a}^{b} c f{\\left(x\\right)} \\,dx=c*\\int_{a}^{b} f(x) \\,dx$$ for constant c. In other words, the integral of the produce of a constant and a function is equal to the constant multiplied by the integral of the function. This means taking the constant outside and putting it in front of the integral.",
+        "title": "Tillämpa egenskapen för integralen av produkten",
+        "text": "För konstant c. Med andra ord, integralen av produkten av en konstant och en funktion är lika med konstanten multiplicerad med integralen av funktionen. Detta innebär att ta konstanten utanför och sätta den framför integralen.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -27,8 +27,8 @@
         "dependencies": [
             "a961302definite16a-h2"
         ],
-        "title": "Evaluate the Integrals and Add Them Up Together",
-        "text": "Now that we applied the properties of definite integrals to the problem to manipulate the expressions, we can evaluate them to find the answer.",
+        "title": "Utvärdera integralerna och addera dem tillsammans.",
+        "text": "Nu när vi har tillämpat egenskaperna hos bestämda integraler på problemet för att manipulera uttrycken, kan vi utvärdera dem för att hitta svaret.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -44,8 +44,8 @@
         "dependencies": [
             "a961302definite16a-h3"
         ],
-        "title": "Evaluate the Integrals and Add Them Up Together",
-        "text": "What is $$4*\\int_{2}^{4} f(x) \\,dx-3*\\int_{2}^{4} g(x) \\,dx$$?",
+        "title": "Utvärdera integralerna och addera dem tillsammans.",
+        "text": "Vad är $$4*\\\\int_{2}^{4} f(x) \\\\,dx-3*\\\\int_{2}^{4} g(x) \\\\,dx$$?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -59,8 +59,8 @@
             "$$41$$"
         ],
         "dependencies": [],
-        "title": "Evaluate the Integrals and Add Them Up Together",
-        "text": "What is $$32+9$$?",
+        "title": "Utvärdera integralerna och addera dem tillsammans.",
+        "text": "Vad är $$32+9$$?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""

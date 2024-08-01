@@ -3,8 +3,8 @@
         "id": "a961302definite14a-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Graph the Function",
-        "text": "If we graph function $$3-|x-3|$$, we notice that the graph represents a symmetrical triangle from [0, 6]. We will use the area of a triangle formula.",
+        "title": "Rita funktionen",
+        "text": "Om vi ritar grafen för funktionen $$3-|x-3|$$, märker vi att grafen representerar en symmetrisk triangel från [0, 6]. Vi kommer att använda formeln för en triangels area.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -15,8 +15,8 @@
         "dependencies": [
             "a961302definite14a-h1"
         ],
-        "title": "Find the Area of Two Triangles $$A_1$$ and $$A_2$$",
-        "text": "We can split the triangle vertically into two triangles $$A_1$$ and $$A_2$$ so they both resemble right triangles. We will find the area for these two triangles then add them up together.",
+        "title": "Hitta arean av två trianglar $$A_1$$ och $$A_2$$",
+        "text": "Vi kan dela triangeln vertikalt i två trianglar $$A_1$$ och $$A_2$$ så att de båda liknar rätvinkliga trianglar. Vi kommer att hitta arean för dessa två trianglar och sedan lägga ihop dem.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -27,8 +27,8 @@
         "dependencies": [
             "a961302definite14a-h2"
         ],
-        "title": "Formula for Area of a Triangle",
-        "text": "The formula for the area of a triangle is $$A=\\frac{1}{2} b h$$.",
+        "title": "Formel för arean av en triangel",
+        "text": "Formeln för arean av en triangel är $$A=\\\\frac{1}{2} b h$$.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -44,8 +44,8 @@
         "dependencies": [
             "a961302definite14a-h3"
         ],
-        "title": "Add $$A_1$$ and $$A_2$$",
-        "text": "What is $$A_1$$ + $$A_2$$?",
+        "title": "Addera $$A_1$$ och $$A_2$$",
+        "text": "Vad är $$A_1$$ + $$A_2$$?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "",
@@ -65,8 +65,8 @@
                     "$$9$$"
                 ],
                 "dependencies": [],
-                "title": "Add $$A_1$$ and $$A_2$$",
-                "text": "What is $$4.5+4.5$$?",
+                "title": "Lägg till $$A_1$$ och $$A_2$$",
+                "text": "Vad är $$4.5+4.5$$?",
                 "variabilization": {},
                 "oer": "https://OATutor.io <OATutor>",
                 "license": "",

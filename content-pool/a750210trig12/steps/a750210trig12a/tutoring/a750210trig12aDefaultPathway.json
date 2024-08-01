@@ -3,8 +3,8 @@
         "id": "a750210trig12a-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Unit Circle $$1$$",
-        "text": "The value inside the parenthesis of the tan refers to an angle which also corresponds to a point on the unit circle.",
+        "title": "Enhetscirkel $$1$$",
+        "text": "Värdet inuti parentesen för tan hänvisar till en vinkel som också motsvarar en punkt på enhetscirkeln.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -15,8 +15,8 @@
         "dependencies": [
             "a750210trig12a-h1"
         ],
-        "title": "Unit Circle $$2$$",
-        "text": "The angle $$\\frac{19\\pi}{4}$$ corresponds to more than $$2$$ revolutions around the unit circle and is equal to $$2\\pi+2\\pi+\\frac{3\\pi}{4}$$, thus we can continue to subtract by $$2\\pi$$ or $$1$$ rotation until we get an angle between $$0$$ and $$2\\pi$$ to find the corresponding value on the unit circle.",
+        "title": "Enhetscirkel $$2$$",
+        "text": "Vinkeln $$\\\\frac{19\\\\pi}{4}$$ motsvarar mer än $$2$$ varv runt enhetscirkeln och är lika med $$2\\\\pi+2\\\\pi+\\\\frac{3\\\\pi}{4}$$, därför kan vi fortsätta att subtrahera med $$2\\\\pi$$ eller $$1$$ rotation tills vi får en vinkel mellan $$0$$ och $$2\\\\pi$$ för att hitta motsvarande värde på enhetscirkeln.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -27,8 +27,8 @@
         "dependencies": [
             "a750210trig12a-h2"
         ],
-        "title": "Unit Circle $$3$$",
-        "text": "We know that the angle $$\\frac{3\\pi}{4}$$ corresponds to the point $$(\\left(-\\frac{\\sqrt{2}}{2}\\right),\\frac{\\sqrt{2}}{2})$$ on the unit circle.",
+        "title": "Enhetscirkel $$3$$",
+        "text": "Vi vet att vinkeln $$\\\\frac{3\\\\pi}{4}$$ motsvarar punkten $$(\\\\left(-\\\\frac{\\\\sqrt{2}}{2}\\\\right),\\\\frac{\\\\sqrt{2}}{2})$$ på enhetscirkeln.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -39,8 +39,8 @@
         "dependencies": [
             "a750210trig12a-h3"
         ],
-        "title": "Definition of trigonometric functions",
-        "text": "Letting $$x$$ be an angle, sinx $$=$$ $$y$$, cosx $$=$$ $$x$$, and tanx $$=$$ $$\\frac{y}{x}$$.",
+        "title": "Definition av trigonometriska funktioner",
+        "text": "Låt $$x$$ vara en vinkel, sinx $$=$$ $$y$$, cosx $$=$$ $$x$$, och tanx $$=$$ $$\\\\frac{y}{x}$$.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -57,7 +57,7 @@
             "a750210trig12a-h4"
         ],
         "title": "Combining",
-        "text": "Based on the above information, what is the value of tanx at the angle $$\\frac{19\\pi}{4}$$.",
+        "text": "Baserat på ovanstående information, vad är värdet av tanx vid vinkeln $$\\\\frac{19\\\\pi}{4}$$?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""

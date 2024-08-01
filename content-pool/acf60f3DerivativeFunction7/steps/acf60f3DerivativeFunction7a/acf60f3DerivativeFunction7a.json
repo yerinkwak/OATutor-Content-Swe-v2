@@ -4,7 +4,7 @@
         "$$\\frac{-9}{x^2}$$"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "Use the definition of a derivative to find f\u2032(x).",
+    "stepTitle": "Använd definitionen av en derivata för att hitta f′(x).",
     "stepBody": "$$f(x)=\\frac{9}{x}$$",
     "answerType": "string",
     "variabilization": {},

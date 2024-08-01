@@ -4,7 +4,7 @@
         "$$\\frac{2{\\operatorname{csc}\\left(x\\right)}^2}{{\\left(1+\\operatorname{cot}\\left(x\\right)\\right)}^2}$$"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "For the following exercises, find $$\\frac{dy}{dx}$$ for the given functions.",
+    "stepTitle": "För följande övningar, hitta $$\\\\frac{dy}{dx}$$ för de givna funktionerna.",
     "stepBody": "$$y=\\frac{1-\\operatorname{cot}\\left(x\\right)}{1+\\operatorname{cot}\\left(x\\right)}$$",
     "answerType": "string",
     "variabilization": {},

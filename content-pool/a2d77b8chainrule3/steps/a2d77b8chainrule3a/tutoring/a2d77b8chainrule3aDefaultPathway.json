@@ -3,8 +3,8 @@
         "id": "a2d77b8chainrule3a-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "The Chain Rule",
-        "text": "Remember, the chain rule in Leibniz's notation tells us that $$\\frac{dy}{dx}=\\frac{dy}{du} \\frac{du}{dx}$$",
+        "title": "Kedjeregeln",
+        "text": "Kom ihåg, kedjeregeln i Leibniz notation säger oss att $$\\\\frac{dy}{dx}=\\\\frac{dy}{du} \\\\frac{du}{dx}$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
@@ -15,8 +15,8 @@
         "dependencies": [
             "a2d77b8chainrule3a-h1"
         ],
-        "title": "Find the Derivative",
-        "text": "First, try finding the derivative of $$y$$ in terms of u. Then, find the derivative of u in terms of $$x$$. Multiplying the two should yield the correct answer!",
+        "title": "Hitta derivatan",
+        "text": "Först, försök att hitta derivatan av $$y$$ med avseende på u. Sedan, hitta derivatan av u med avseende på $$x$$. Att multiplicera de två borde ge det rätta svaret!",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
@@ -32,8 +32,8 @@
         "dependencies": [
             "a2d77b8chainrule3a-h2"
         ],
-        "title": "Find $$\\frac{dy}{du}$$",
-        "text": "What is $$\\frac{dy}{du}$$?",
+        "title": "Hitta $$\\\\frac{dy}{du}$$",
+        "text": "Vad är $$\\\\frac{dy}{du}$$?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
@@ -55,8 +55,8 @@
         "dependencies": [
             "a2d77b8chainrule3a-h3"
         ],
-        "title": "Find $$\\frac{du}{dx}$$",
-        "text": "What is $$\\frac{du}{dx}$$?",
+        "title": "Hitta $$\\\\frac{du}{dx}$$",
+        "text": "Vad är $$\\\\frac{du}{dx}$$?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
@@ -73,8 +73,8 @@
         "dependencies": [
             "a2d77b8chainrule3a-h4"
         ],
-        "title": "Plug in",
-        "text": "Don't forget to plug in what we have for u in terms of $$x$$ to give our final answer in terms of $$x!$$",
+        "title": "Sätt in",
+        "text": "Glöm inte att sätta in vad vi har för u i termer av $$x$$ för att ge vårt slutgiltiga svar i termer av $$x!$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"

@@ -4,8 +4,8 @@
         "$$4$$"
     ],
     "problemType": "TextBox",
-    "stepTitle": "Finding a Second Derivative",
-    "stepBody": "Next, find f''(x) by taking the derivative of $$f\u2032(x)=4x-3$$.",
+    "stepTitle": "Att hitta en andraderivata",
+    "stepBody": "Next, find f''(x) by taking the derivative of $$f′(x)=4x-3$$.",
     "answerType": "arithmetic",
     "variabilization": {},
     "answerLatex": "$$4$$"

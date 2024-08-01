@@ -3,8 +3,8 @@
         "id": "a82ea5csubstitution4a-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Choose an Expression",
-        "text": "Express $$x$$ in terms of u. If $$u=x-1$$, then $$x=u+1$$.",
+        "title": "Välj ett uttryck",
+        "text": "Uttryck $$x$$ i termer av u. Om $$u=x-1$$, då $$x=u+1$$.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -20,8 +20,8 @@
         "dependencies": [
             "a82ea5csubstitution4a-h1"
         ],
-        "title": "Rewrite the Integral in Terms of u",
-        "text": "What is the integral in terms of u?",
+        "title": "Skriv om integralen i termer av u",
+        "text": "Vad är integralen i termer av u?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "",
@@ -36,8 +36,8 @@
         "dependencies": [
             "a82ea5csubstitution4a-h2"
         ],
-        "title": "Integrate the Expression",
-        "text": "Integrate by replacing u with the original expression.",
+        "title": "Integrera uttrycket",
+        "text": "Integrera genom att ersätta u med det ursprungliga uttrycket.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -48,8 +48,8 @@
         "dependencies": [
             "a82ea5csubstitution4a-h3"
         ],
-        "title": "Factor and Simplify",
-        "text": "Factor and simplify the result.",
+        "title": "Faktorisera och förenkla",
+        "text": "Faktorisera och förenkla resultatet.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""

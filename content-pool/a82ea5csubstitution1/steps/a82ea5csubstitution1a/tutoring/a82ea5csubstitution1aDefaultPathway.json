@@ -3,8 +3,8 @@
         "id": "a82ea5csubstitution1a-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Choose an Expression for u",
-        "text": "First choose an expression for u.",
+        "title": "Välj ett uttryck för u",
+        "text": "Välj först ett uttryck för u.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -20,8 +20,8 @@
         "dependencies": [
             "a82ea5csubstitution1a-h1"
         ],
-        "title": "Choose an Expression for u",
-        "text": "Which expression for u would be most appropriate for substitution?",
+        "title": "Välj ett uttryck för u",
+        "text": "Vilket uttryck för u skulle vara mest lämpligt för substitution?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "",
@@ -38,8 +38,8 @@
         "dependencies": [
             "a82ea5csubstitution1a-h2"
         ],
-        "title": "Choose an Expression for u",
-        "text": "We choose $$u=3x^2+4$$ because then $$du=6xdx$$, and we already have du in the integrand.",
+        "title": "Välj ett uttryck för u",
+        "text": "Vi väljer $$u=3x^2+4$$ eftersom då $$du=6xdx$$, och vi har redan du i integranden.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -55,8 +55,8 @@
         "dependencies": [
             "a82ea5csubstitution1a-h3"
         ],
-        "title": "Write the Integral in Terms of u",
-        "text": "Write the integral in terms of u.",
+        "title": "Skriv integralen i termer av u",
+        "text": "Skriv integralen i termer av u.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "",
@@ -71,8 +71,8 @@
         "dependencies": [
             "a82ea5csubstitution1a-h4"
         ],
-        "title": "Evaluate the Integral",
-        "text": "Remember that du is the derivative of the expresion chosen for u, regardless of what is inside the integrand. Evaluate the integral with respect to u.",
+        "title": "Utvärdera integralen",
+        "text": "Kom ihåg att du är derivatan av det uttryck som valts för u, oavsett vad som finns inuti integranden. Utvärdera integralen med avseende på u.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -83,8 +83,8 @@
         "dependencies": [
             "a82ea5csubstitution1a-h5"
         ],
-        "title": "Evaluate the Integral",
-        "text": "Replace u with $$3x^2+4$$.",
+        "title": "Utvärdera integralen",
+        "text": "Ersätt u med $$3x^2+4$$.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""

@@ -3,8 +3,8 @@
         "id": "a961302definite9a-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Expressing Limits as Definite Integrals",
-        "text": "Consider the limit of $$R_n$$ as a Riemann sum representing the integral of $$f(x)=x$$ over the interval from $$0$$ to $$1$$.",
+        "title": "Att uttrycka gränsvärden som bestämda integraler",
+        "text": "Betrakta gränsvärdet av $$R_n$$ som en Riemannsumma som representerar integralen av $$f(x)=x$$ över intervallet från $$0$$ till $$1$$.",
         "variabilization": {},
         "oer": "",
         "license": ""
