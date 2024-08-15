@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Bryta ner frågan",
-        "text": "Vi kan dela upp funktionerna i sec(x) och $$x$$",
+        "text": "Vi kan separera funktionerna i sec(x) och $$x$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -20,7 +20,7 @@
         "dependencies": [
             "a394625deriv5a-h1"
         ],
-        "title": "Sub-question",
+        "title": "Deluppgift",
         "text": "Vad är derivatan av sec(x)",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
@@ -42,7 +42,7 @@
         "dependencies": [
             "a394625deriv5a-h2"
         ],
-        "title": "Sub-question",
+        "title": "Deluppgift",
         "text": "Vad är derivatan av $$x$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
@@ -55,7 +55,7 @@
             "a394625deriv5a-h3"
         ],
         "title": "Tillämpa deriveringsregeln",
-        "text": "Tillämpa kvotregeln för derivator av sammansatta funktioner för att hitta den slutliga lösningen.",
+        "text": "Använd kvotregeln för derivator av sammansatta funktioner för att hitta den slutliga lösningen",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""

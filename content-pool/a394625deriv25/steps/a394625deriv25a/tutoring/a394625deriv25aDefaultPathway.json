@@ -20,8 +20,8 @@
         "dependencies": [
             "a394625deriv25a-h1"
         ],
-        "title": "Sub-question",
-        "text": "Vad är derivatan av $$x-2cos\\\\left(x\\\\right)$$",
+        "title": "Deluppgift",
+        "text": "Vad är derivatan av $$x-2cos\\left(x\\right)$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "",
@@ -43,8 +43,8 @@
         "dependencies": [
             "a394625deriv25a-h2"
         ],
-        "title": "Sub-question",
-        "text": "Lös $$1+2sin\\\\left(x\\\\right)=2$$, vad blir sin(x)?",
+        "title": "Deluppgift",
+        "text": "Lös $$1+2sin\\left(x\\right)=2$$, vad blir sin(x)?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -55,8 +55,8 @@
         "dependencies": [
             "a394625deriv25a-h3"
         ],
-        "title": "$$sin(x)=0.5$$ find specific $$x$$",
-        "text": "$$x$$ is from $$0$$ to $$2\\pi$$",
+        "title": "$$sin(x)=0.5$$ hitta specifika $$x$$",
+        "text": "\\($$x$$\\) är från \\($$0$$\\) till \\($$2\\pi$$\\)",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -67,8 +67,8 @@
         "dependencies": [
             "a394625deriv25a-h4"
         ],
-        "title": "Derivatan av funktionen är lutningen på tangentlinjen.",
-        "text": "Dra slutsatsen från dina deluppgifter.",
+        "title": "Derivatan av funktionen är lutningen på tangentlinjen",
+        "text": "Dra slutsatsen från dina del-frågor",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""

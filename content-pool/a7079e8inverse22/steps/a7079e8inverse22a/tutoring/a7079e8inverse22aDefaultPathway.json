@@ -15,8 +15,8 @@
         "dependencies": [
             "a7079e8inverse22a-h1"
         ],
-        "title": "Att hitta inversen av f(x) vid $$a=0$$.",
-        "text": "För att hitta inversen av f(x) där $$a=0$$, behöver vi först hitta vilket värde på $$x$$ när vi sätter in det i f(x) som ger oss ett värde på $$0$$. I detta fall är det när $$x=pi$$, så vi vet att $$0f^{\\\\left(-1\\\\right)}=pi$$.",
+        "title": "Hitta inversen av f(x) vid $$a=0$$.",
+        "text": "För att hitta inversen av f(x) där $$a=0$$, behöver vi först hitta vilket värde av $$x$$ när vi sätter in det i f(x) som ger oss ett värde av $$0$$. I denna situation är det när $$x=pi$$, så vi vet att $$0f^{\\left(-1\\right)}=pi$$.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -27,8 +27,8 @@
         "dependencies": [
             "a7079e8inverse22a-h2"
         ],
-        "title": "Att hitta derivatan av \\( f(f^{-1}(x)) \\)",
-        "text": "Vi fann att inversen av f(x) $$=pi$$ i den föregående ledtråden, därför behöver vi nu veta vad f'(pi) är lika med, vilket är givet till oss, det är $$-1$$.",
+        "title": "Att hitta derivatan av \\( f \\)",
+        "text": "Vi fann att inversen av f(x) $$=pi$$ i den föregående ledtråden, därför behöver vi nu veta vad f'(pi) är lika med, vilket ges till oss, det är $$-1$$.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -39,8 +39,8 @@
         "dependencies": [
             "a7079e8inverse22a-h3"
         ],
-        "title": "Tillämpning av inversa funktionsteoremet",
-        "text": "Eftersom vi vet att $$\\\\operatorname{f'}\\\\left(f^{\\\\left(-1\\\\right)} \\\\pi\\\\right)$$ är lika med $$-1$$, kan vi tillämpa inversa funktionsteoremet genom att göra 1/(vårt svar). I detta fall är detta $$\\\\frac{1}{\\\\left(-1\\\\right)}=-1$$.",
+        "title": "Tillämpar inversa funktionssatsen",
+        "text": "Eftersom vi vet att $$\\operatorname{f'}\\left(f^{\\left(-1\\right)} \\pi\\right)$$ är lika med $$-1$$, kan vi tillämpa inversa funktionsteoremet genom att göra 1/(our answer). I detta fall är detta $$\\frac{1}{\\left(-1\\right)}=-1$$.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""

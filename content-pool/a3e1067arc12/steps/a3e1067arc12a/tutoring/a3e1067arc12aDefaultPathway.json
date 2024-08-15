@@ -3,8 +3,8 @@
         "id": "a3e1067arc12a-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Formel för båglängd",
-        "text": "Båglängd kan hittas genom att beräkna $$\\\\int_{a}^{b} \\\\sqrt{1+{\\\\operatorname{f'}\\\\left(x\\\\right)}^2} \\\\,dx$$, f'(x) är derivatan av f(x) och intervallet [a,b]",
+        "title": "Båglängdsformel",
+        "text": "Båglängd kan hittas genom att beräkna $$\\int_{a}^{b} \\sqrt{1+{\\operatorname{f'}\\left(x\\right)}^2} \\,dx$$, f'(x) är derivatan av f(x) och intervallet [a,b]",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -16,7 +16,7 @@
             "a3e1067arc12a-h1"
         ],
         "title": "Hitta derivatan av f(x)",
-        "text": "Vi har f(x) $$=y=x^{\\\\frac{3}{2}}$$, så $$f'(x)=$$ $$\\\\frac{3}{2} x^{\\\\frac{1}{2}}$$",
+        "text": "Vi har f(x) $$=y=x^{\\frac{3}{2}}$$, så $$f'(x)=$$ $$\\frac{3}{2} x^{\\frac{1}{2}}$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -40,7 +40,7 @@
             "a3e1067arc12a-h3"
         ],
         "title": "Sätt in",
-        "text": "Efter att vi har satt in f'(x) och intervallet, kommer vi att ha Arc $$Length=\\\\int_{0}^{1} \\\\sqrt{1+{\\\\left(\\\\frac{3}{2} x^{\\\\frac{1}{2}}\\\\right)}^2} \\\\,dx=\\\\int_{0}^{1} \\\\sqrt{1+\\\\frac{9}{4} x} \\\\,dx$$",
+        "text": "Efter att vi har satt in f'(x) och intervallet, kommer vi att ha Arc $$Length=\\int_{0}^{1} \\sqrt{1+{\\left(\\frac{3}{2} x^{\\frac{1}{2}}\\right)}^2} \\,dx=\\int_{0}^{1} \\sqrt{1+\\frac{9}{4} x} \\,dx$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""

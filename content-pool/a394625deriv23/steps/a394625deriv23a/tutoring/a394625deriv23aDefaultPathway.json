@@ -20,8 +20,8 @@
         "dependencies": [
             "a394625deriv23a-h1"
         ],
-        "title": "Sub-question",
-        "text": "Vad är första derivatan?",
+        "title": "Deluppgift",
+        "text": "Vad är förstaderivatan?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "",
@@ -42,8 +42,8 @@
         "dependencies": [
             "a394625deriv23a-h2"
         ],
-        "title": "Sub-question",
-        "text": "Vad är derivatan av första derivatan?",
+        "title": "Deluppgift",
+        "text": "Vad är derivatan av första derivatan",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "",
@@ -64,7 +64,7 @@
         "dependencies": [
             "a394625deriv23a-h3"
         ],
-        "title": "Sub-question",
+        "title": "Deluppgift",
         "text": "Vad är derivatan av andraderivatan?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
@@ -82,7 +82,7 @@
             "a394625deriv23a-h4"
         ],
         "title": "Derivatan av $$(n-1)th$$ derivatan är den n:te derivatan",
-        "text": "Dra din slutsats från deluppgifterna.",
+        "text": "Dra din slutsats från del-frågor",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""

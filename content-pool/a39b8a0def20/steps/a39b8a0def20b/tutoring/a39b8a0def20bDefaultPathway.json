@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Gränsvärdesdefinitionen av derivatan",
-        "text": "Gränsvärdesdefinitionen av en derivata är $$\\\\lim_{h\\\\to0} \\\\frac{f{\\\\left(x+h\\\\right)}-f{\\\\left(x\\\\right)}}{h}$$.",
+        "text": "Definitionen av en derivata är $$\\lim_{h\\to0} \\frac{f{\\left(x+h\\right)}-f{\\left(x\\right)}}{h}$$.",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -15,8 +15,8 @@
         "dependencies": [
             "a39b8a0def20b-h1"
         ],
-        "title": "Inmatning",
-        "text": "Plugga in $$h=1$$ i den föregående ekvationen och närma dig $$h$$ från 0- och 0+.",
+        "title": "Inkoppling",
+        "text": "Plugga in $$h=1$$ i den föregående ekvationen, närma sig $$h$$ från 0- och 0+.",
         "variabilization": {},
         "oer": "",
         "license": ""

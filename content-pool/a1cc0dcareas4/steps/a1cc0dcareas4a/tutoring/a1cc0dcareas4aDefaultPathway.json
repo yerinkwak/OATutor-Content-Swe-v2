@@ -3,7 +3,7 @@
         "id": "a1cc0dcareas4a-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Hitta skärningen av $$2$$ funktioner",
+        "title": "Hitta skärningspunkten för $$2$$ funktioner",
         "text": "Ställ in $$f(x)=g(x)$$ och lös för $$x$$. Efter att ha löst för $$x$$, får vi $$x=1$$ där graferna skär varandra.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
@@ -16,7 +16,7 @@
             "a1cc0dcareas4a-h1"
         ],
         "title": "Separera intervallet",
-        "text": "Eftersom arean från $$0$$ till $$1$$ och arean från $$1$$ till $$2$$ inte är samma, måste vi integrera var och en av dem separat.",
+        "text": "Eftersom arean från $$0$$ till $$1$$ och arean från $$1$$ till $$2$$ inte är desamma, måste vi integrera var och en av dem separat.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -42,7 +42,7 @@
                 "id": "a1cc0dcareas4a-h3-s1",
                 "type": "hint",
                 "dependencies": [],
-                "title": "Område från $$0$$ till $$1$$",
+                "title": "Area från $$0$$ till $$1$$",
                 "text": "$$\\int_{0}^{1} x^2 \\,dx=\\frac{1^3}{3}-0=\\frac{1}{3}$$",
                 "variabilization": {},
                 "oer": "https://OATutor.io <OATutor>",
@@ -61,7 +61,7 @@
         "dependencies": [
             "a1cc0dcareas4a-h3"
         ],
-        "title": "Område från $$1$$ till $$2$$",
+        "title": "Area från $$1$$ till $$2$$",
         "text": "Vad är arean av intervallet från $$1$$ till 2?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
@@ -71,7 +71,7 @@
                 "id": "a1cc0dcareas4a-h4-s1",
                 "type": "hint",
                 "dependencies": [],
-                "title": "Område från $$1$$ till $$2$$",
+                "title": "Area från $$1$$ till $$2$$",
                 "text": "$$\\int_{1}^{2} 2-x \\,dx=2\\times2-\\frac{2^2}{2}-2\\times1-\\frac{1^2}{2}=\\frac{1}{2}$$",
                 "variabilization": {},
                 "oer": "https://OATutor.io <OATutor>",
@@ -85,8 +85,8 @@
         "dependencies": [
             "a1cc0dcareas4a-h4"
         ],
-        "title": "Lägga till areorna",
-        "text": "Genom att addera dessa områden får vi $$A=\\\\frac{1}{3}+\\\\frac{1}{2}=\\\\frac{5}{6}$$",
+        "title": "Adderar areorna",
+        "text": "Genom att addera dessa områden tillsammans, erhåller vi $$A=\\frac{1}{3}+\\frac{1}{2}=\\frac{5}{6}$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""

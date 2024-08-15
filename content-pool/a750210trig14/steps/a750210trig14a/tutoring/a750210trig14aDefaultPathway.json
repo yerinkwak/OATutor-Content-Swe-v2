@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Enhetscirkel $$1$$",
-        "text": "Värdet inuti parentesen för sin syftar på en vinkel som också motsvarar en punkt på enhetscirkeln.",
+        "text": "Värdet inuti parentesen för sin hänvisar till en vinkel som också motsvarar en punkt på enhetscirkeln.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -16,7 +16,7 @@
             "a750210trig14a-h1"
         ],
         "title": "Enhetscirkel $$2$$",
-        "text": "Vinkeln $$\\\\frac{\\\\pi}{6}$$ motsvarar punkten $$(\\\\frac{\\\\sqrt{3}}{2},\\\\frac{1}{2})$$ på enhetscirkeln.",
+        "text": "Vinkeln $$\\frac{\\pi}{6}$$ motsvarar punkten $$(\\frac{\\sqrt{3}}{2},\\frac{1}{2})$$ på enhetscirkeln.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -28,7 +28,7 @@
             "a750210trig14a-h2"
         ],
         "title": "Definition av trigonometriska funktioner",
-        "text": "Låt $$x$$ vara en vinkel, cscx $$=$$ $$\\\\frac{1}{y}$$, secx $$=$$ $$\\\\frac{1}{x}$$, och cotx $$=$$ $$\\\\frac{x}{y}$$.",
+        "text": "Låt $$x$$ vara en vinkel, cscx $$=$$ $$\\frac{1}{y}$$, secx $$=$$ $$\\frac{1}{x}$$, och cotx $$=$$ $$\\frac{x}{y}$$.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -44,8 +44,8 @@
         "dependencies": [
             "a750210trig14a-h3"
         ],
-        "title": "Combining",
-        "text": "Baserat på ovanstående information, vad är värdet av secx vid vinkeln $$\\\\frac{\\\\pi}{6}$$?",
+        "title": "Kombinera",
+        "text": "Baserat på ovanstående information, vad är värdet av secx vid vinkeln $$\\frac{\\pi}{6}$$.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "",

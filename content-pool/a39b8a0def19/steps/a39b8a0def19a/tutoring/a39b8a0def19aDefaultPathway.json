@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Att uppskatta derivatan",
-        "text": "Hitta lutningen på tangentlinjen vid $$f(-3)$$.",
+        "text": "Hitta lutningen på tangenten vid $$f(-3)$$.",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -21,7 +21,7 @@
             "a39b8a0def19a-h1"
         ],
         "title": "Lutningsekvation",
-        "text": "Ekvationen för att hitta lutningen är $$\\\\frac{y_2-y_1}{x_2-x_1}$$. Vad är lutningen för en horisontell linje?",
+        "text": "Ekvationen för att hitta lutningen är $$\\frac{y_2-y_1}{x_2-x_1}$$. Vad är lutningen för en horisontell linje?",
         "variabilization": {},
         "oer": "",
         "license": "",

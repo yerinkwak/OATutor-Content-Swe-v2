@@ -4,7 +4,7 @@
         "$$-2$$"
     ],
     "problemType": "TextBox",
-    "stepTitle": "Hitta lutningen på tangentlinjen $$m=f'(a)$$, där $$f(x)=\\\\frac{2}{3+x}$$ och $$a=-4$$",
+    "stepTitle": "Hitta lutningen på tangentlinjen $$m=f'(a)$$, där $$f(x)=\\frac{2}{3+x}$$ och $$a=-4$$",
     "stepBody": "",
     "answerType": "arithmetic",
     "variabilization": {},

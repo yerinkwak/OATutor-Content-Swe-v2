@@ -4,7 +4,7 @@
         "$$\\int_{1}^{2} x \\ln(x^2) \\,dx$$"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "R_n=(1/n)*sum{i\\=1}{n}{i*(1+(i/n)*log((1+i/n)**2))}",
+    "stepTitle": "\\( R_n = \\left( \\sum_{i=1}^{n} i \\cdot \\left( \\log \\left( \\right) \\right)^2 \\right) \\)",
     "stepBody": "",
     "answerType": "string",
     "variabilization": {},

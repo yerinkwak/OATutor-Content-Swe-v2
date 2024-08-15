@@ -15,8 +15,8 @@
         "dependencies": [
             "a1cc0dcareas3a-h1"
         ],
-        "title": "Integrera från $$0$$ till $$\\\\frac{\\\\pi}{4}$$",
-        "text": "$$\\\\int_{0}^{\\\\frac{\\\\pi}{4}} cosx-sinx \\\\,dx=sinx+cox$$ med $$x$$ går från $$0$$ till $$\\\\frac{\\\\pi}{4}$$.",
+        "title": "Integrera från $$0$$ till $$\\frac{\\pi}{4}$$",
+        "text": "$$\\int_{0}^{\\frac{\\pi}{4}} cosx-sinx \\,dx=sinx+cox$$ med $$x$$ går från $$0$$ till $$\\frac{\\pi}{4}$$.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -32,8 +32,8 @@
         "dependencies": [
             "a1cc0dcareas3a-h2"
         ],
-        "title": "Evaluate",
-        "text": "Vad är arean av ett område begränsat från $$x=0$$ till $$x=\\\\frac{\\\\pi}{4}$$?",
+        "title": "Utvärdera",
+        "text": "Vad är arean av ett område begränsat från $$x=0$$ till $$x=\\frac{\\pi}{4}$$?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -44,8 +44,8 @@
         "dependencies": [
             "a1cc0dcareas3a-h3"
         ],
-        "title": "Integrera från $$\\\\frac{\\\\pi}{4}$$ till pi",
-        "text": "$$\\\\int_{0}^{\\\\frac{\\\\pi}{4}} -cosx-sinx \\\\,dx=sinx+cox$$ med $$x$$ går från $$\\\\frac{\\\\pi}{4}$$ till pi",
+        "title": "Integrera från $$\\frac{\\pi}{4}$$ till pi",
+        "text": "$$\\int_{0}^{\\frac{\\pi}{4}} -cosx-sinx \\,dx=sinx+cox$$ med $$x$$ går från $$\\frac{\\pi}{4}$$ till pi",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -61,8 +61,8 @@
         "dependencies": [
             "a1cc0dcareas3a-h4"
         ],
-        "title": "Evaluate",
-        "text": "Vad är arean av ett område begränsat från $$x=0$$ till $$x=\\\\frac{\\\\pi}{4}$$?",
+        "title": "Utvärdera",
+        "text": "Vad är arean av ett område begränsat från $$x=0$$ till $$x=\\frac{\\pi}{4}$$?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -73,7 +73,7 @@
         "dependencies": [
             "a1cc0dcareas3a-h5"
         ],
-        "title": "Området av hela regionen",
+        "title": "Arean av hela området",
         "text": "$$\\sqrt{2}-1+\\sqrt{2}+1=2\\sqrt{2}$$ $${units}^2$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",

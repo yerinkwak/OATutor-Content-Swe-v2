@@ -16,7 +16,7 @@
             "a7079e8inverse1a-h1"
         ],
         "title": "Hitta inversen av f(x) vid $$a=0$$.",
-        "text": "För att hitta inversen av f(x) där $$a=0$$, behöver vi först hitta vilket värde av $$x$$ när vi sätter in det i f(x) som ger oss ett värde av $$0$$. I detta fall är det när $$x=-1$$, så vi vet att $$0f^{\\\\left(-1\\\\right)}=-1$$.",
+        "text": "För att hitta inversen av f(x) där $$a=0$$, behöver vi först hitta vilket värde på $$x$$ när vi sätter in det i f(x) som ger oss ett värde på $$0$$. I detta fall är det när $$x=-1$$, så vi vet att $$0f^{\\left(-1\\right)}=-1$$.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -28,7 +28,7 @@
             "a7079e8inverse1a-h2"
         ],
         "title": "Att hitta derivatan av f(x)",
-        "text": "Nästa, för att hitta derivatan av f(x), kan vi använda potensregeln. För att göra detta kan vi multiplicera koefficienten för varje $$x$$ med dess nuvarande exponent och sedan subtrahera $$1$$ från exponenten. Kom ihåg, konstanter blir $$0$$ när vi tar derivatan av en funktion.",
+        "text": "Nästa steg är att hitta derivatan av f(x), vi kan använda potensregeln. För att göra detta kan vi multiplicera koefficienten för varje $$x$$ med dess nuvarande exponent och sedan subtrahera $$1$$ från exponenten. Kom ihåg, konstanter blir $$0$$ när vi tar derivatan av en funktion.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -39,8 +39,8 @@
         "dependencies": [
             "a7079e8inverse1a-h3"
         ],
-        "title": "Tillämpning av inversa funktionsteoremet",
-        "text": "Eftersom vi redan har funnit $$0f^{\\\\left(-1\\\\right)}=-1$$ och derivatan av f(x), kan vi använda det vi vet i inversa funktionsteoremet.",
+        "title": "Tillämpar inversa funktionssatsen",
+        "text": "Eftersom vi redan har funnit $$0f^{\\left(-1\\right)}=-1$$ och derivatan av f(x), kan vi använda det vi vet i inversa funktionsteoremet.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""

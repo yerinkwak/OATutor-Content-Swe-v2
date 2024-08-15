@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Derivataekvation",
-        "text": "Derivatan av funktionen f(x) vid a definieras av $$\\\\lim_{x\\\\toa} \\\\frac{f{\\\\left(x\\\\right)}-f{\\\\left(a\\\\right)}}{x-a}$$.",
+        "text": "Derivatan av funktionen f(x) vid a definieras av $$\\lim_{x\\toa} \\frac{f{\\left(x\\right)}-f{\\left(a\\right)}}{x-a}$$.",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -15,7 +15,7 @@
         "dependencies": [
             "a39b8a0def15a-h1"
         ],
-        "title": "Infoga",
+        "title": "Inkoppling",
         "text": "Sätt in $$1$$ i a och utveckla ekvationen.",
         "variabilization": {},
         "oer": "",
@@ -27,8 +27,8 @@
         "dependencies": [
             "a39b8a0def15a-h2"
         ],
-        "title": "Simplify",
-        "text": "Förenkla den resulterande ekvationen: $$\\\\frac{\\\\frac{1}{x^3}-\\\\frac{1}{1^3}}{x-1}$$",
+        "title": "Förenkla",
+        "text": "Förenkla den resulterande ekvationen: $$\\frac{\\frac{1}{x^3}-\\frac{1}{1^3}}{x-1}$$",
         "variabilization": {},
         "oer": "",
         "license": ""

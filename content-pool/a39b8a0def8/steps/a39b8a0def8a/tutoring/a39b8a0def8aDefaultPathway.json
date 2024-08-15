@@ -3,8 +3,8 @@
         "id": "a39b8a0def8a-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Tangentlinjens ekvation",
-        "text": "Tangenten till f(x) vid a är linjen som passerar genom punkten (a,f(a)) med lutningen $$\\\\lim_{h\\\\to0} \\\\frac{f{\\\\left(a+h\\\\right)}-f{\\\\left(a\\\\right)}}{h}$$.",
+        "title": "Ekvationen för en tangentlinje",
+        "text": "Tangenten till f(x) vid a är linjen som passerar genom punkten (a,f(a)) med lutning $$\\lim_{h\\to0} \\frac{f{\\left(a+h\\right)}-f{\\left(a\\right)}}{h}$$.",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -15,7 +15,7 @@
         "dependencies": [
             "a39b8a0def8a-h1"
         ],
-        "title": "Inkoppling",
+        "title": "Att sätta in",
         "text": "Som $$a=3$$ i denna ekvation, sätt in $$3+h$$ i f(a).",
         "variabilization": {},
         "oer": "",
@@ -27,8 +27,8 @@
         "dependencies": [
             "a39b8a0def8a-h2"
         ],
-        "title": "Simplify",
-        "text": "Förenkla den resulterande ekvationen: $$\\\\frac{\\\\frac{7}{3+h}-\\\\frac{7}{3}}{h}$$",
+        "title": "Förenkla",
+        "text": "Förenkla den resulterande ekvationen: $$\\frac{\\frac{7}{3+h}-\\frac{7}{3}}{h}$$",
         "variabilization": {},
         "oer": "",
         "license": ""

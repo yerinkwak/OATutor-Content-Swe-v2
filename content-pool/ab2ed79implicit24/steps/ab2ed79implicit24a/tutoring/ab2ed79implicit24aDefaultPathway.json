@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Implicit differentiering",
-        "text": "Använd implicit differentiering för att hitta $$\\\\frac{dy}{dx}$$. Derivera båda sidor av ekvationen, förenkla sedan.",
+        "text": "Använd implicit differentiering för att hitta $$\\frac{dy}{dx}$$. Derivera båda sidor av ekvationen, förenkla sedan.",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -16,7 +16,7 @@
             "ab2ed79implicit24a-h1"
         ],
         "title": "Derivataregler",
-        "text": "Använd produktregeln och kedjeregeln. Produktregeln är: $$\\\\frac{d\\\\left(uv\\\\right)}{dx}=u\\\\left(\\\\frac{dv}{dx}\\\\right)+v\\\\left(\\\\frac{du}{dx}\\\\right)$$. Kedjeregeln är: $$[f(g(x))]'=\\\\operatorname{f'}\\\\left(g{\\\\left(x\\\\right)}\\\\right) \\\\operatorname{g'}\\\\left(x\\\\right)$$.",
+        "text": "Använd produktregeln och kedjeregeln. Produktregeln är: $$\\frac{d\\left(uv\\right)}{dx}=u\\left(\\frac{dv}{dx}\\right)+v\\left(\\frac{du}{dx}\\right)$$. Kedjeregeln är: $$[f(g(x))]'=\\operatorname{f'}\\left(g{\\left(x\\right)}\\right) \\operatorname{g'}\\left(x\\right)$$.",
         "variabilization": {},
         "oer": "",
         "license": ""

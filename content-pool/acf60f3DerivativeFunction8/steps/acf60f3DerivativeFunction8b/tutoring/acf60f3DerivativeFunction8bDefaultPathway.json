@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Andraderivata",
-        "text": "Använd $$f''(x)=\\\\lim_{h\\\\to0} \\\\frac{\\\\operatorname{f'}\\\\left(x+h\\\\right)-\\\\operatorname{f'}\\\\left(x\\\\right)}{h}$$ för att hitta andraderivatan.",
+        "text": "Använd $$f''(x)=\\lim_{h\\to0} \\frac{\\operatorname{f'}\\left(x+h\\right)-\\operatorname{f'}\\left(x\\right)}{h}$$ för att hitta andraderivatan",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -16,7 +16,7 @@
             "acf60f3DerivativeFunction8b-h1"
         ],
         "title": "Derivatafunktion",
-        "text": "Vi kommer att få $$f''(x)=\\\\lim_{h\\\\to0} \\\\frac{4\\\\left(x+h\\\\right)-3-4x-3}{h}$$",
+        "text": "Vi kommer att få $$f''(x)=\\lim_{h\\to0} \\frac{4\\left(x+h\\right)-3-4x-3}{h}$$",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -28,7 +28,7 @@
             "acf60f3DerivativeFunction8b-h2"
         ],
         "title": "Expand",
-        "text": "Expandera $$\\\\frac{4\\\\left(x+h\\\\right)-3-4x-3}{h}$$ och förenkla",
+        "text": "Expandera $$\\frac{4\\left(x+h\\right)-3-4x-3}{h}$$ och förenkla",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -44,8 +44,8 @@
         "dependencies": [
             "acf60f3DerivativeFunction8b-h3"
         ],
-        "title": "Simplify",
-        "text": "Vad kommer vi att få?",
+        "title": "Förenkla",
+        "text": "Vad kommer att få?",
         "variabilization": {},
         "oer": "",
         "license": "",
@@ -62,7 +62,7 @@
             "acf60f3DerivativeFunction8b-h4"
         ],
         "title": "Utvärdera gränsvärdet",
-        "text": "För att få ett slutgiltigt svar, utvärdera gränsvärdet genom att sätta in \\( h \\to 0 \\) $$=$$ $$h=0$$",
+        "text": "För att få ett slutgiltigt svar, utvärdera gränsvärdet genom att sätta in h-->0 $$=$$ $$h=0$$",
         "variabilization": {},
         "oer": "",
         "license": ""

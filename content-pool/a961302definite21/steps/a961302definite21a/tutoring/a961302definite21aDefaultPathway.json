@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Titta på grafen",
-        "text": "Överväg symmetrin hos grafen med avseende på $$t=\\\\frac{1}{2}$$ över [0, 1].",
+        "text": "Överväg symmetrin av grafen med avseende på $$t=\\frac{1}{2}$$ över [0, 1].",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""

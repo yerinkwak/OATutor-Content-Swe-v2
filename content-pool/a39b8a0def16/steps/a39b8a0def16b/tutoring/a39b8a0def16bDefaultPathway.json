@@ -3,7 +3,7 @@
         "id": "a39b8a0def16b-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Infogning",
+        "title": "Inkoppling",
         "text": "Sätt in $$t=2$$ och $$t=2+h$$ i ekvationen som finns i föregående avsnitt för medelhastigheten.",
         "variabilization": {},
         "oer": "",
@@ -20,7 +20,7 @@
         "dependencies": [
             "a39b8a0def16b-h1"
         ],
-        "title": "Constants",
+        "title": "Konstanter",
         "text": "Eftersom det inte finns några variabler, är medelhastigheten densamma eller olika för olika tidsintervall?",
         "variabilization": {},
         "oer": "",

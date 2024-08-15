@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Formel för båglängd",
-        "text": "Båglängd kan hittas genom att beräkna $$\\\\int_{a}^{b} \\\\sqrt{1+{\\\\operatorname{f'}\\\\left(x\\\\right)}^2} \\\\,dx$$, f'(x) är derivatan av f(x) och intervallet [a,b]",
+        "text": "Båglängd kan hittas genom att beräkna $$\\int_{a}^{b} \\sqrt{1+{\\operatorname{f'}\\left(x\\right)}^2} \\,dx$$, f'(x) är derivatan av f(x) och intervallet [a,b]",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -16,7 +16,7 @@
             "a3e1067arc10a-h1"
         ],
         "title": "Hitta derivatan av f(x)",
-        "text": "Vi har $$f(x)=y=-\\\\left(\\\\frac{1}{2}\\\\right) x+25$$, så $$f'(x)=-\\\\left(\\\\frac{1}{2}\\\\right)$$",
+        "text": "Vi har $$f(x)=y=-\\left(\\frac{1}{2}\\right) x+25$$, så $$f'(x)=-\\left(\\frac{1}{2}\\right)$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -27,8 +27,8 @@
         "dependencies": [
             "a3e1067arc10a-h2"
         ],
-        "title": "Anslut",
-        "text": "Efter att vi har satt in f'(x) och intervallet, kommer vi att ha Arc $$Length=\\\\int_{1}^{4} \\\\sqrt{1+{\\\\left(-\\\\frac{1}{2}\\\\right)}^2} \\\\,dx=\\\\int_{1}^{4} \\\\sqrt{\\\\frac{5}{4}} \\\\,dx$$",
+        "title": "Sätt in",
+        "text": "Efter att vi har satt in f'(x) och intervallet, kommer vi att ha Arc $$Length=\\int_{1}^{4} \\sqrt{1+{\\left(-\\frac{1}{2}\\right)}^2} \\,dx=\\int_{1}^{4} \\sqrt{\\frac{5}{4}} \\,dx$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -40,7 +40,7 @@
             "a3e1067arc10a-h3"
         ],
         "title": "Utvärdera integralen",
-        "text": "Vi kan ta $$\\\\sqrt{\\\\frac{5}{4}}$$ ut ur integralen, vilket ger oss Arc $$Length=\\\\sqrt{\\\\frac{5}{4}}$$ gånger $$x$$ med gränser från $$1$$ till $$4$$",
+        "text": "Vi kan ta $$\\sqrt{\\frac{5}{4}}$$ ur integralen, vilket ger oss Arc $$Length=\\sqrt{\\frac{5}{4}}$$ gånger $$x$$ med gräns från $$1$$ till $$4$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -57,7 +57,7 @@
             "a3e1067arc10a-h4"
         ],
         "title": "Utvärdera integralen",
-        "text": "Vad är $$\\\\sqrt{\\\\frac{5}{4}} \\\\left(4-1\\\\right)$$?",
+        "text": "Vad är $$\\sqrt{\\frac{5}{4}} \\left(4-1\\right)$$?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""

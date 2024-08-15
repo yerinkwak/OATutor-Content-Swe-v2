@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Sekantlinjens ekvation",
-        "text": "För att hitta sekantlinjen mellan två punkter, använd ekvationen $$\\\\frac{f{\\\\left(x\\\\right)}-f{\\\\left(a\\\\right)}}{x-a}$$.",
+        "text": "För att hitta sekantlinjen mellan två punkter, använd ekvationen $$\\frac{f{\\left(x\\right)}-f{\\left(a\\right)}}{x-a}$$.",
         "variabilization": {},
         "oer": "",
         "license": ""

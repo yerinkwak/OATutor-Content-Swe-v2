@@ -4,7 +4,7 @@
         "$$61$$"
     ],
     "problemType": "TextBox",
-    "stepTitle": "Dra en slutsats om fordonets momentanhastighet vid $$t=4$$ sekunder. Från [4, $$4.1]$$, är medelhastigheten $$61.7244$$ $$\\\\frac{ft}{s}$$. Från [4, $$4.001]$$, är medelhastigheten $$61.0072$$ $$\\\\frac{ft}{s}$$. Från [4, $$4.0001]$$, är medelhastigheten $$61.0007$$ $$\\\\frac{ft}{s}$$.",
+    "stepTitle": "Dra en slutsats om fordonets momentanhastighet vid $$t=4$$ sekunder. Från [4, $$4.1]$$, är medelhastigheten $$61.7244$$ $$\\frac{ft}{s}$$. Från [4, $$4.001]$$, är medelhastigheten $$61.0072$$ $$\\frac{ft}{s}$$. Från [4, $$4.0001]$$, är medelhastigheten $$61.0007$$ $$\\frac{ft}{s}$$.",
     "stepBody": "",
     "answerType": "arithmetic",
     "variabilization": {},

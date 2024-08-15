@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Bryta ner frågan",
-        "text": "Skriv \\(\\cot(x)\\) som \\(\\sin(x)\\) och \\(\\cos(x)\\)",
+        "text": "Skriv \\cot(x) som \\sin(x) och \\cos(x)",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -20,7 +20,7 @@
         "dependencies": [
             "a394625deriv17a-h1"
         ],
-        "title": "Sub-question",
+        "title": "Deluppgift",
         "text": "Vad är cot(x)?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
@@ -41,8 +41,8 @@
         "dependencies": [
             "a394625deriv17a-h2"
         ],
-        "title": "Sub-question",
-        "text": "Vad är derivatan av sin(x)",
+        "title": "Deluppgift",
+        "text": "Vad är derivatan av \\(\\sin\\{paren1\\}\\)",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "",
@@ -63,7 +63,7 @@
         "dependencies": [
             "a394625deriv17a-h3"
         ],
-        "title": "Sub-question",
+        "title": "Deluppgift",
         "text": "Vad är derivatan av cos(x)",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
@@ -81,7 +81,7 @@
             "a394625deriv17a-h4"
         ],
         "title": "Tillämpa deriveringsregeln",
-        "text": "Använd kvotregeln för derivator av sammansatta funktioner för att hitta den slutliga lösningen.",
+        "text": "Tillämpa kvotregeln för sammansatta funktioner för att hitta den slutliga lösningen",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""

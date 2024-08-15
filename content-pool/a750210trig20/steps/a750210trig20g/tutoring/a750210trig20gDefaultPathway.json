@@ -3,8 +3,8 @@
         "id": "a750210trig20g-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Hitta \\(\\cot x\\)",
-        "text": "$$cotx=$$ längden av $$\\\\frac{adjacent}{length}$$ av motsatt",
+        "title": "Hitta \\cot x",
+        "text": "Längden av $$\\frac{adjacent}{length}$$ av motsatt",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -15,8 +15,8 @@
         "dependencies": [
             "a750210trig20g-h1"
         ],
-        "title": "Lengths",
-        "text": "Längden på den motstående kateten till A är $$a=84$$, längden på den närliggande kateten till A är $$b=13$$, och längden på hypotenusan är $$c=85$$.",
+        "title": "Längder",
+        "text": "Längden på kateten mittemot A är $$a=84$$, längden på kateten intill A är $$b=13$$, och längden på hypotenusan är $$c=85$$.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""

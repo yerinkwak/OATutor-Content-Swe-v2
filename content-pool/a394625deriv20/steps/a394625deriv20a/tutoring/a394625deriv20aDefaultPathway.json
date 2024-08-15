@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Bryta ner frågan",
-        "text": "Ta den första derivatan och derivera sedan den en gång till.",
+        "text": "Gör förstaderivatan och derivera sedan den en gång till",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -20,8 +20,8 @@
         "dependencies": [
             "a394625deriv20a-h1"
         ],
-        "title": "Sub-question",
-        "text": "Vad är första derivatan?",
+        "title": "Deluppgift",
+        "text": "Vad är förstaderivatan?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "",
@@ -42,8 +42,8 @@
         "dependencies": [
             "a394625deriv20a-h2"
         ],
-        "title": "Sub-question",
-        "text": "Vad är derivatan av första derivatan?",
+        "title": "Deluppgift",
+        "text": "Vad är derivatan av förstaderivatan?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "",
@@ -59,7 +59,7 @@
         "dependencies": [
             "a394625deriv20a-h3"
         ],
-        "title": "Derivatan av den första derivatan är den andra derivatan.",
+        "title": "Derivatan av den första derivatan är den andra derivatan",
         "text": "Dra slutsatsen från dina del-frågor",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",

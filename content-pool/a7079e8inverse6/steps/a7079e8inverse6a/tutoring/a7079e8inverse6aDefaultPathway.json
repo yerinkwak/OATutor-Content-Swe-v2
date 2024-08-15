@@ -15,8 +15,8 @@
         "dependencies": [
             "a7079e8inverse6a-h1"
         ],
-        "title": "Att hitta inversen av f(x) vid $$a=0$$.",
-        "text": "För att hitta inversen av f(x) där $$a=0$$, behöver vi först hitta vilket värde på $$x$$ som, när vi sätter in det i f(x), ger oss ett värde på $$0$$. I detta fall är det när $$x=0$$, så vi vet att $$0f^{\\\\left(-1\\\\right)}=0$$.",
+        "title": "Hitta inversen av f(x) vid $$a=0$$.",
+        "text": "För att hitta inversen av f(x) där $$a=0$$, behöver vi först hitta vilket värde av $$x$$ när vi sätter in det i f(x) som ger oss ett värde av $$0$$. I denna situation är det när $$x=0$$, så vi vet att $$0f^{\\left(-1\\right)}=0$$.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -39,8 +39,8 @@
         "dependencies": [
             "a7079e8inverse6a-h3"
         ],
-        "title": "Tillämpning av inversa funktionsteoremet",
-        "text": "Eftersom vi redan har funnit $$0f^{\\\\left(-1\\\\right)}=0$$ och derivatan av f(x), kan vi använda det vi vet i inversa funktionsteoremet.",
+        "title": "Tillämpning av inversa funktionens sats",
+        "text": "Eftersom vi redan har funnit $$0f^{\\left(-1\\right)}=0$$ och derivatan av f(x), kan vi använda det vi vet i inversa funktionens sats.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""

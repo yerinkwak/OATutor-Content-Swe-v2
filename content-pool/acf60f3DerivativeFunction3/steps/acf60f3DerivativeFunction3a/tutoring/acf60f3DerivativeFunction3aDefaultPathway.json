@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Derivatafunktion",
-        "text": "Börja direkt med definitionen av derivatafunktionen. $$f′(x)=\\\\lim_{h\\\\to0} \\\\frac{f{\\\\left(x+h\\\\right)}-f{\\\\left(x\\\\right)}}{h}$$",
+        "text": "Börja direkt med definitionen av derivatafunktionen. $$f′(x)=\\lim_{h\\to0} \\frac{f{\\left(x+h\\right)}-f{\\left(x\\right)}}{h}$$",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -16,7 +16,7 @@
             "acf60f3DerivativeFunction3a-h1"
         ],
         "title": "Derivatafunktion",
-        "text": "Vi kommer att få $$f'(x)=\\\\lim_{h\\\\to0} \\\\frac{{\\\\left(x+h\\\\right)}^2-x^2}{h}$$",
+        "text": "Vi kommer att få $$f'(x)=\\lim_{h\\to0} \\frac{{\\left(x+h\\right)}^2-x^2}{h}$$",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -28,7 +28,7 @@
             "acf60f3DerivativeFunction3a-h2"
         ],
         "title": "Expand",
-        "text": "Expandera $$\\\\frac{{\\\\left(x+h\\\\right)}^2-x^2}{h}$$ och förenkla",
+        "text": "Expandera $$\\frac{{\\left(x+h\\right)}^2-x^2}{h}$$ och förenkla",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -44,8 +44,8 @@
         "dependencies": [
             "acf60f3DerivativeFunction3a-h3"
         ],
-        "title": "Simplify",
-        "text": "Vad kommer att få?",
+        "title": "Förenkla",
+        "text": "Vad kommer vi att få?",
         "variabilization": {},
         "oer": "",
         "license": "",
@@ -61,8 +61,8 @@
         "dependencies": [
             "acf60f3DerivativeFunction3a-h4"
         ],
-        "title": "Simplify",
-        "text": "Förkorta den gemensamma faktorn $$h$$",
+        "title": "Förenkla",
+        "text": "Avbryt den gemensamma faktorn $$h$$",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -78,7 +78,7 @@
         "dependencies": [
             "acf60f3DerivativeFunction3a-h5"
         ],
-        "title": "Simplify",
+        "title": "Förenkla",
         "text": "Vad kommer att få?",
         "variabilization": {},
         "oer": "",
@@ -96,7 +96,7 @@
             "acf60f3DerivativeFunction3a-h6"
         ],
         "title": "Utvärdera gränsvärdet",
-        "text": "För att få ett slutgiltigt svar, utvärdera gränsvärdet genom att sätta in h-->0 $$=$$ $$h=0$$",
+        "text": "För att få ett slutgiltigt svar, beräkna gränsvärdet genom att sätta in h-->0 $$=$$ $$h=0$$",
         "variabilization": {},
         "oer": "",
         "license": ""

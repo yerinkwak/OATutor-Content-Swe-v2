@@ -4,7 +4,7 @@
         "g(t)"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "Två fordon börjar resa sida vid sida längs en rak väg. Deras positionsfunktioner, som visas i följande graf, ges av $$s=f(t)$$ och $$s=g(t)$$, där s mäts i fot och $$t$$ mäts i sekunder. Vilket fordon kör snabbare vid $$t=4$$ sekunder?",
+    "stepTitle": "Två fordon börjar resa sida vid sida längs en rak väg. Deras positionsfunktioner, visade i följande graf, ges av $$s=f(t)$$ och $$s=g(t)$$, där s mäts i fot och $$t$$ mäts i sekunder. Vilket fordon kör snabbare vid $$t=4$$ sekunder?",
     "stepBody": "##figure1.gif## ",
     "answerType": "string",
     "variabilization": {},

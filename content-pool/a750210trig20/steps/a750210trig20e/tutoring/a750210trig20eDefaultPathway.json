@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Hitta \\(\\csc x\\)",
-        "text": "$$cscx=$$ längd av $$\\\\frac{hypotenuse}{length}$$ av motstående ben.",
+        "text": "Längden av $$\\frac{hypotenuse}{length}$$ av motstående sida.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -15,8 +15,8 @@
         "dependencies": [
             "a750210trig20e-h1"
         ],
-        "title": "Lengths",
-        "text": "Längden på kateten mittemot A är $$a=84$$, längden på kateten intill A är $$b=13$$, och längden på hypotenusan är $$c=85$$.",
+        "title": "Längder",
+        "text": "Längden på den motstående sidan till A är $$a=84$$, längden på den närliggande sidan till A är $$b=13$$, och längden på hypotenusan är $$c=85$$.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""

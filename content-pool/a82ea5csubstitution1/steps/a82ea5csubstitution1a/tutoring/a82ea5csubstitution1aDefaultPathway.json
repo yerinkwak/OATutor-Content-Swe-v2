@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Välj ett uttryck för u",
-        "text": "Välj först ett uttryck för u.",
+        "text": "Först välj ett uttryck för u.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -72,7 +72,7 @@
             "a82ea5csubstitution1a-h4"
         ],
         "title": "Utvärdera integralen",
-        "text": "Kom ihåg att du är derivatan av det uttryck som valts för u, oavsett vad som finns inuti integranden. Utvärdera integralen med avseende på u.",
+        "text": "Kom ihåg att du är derivatan av uttrycket som valts för u, oavsett vad som finns inuti integranden. Utvärdera integralen med avseende på u.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""

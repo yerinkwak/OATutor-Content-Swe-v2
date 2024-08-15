@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Medelhastighetsekvationen",
-        "text": "Om s(t) är positionen för ett objekt som rör sig längs en koordinataxel, är objektets medelhastighet över ett tidsintervall [a,t] $$V_{avg}=\\\\frac{s\\\\left(t\\\\right)-s\\\\left(a\\\\right)}{t-a}$$",
+        "text": "Om s(t) är positionen för ett objekt som rör sig längs en koordinataxel, är objektets medelhastighet över ett tidsintervall [a,t] $$V_{avg}=\\frac{s\\left(t\\right)-s\\left(a\\right)}{t-a}$$.",
         "variabilization": {},
         "oer": "",
         "license": ""

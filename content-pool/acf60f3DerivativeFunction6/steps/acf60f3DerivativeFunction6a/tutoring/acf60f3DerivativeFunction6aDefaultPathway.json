@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Derivatafunktion",
-        "text": "Börja direkt med definitionen av derivatafunktionen. $$f′(x)=\\\\lim_{h\\\\to0} \\\\frac{f{\\\\left(x+h\\\\right)}-f{\\\\left(x\\\\right)}}{h}$$",
+        "text": "Börja direkt med definitionen av derivatafunktionen. $$f′(x)=\\lim_{h\\to0} \\frac{f{\\left(x+h\\right)}-f{\\left(x\\right)}}{h}$$",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -15,8 +15,8 @@
         "dependencies": [
             "acf60f3DerivativeFunction6a-h1"
         ],
-        "title": "Derivatafunktion",
-        "text": "Vi kommer att få $$f'(x)=\\\\lim_{h\\\\to0} \\\\frac{\\\\sqrt{2\\\\left(x+h\\\\right)}-\\\\sqrt{2x}}{h}$$",
+        "title": "Derivata",
+        "text": "Vi kommer att få $$f'(x)=\\lim_{h\\to0} \\frac{\\sqrt{2\\left(x+h\\right)}-\\sqrt{2x}}{h}$$",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -27,8 +27,8 @@
         "dependencies": [
             "acf60f3DerivativeFunction6a-h2"
         ],
-        "title": "Simplify",
-        "text": "För att förenkla, multiplicera täljare och nämnare med $$\\\\sqrt{2\\\\left(h+x\\\\right)}+\\\\sqrt{x}$$ utan att fördela i nämnaren",
+        "title": "Förenkla",
+        "text": "För att förenkla, multiplicera täljare och nämnare med $$\\sqrt{2\\left(h+x\\right)}+\\sqrt{x}$$ utan att distribuera i nämnaren.",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -44,7 +44,7 @@
         "dependencies": [
             "acf60f3DerivativeFunction6a-h3"
         ],
-        "title": "Simplify",
+        "title": "Förenkla",
         "text": "Vad får vi efter multiplikation?",
         "variabilization": {},
         "oer": "",
@@ -64,8 +64,8 @@
                     "$$2h$$"
                 ],
                 "dependencies": [],
-                "title": "Simplify",
-                "text": "Vad är $$\\\\left(\\\\sqrt{2\\\\left(x+h\\\\right)}-\\\\sqrt{x}\\\\right) \\\\left(\\\\sqrt{2\\\\left(x+h\\\\right)}+\\\\sqrt{x}\\\\right)$$?",
+                "title": "Förenkla",
+                "text": "Vad är $$\\left(\\sqrt{2\\left(x+h\\right)}-\\sqrt{x}\\right) \\left(\\sqrt{2\\left(x+h\\right)}+\\sqrt{x}\\right)$$?",
                 "variabilization": {},
                 "oer": "",
                 "license": ""
@@ -78,7 +78,7 @@
         "dependencies": [
             "acf60f3DerivativeFunction6a-h4"
         ],
-        "title": "Simplify",
+        "title": "Förenkla",
         "text": "Förkorta den gemensamma faktorn $$h$$",
         "variabilization": {},
         "oer": "",
@@ -95,8 +95,8 @@
         "dependencies": [
             "acf60f3DerivativeFunction6a-h5"
         ],
-        "title": "Simplify",
-        "text": "Vad kommer att få?",
+        "title": "Förenkla",
+        "text": "Vad kommer vi att få?",
         "variabilization": {},
         "oer": "",
         "license": "",
@@ -112,8 +112,8 @@
         "dependencies": [
             "acf60f3DerivativeFunction6a-h6"
         ],
-        "title": "Utvärdera gränsvärdet",
-        "text": "För att få ett slutgiltigt svar, utvärdera gränsvärdet genom att sätta in h-->0 $$=$$ $$h=0$$",
+        "title": "Beräkna gränsvärdet",
+        "text": "För att få ett slutgiltigt svar, beräkna gränsvärdet genom att sätta in h-->0 $$=$$ $$h=0$$",
         "variabilization": {},
         "oer": "",
         "license": ""

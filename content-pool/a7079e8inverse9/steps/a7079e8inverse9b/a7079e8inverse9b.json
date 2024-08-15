@@ -4,7 +4,7 @@
         "$$y=\\frac{x}{96}-5$$"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "Hitta ekvationen för tangentlinjen till grafen av $$f^{\\\\left(-1\\\\right)}$$ vid den angivna punkten P.",
+    "stepTitle": "Hitta ekvationen för tangentlinjen till grafen av $$f^{\\left(-1\\right)}$$ vid den angivna punkten P.",
     "stepBody": "",
     "answerType": "string",
     "variabilization": {},

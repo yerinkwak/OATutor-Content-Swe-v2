@@ -1,7 +1,7 @@
 {
     "id": "acf60f3DerivativeFunction11",
     "title": "Att hitta en andraderivata",
-    "body": "För $$f(x)=x+\\\\frac{1}{x}$$, hitta f''(x).",
+    "body": "För $$f(x)=x+\\frac{1}{x}$$, hitta f''(x).",
     "variabilization": {},
     "oer": "https://openstax.org/details/books/calculus-volume-1 <OpenStax: Calculus Volume 1>",
     "license": 0.0,

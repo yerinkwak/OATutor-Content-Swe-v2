@@ -4,7 +4,7 @@
         "$$\\frac{1}{3}$$"
     ],
     "problemType": "TextBox",
-    "stepTitle": "För följande positionsfunktion $$y=\\\\frac{s}{t}+5$$, hitta det förenklade uttrycket för medelhastigheten från $$t=2$$ till $$t=2+h$$.",
+    "stepTitle": "För följande positionsfunktion $$y=\\frac{s}{t}+5$$, hitta det förenklade uttrycket för medelhastigheten från $$t=2$$ till $$t=2+h$$.",
     "stepBody": "",
     "answerType": "arithmetic",
     "variabilization": {},

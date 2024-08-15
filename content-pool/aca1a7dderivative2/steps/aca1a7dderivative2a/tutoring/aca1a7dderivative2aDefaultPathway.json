@@ -86,7 +86,7 @@
         "dependencies": [
             "aca1a7dderivative2a-h5"
         ],
-        "title": "Konstantregeln",
+        "title": "Konstanteregeln",
         "text": "Om f(x) är en konstant c, $$f'(x)=0$$.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",

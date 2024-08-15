@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Bryta ner frågan",
-        "text": "Skriv \\(\\csc(x)\\) som \\(\\sin(x)\\) och \\(\\cos(x)\\)",
+        "text": "Uttryck csc(x) med hjälp av sin(x) och cos(x)",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -20,7 +20,7 @@
         "dependencies": [
             "a394625deriv19a-h1"
         ],
-        "title": "Sub-question",
+        "title": "Deluppgift",
         "text": "Vad är sec(x)?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
@@ -42,8 +42,8 @@
         "dependencies": [
             "a394625deriv19a-h2"
         ],
-        "title": "Sub-question",
-        "text": "Vad är derivatan av \\(\\sin(x)\\)?",
+        "title": "Deluppgift",
+        "text": "Vad är derivatan av \\(\\sin\\{paren1\\}\\)?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "",
@@ -64,8 +64,8 @@
         "dependencies": [
             "a394625deriv19a-h3"
         ],
-        "title": "Sub-question",
-        "text": "Vad är derivatan av $$\\\\frac{1}sin^$\\\\left(x\\\\righ$$",
+        "title": "Deluppgift",
+        "text": "Vad är derivatan av $$\\frac{1}{\\sin(x)}$$?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "",

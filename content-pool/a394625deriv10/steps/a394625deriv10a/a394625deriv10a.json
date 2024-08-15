@@ -4,7 +4,7 @@
         "$$-sin\\left(x\\right) \\operatorname{csc}\\left(x\\right)+cos\\left(x\\right) {\\operatorname{csc}\\left(x\\right)}^2$$"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "För följande övningar, hitta $$\\\\frac{dy}{dx}$$ för de givna funktionerna.",
+    "stepTitle": "För följande övningar, hitta $$\\frac{dy}{dx}$$ för de givna funktionerna.",
     "stepBody": "$$y=cos\\left(x\\right) \\left(1+\\operatorname{csc}\\left(x\\right)\\right)$$",
     "answerType": "string",
     "variabilization": {},

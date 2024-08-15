@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Identifiera kurvorna",
-        "text": "Först måste du identifiera de två kurvorna som definierar området vars area du vill hitta. I det här fallet är f(x) den övre kurvan och g(x) den nedre kurvan.",
+        "text": "Först måste du identifiera de två kurvorna som definierar området vars area du vill hitta. I detta fall är f(x) den övre kurvan och g(x) den nedre kurvan",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -28,7 +28,7 @@
             "a1cc0dcareas1a-h2"
         ],
         "title": "Ställ upp integralen",
-        "text": "Med $$f(x)=x+4$$ och $$g(x)=3-\\\\frac{x}{2}$$ över det givna intervallet [1,4], kan vi fullborda integraluttrycket som $$A=\\\\int_{1}^{4} x+4-3-\\\\frac{x}{2} \\\\,dx=\\\\int_{1}^{4} \\\\frac{3x}{2}+1 \\\\,dx$$",
+        "text": "Med $$f(x)=x+4$$ och $$g(x)=3-\\frac{x}{2}$$ över det givna intervallet [1,4], kan vi fullborda integraluttrycket som $$A=\\int_{1}^{4} x+4-3-\\frac{x}{2} \\,dx=\\int_{1}^{4} \\frac{3x}{2}+1 \\,dx$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -40,7 +40,7 @@
             "a1cc0dcareas1a-h3"
         ],
         "title": "Hitta integralen",
-        "text": "$$\\int_{1}^{4} \\frac{3x}{2}+1 \\,dx=\\frac{3x^2}{4}+x$$ as the limits go from $$x=1$$ to $$x=4$$",
+        "text": "$$\\int_{1}^{4} \\frac{3x}{2}+1 \\,dx=\\frac{3x^2}{4}+x$$ när gränserna går från $$x=1$$ till $$x=4$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -51,7 +51,7 @@
         "dependencies": [
             "a1cc0dcareas1a-h4"
         ],
-        "title": "Evaluate",
+        "title": "Utvärdera",
         "text": "$$16-\\frac{7}{4}=\\frac{57}{4}$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",

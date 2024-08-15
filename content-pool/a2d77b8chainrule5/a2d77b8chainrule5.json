@@ -1,7 +1,7 @@
 {
     "id": "a2d77b8chainrule5",
     "title": "Övningar på kedjeregeln",
-    "body": "Givet $$y=f(u)$$ och $$u=g(x)$$, hitta $$\\\\frac{dy}{dx}$$ i termer av $$x!$$",
+    "body": "Givet $$y=f(u)$$ och $$u=g(x)$$, hitta $$\\frac{dy}{dx}$$ i termer av $$x!$$",
     "variabilization": {},
     "oer": "https://openstax.org/books/college-physics-2e/pages/3-problems-exercises <OpenStax: College Physics 2e>",
     "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",

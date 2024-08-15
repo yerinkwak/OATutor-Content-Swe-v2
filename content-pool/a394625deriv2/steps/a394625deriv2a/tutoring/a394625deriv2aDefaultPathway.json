@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Bryta ner frågan",
-        "text": "Vi kan dela upp funktionerna i $$3\\\\operatorname{csc}\\\\left(x\\\\right)$$ och $$\\\\frac{5}{x}$$",
+        "text": "Vi kan dela upp funktionerna i $$3\\operatorname{csc}\\left(x\\right)$$ och $$\\frac{5}{x}$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -20,8 +20,8 @@
         "dependencies": [
             "a394625deriv2a-h1"
         ],
-        "title": "Sub-question",
-        "text": "Vad är derivatan av $$3\\\\operatorname{csc}\\\\left(x\\\\right)$$",
+        "title": "Deluppgift",
+        "text": "Vad är derivatan av $$3\\operatorname{csc}\\left(x\\right)$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "",
@@ -42,8 +42,8 @@
         "dependencies": [
             "a394625deriv2a-h2"
         ],
-        "title": "Sub-question",
-        "text": "Vad är derivatan av $$\\\\frac{5}{x}$$",
+        "title": "Deluppgift",
+        "text": "Vad är derivatan av $$\\frac{5}{x}$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "",
@@ -60,7 +60,7 @@
             "a394625deriv2a-h3"
         ],
         "title": "Addering av derivator",
-        "text": "Lägg ihop alla derivator och få slutresultatet. Derivator av konstanter är 0.",
+        "text": "Addera alla derivator och få slutresultatet. (Derivatives of constants are 0)",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""

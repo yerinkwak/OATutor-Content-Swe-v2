@@ -4,7 +4,7 @@
         "$$-3$$"
     ],
     "problemType": "TextBox",
-    "stepTitle": "För funktionen $$f(x)=\\\\frac{1}{x^3}$$, hitta f′(a), där $$a=1$$.",
+    "stepTitle": "För funktionen $$f(x)=\\frac{1}{x^3}$$, hitta f′(a), där $$a=1$$.",
     "stepBody": "",
     "answerType": "arithmetic",
     "variabilization": {},

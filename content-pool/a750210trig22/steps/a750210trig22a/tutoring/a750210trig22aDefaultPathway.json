@@ -3,8 +3,8 @@
         "id": "a750210trig22a-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Reciproka trigonometriska identiteter",
-        "text": "Kom ihåg att cscx är lika med $$\\\\frac{1}{sinx}$$",
+        "title": "Reciprok trigonometrisk identitet",
+        "text": "Kom ihåg att cscx är lika med $$\\frac{1}{sinx}$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -16,7 +16,7 @@
             "a750210trig22a-h1"
         ],
         "title": "Pythagoreiska identiteter",
-        "text": "Kom ihåg att $$1$$ + $$tan\\\\left(x\\\\right) tan\\\\left(x\\\\right)$$ är lika med $$\\\\operatorname{sec}\\\\left(x\\\\right) \\\\operatorname{sec}\\\\left(x\\\\right)$$",
+        "text": "Kom ihåg att $$1$$ + $$tan\\left(x\\right) tan\\left(x\\right)$$ är lika med $$\\operatorname{sec}\\left(x\\right) \\operatorname{sec}\\left(x\\right)$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""

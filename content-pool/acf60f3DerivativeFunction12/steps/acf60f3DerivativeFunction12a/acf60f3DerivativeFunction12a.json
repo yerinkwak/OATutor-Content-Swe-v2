@@ -4,7 +4,7 @@
         "$$6$$"
     ],
     "problemType": "TextBox",
-    "stepTitle": "Partikelns position längs en koordinataxel vid tiden $$t$$ (i sekunder) ges av $$s(t)=3t^2-4t+1$$ (i meter). Hitta funktionen som beskriver dess acceleration vid tiden $$t$$.",
+    "stepTitle": "Partikelns position längs en koordinataxel vid tiden $$t$$ (in seconds) ges av $$s(t)=3t^2-4t+1$$ (in meters). Hitta funktionen som beskriver dess acceleration vid tiden $$t$$.",
     "stepBody": "",
     "answerType": "arithmetic",
     "variabilization": {},

@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Implicit differentiering",
-        "text": "Ställ in ekvationen för SA av en låda till $$78$$. Använd sedan implicit differentiering för att hitta $$\\\\frac{dy}{dx}$$ genom att derivera båda sidorna av ekvationen och förenkla.",
+        "text": "Sätt ekvationen för SA av en låda till $$78$$. Använd sedan implicit differentiering för att hitta $$\\frac{dy}{dx}$$ genom att derivera båda sidor av ekvationen och förenkla.",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -16,7 +16,7 @@
             "ab2ed79implicit23a-h1"
         ],
         "title": "Punkt-lutningsform",
-        "text": "Sätt in $$x=3$$ och $$y=5$$ i $$\\\\frac{dy}{dx}$$-ekvationen.",
+        "text": "Sätt in $$x=3$$ och $$y=5$$ i $$\\frac{dy}{dx}$$-ekvationen.",
         "variabilization": {},
         "oer": "",
         "license": ""

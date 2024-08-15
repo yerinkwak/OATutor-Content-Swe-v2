@@ -16,7 +16,7 @@
             "a1cc0dcareas10a-h1"
         ],
         "title": "Hitta gränsvärdena",
-        "text": "$$x^2=-\\\\left(x^2\\\\right)+18x$$ då $$x=0$$ och $$x=9$$.",
+        "text": "$$x^2=-\\left(x^2\\right)+18x$$ sedan $$x=0$$ och $$x=9$$.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -49,7 +49,7 @@
             "a1cc0dcareas10a-h3"
         ],
         "title": "Definiera den övre grafen",
-        "text": "Arean av A ges av $$\\\\int_{a}^{b} |f{\\\\left(x\\\\right)}-g{\\\\left(x\\\\right)}| \\\\,dx$$, eftersom f(x) är den övre grafen och g(x) är den nedre.",
+        "text": "Arean av A ges av $$\\int_{a}^{b} |f{\\left(x\\right)}-g{\\left(x\\right)}| \\,dx$$, eftersom f(x) är en övre graf och g(x) är den nedre.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -73,7 +73,7 @@
             "a1cc0dcareas10a-h5"
         ],
         "title": "Beräkna integralen",
-        "text": "$$-\\\\left(\\\\frac{2x^2}{3}\\\\right)+\\\\frac{18x^2}{2}$$ när gränserna går från $$x=0$$ till $$x=9$$.",
+        "text": "$$-\\left(\\frac{2x^2}{3}\\right)+\\frac{18x^2}{2}$$ när gränserna går från $$x=0$$ till $$x=9$$.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -84,7 +84,7 @@
         "dependencies": [
             "a1cc0dcareas10a-h6"
         ],
-        "title": "Evaluate",
+        "title": "Utvärdera",
         "text": "$$-\\left(\\frac{2\\times9^3}{3}\\right)+9\\times9^2=243$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",

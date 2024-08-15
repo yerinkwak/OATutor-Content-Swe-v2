@@ -3,8 +3,8 @@
         "id": "a7079e8inverse14a-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Derivatan av inversa trigonometriska funktioner: \\(\\sec(x)\\)",
-        "text": "Formeln för derivatan av invers sek(x) är $$\\\\frac{d}{dx} {sec}^{-1} x=\\\\frac{1}{|x| \\\\sqrt{x^2-1}}$$.",
+        "title": "Derivatan av inversa trigonometriska funktioner: \\sec(x)",
+        "text": "Formeln för derivatan av invers sek(x) är $$\\frac{d}{dx} {sec}^{-1} x=\\frac{1}{|x| \\sqrt{x^2-1}}$$.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -16,7 +16,7 @@
             "a7079e8inverse14a-h1"
         ],
         "title": "Tillämpa kedjeregeln",
-        "text": "Eftersom inversen av sec har en funktion inom parenteserna, \"1/x\" i detta fall, måste vi tillämpa kedjeregeln innan vi använder formeln från den tidigare ledtråden. För referens är kedjeregeln $$(f(g(x)))'=\\\\operatorname{f'}\\\\left(g{\\\\left(x\\\\right)}\\\\right) \\\\operatorname{g'}\\\\left(x\\\\right)$$.",
+        "text": "Eftersom inversen av sec har en funktion inom parenteserna, \"1/x\" i detta fall, måste vi tillämpa kedjeregeln innan vi använder formeln från den tidigare ledtråden. För referens är kedjeregeln $$(f(g(x)))'=\\operatorname{f'}\\left(g{\\left(x\\right)}\\right) \\operatorname{g'}\\left(x\\right)$$.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""

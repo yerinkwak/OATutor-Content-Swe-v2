@@ -3,8 +3,8 @@
         "id": "a7079e8inverse9b-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Använd punkt-lutningsformen för ekvationen av en linje.",
-        "text": "Punkt-lutningsformen för ekvationen av en linje är $$y-y1=m \\\\left(x-x1\\\\right)$$. Vi kan sätta in det vi vet, vilket är $$m=\\\\frac{1}{96}$$, $$x1=16$$, $$y1=1$$, för att lösa ekvationen.",
+        "title": "Använd enpunktsformeln för ekvationen av en linje.",
+        "text": "Punkt-riktningsformen för ekvationen av en linje är $$y-y1=m \\left(x-x1\\right)$$. Vi kan sätta in det vi vet, vilket är $$m=\\frac{1}{96}$$, $$x1=16$$, $$y1=1$$, för att lösa ekvationen.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""

@@ -3,8 +3,8 @@
         "id": "acf60f3DerivativeFunction12a-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Deriverad funktion",
-        "text": "Eftersom $$v(t)=s′(t)$$ och $$a(t)=v′(t)=s''(t)$$, börjar vi med att hitta derivatan av s(t): $$s'(t)=\\\\lim_{h\\\\to0} \\\\frac{s\\\\left(t+h\\\\right)-s\\\\left(t\\\\right)}{h}$$",
+        "title": "Derivatafunktion",
+        "text": "Eftersom $$v(t)=s′(t)$$ och $$a(t)=v′(t)=s''(t)$$, börjar vi med att hitta derivatan av s(t): $$s'(t)=\\lim_{h\\to0} \\frac{s\\left(t+h\\right)-s\\left(t\\right)}{h}$$",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -16,7 +16,7 @@
             "acf60f3DerivativeFunction12a-h1"
         ],
         "title": "Derivatafunktion",
-        "text": "Vi kommer att få $$s'(t)=\\\\lim_{h\\\\to0} \\\\frac{3{\\\\left(t+h\\\\right)}^2-4\\\\left(t+h\\\\right)+1-3t^2-4t+1}{h}$$",
+        "text": "Vi kommer att få $$s'(t)=\\lim_{h\\to0} \\frac{3{\\left(t+h\\right)}^2-4\\left(t+h\\right)+1-3t^2-4t+1}{h}$$",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -28,7 +28,7 @@
             "acf60f3DerivativeFunction12a-h2"
         ],
         "title": "Expand",
-        "text": "Expandera $$\\\\frac{3{\\\\left(t+h\\\\right)}^2-4\\\\left(t+h\\\\right)+1-3t^2-4t+1}{h}$$ och förenkla",
+        "text": "Expandera $$\\frac{3{\\left(t+h\\right)}^2-4\\left(t+h\\right)+1-3t^2-4t+1}{h}$$ och förenkla",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -44,7 +44,7 @@
         "dependencies": [
             "acf60f3DerivativeFunction12a-h3"
         ],
-        "title": "Simplify",
+        "title": "Förenkla",
         "text": "Vad kommer att få?",
         "variabilization": {},
         "oer": "",
@@ -62,7 +62,7 @@
             "acf60f3DerivativeFunction12a-h4"
         ],
         "title": "Utvärdera gränsvärdet",
-        "text": "Utvärdera gränsvärdet genom att sätta in \\( h \\to 0 \\) $$=$$ $$h=0$$",
+        "text": "Utvärdera gränsvärdet genom att sätta in \\( h \\rightarrow 0 \\) $$=$$ $$h=0$$",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -103,7 +103,7 @@
             "acf60f3DerivativeFunction12a-h7"
         ],
         "title": "Andraderivata",
-        "text": "Använd $$s''(t)=\\\\lim_{h\\\\to0} \\\\frac{\\\\operatorname{s'}\\\\left(t+h\\\\right)-\\\\operatorname{s'}\\\\left(t\\\\right)}{h}$$ för att hitta andraderivatan",
+        "text": "Använd $$s''(t)=\\lim_{h\\to0} \\frac{\\operatorname{s'}\\left(t+h\\right)-\\operatorname{s'}\\left(t\\right)}{h}$$ för att hitta andraderivatan",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -115,7 +115,7 @@
             "acf60f3DerivativeFunction12a-h8"
         ],
         "title": "Derivatafunktion",
-        "text": "Vi kommer att få $$s''(t)=\\\\lim_{h\\\\to0} \\\\frac{6\\\\left(t+h\\\\right)-4-6t+4}{h}$$",
+        "text": "Vi kommer att få $$s''(t)=\\lim_{h\\to0} \\frac{6\\left(t+h\\right)-4-6t+4}{h}$$",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -127,7 +127,7 @@
             "acf60f3DerivativeFunction12a-h9"
         ],
         "title": "Expand",
-        "text": "Expandera $$\\\\frac{6\\\\left(t+h\\\\right)-4-6t+4}{h}$$ och förenkla",
+        "text": "Expandera $$\\frac{6\\left(t+h\\right)-4-6t+4}{h}$$ och förenkla",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -143,8 +143,8 @@
         "dependencies": [
             "acf60f3DerivativeFunction12a-h10"
         ],
-        "title": "Simplify",
-        "text": "Vad kommer vi att få?",
+        "title": "Förenkla",
+        "text": "Vad kommer att få?",
         "variabilization": {},
         "oer": "",
         "license": "",
@@ -160,8 +160,8 @@
         "dependencies": [
             "acf60f3DerivativeFunction12a-h11"
         ],
-        "title": "Utvärdera gränsvärdet",
-        "text": "För att få ett slutgiltigt svar, beräkna gränsvärdet genom att sätta in \\( h \\to 0 \\) $$=$$ $$h=0$$",
+        "title": "Beräkna gränsvärdet",
+        "text": "För att få ett slutgiltigt svar, beräkna gränsvärdet genom att sätta in h-->0 $$=$$ $$h=0$$",
         "variabilization": {},
         "oer": "",
         "license": ""

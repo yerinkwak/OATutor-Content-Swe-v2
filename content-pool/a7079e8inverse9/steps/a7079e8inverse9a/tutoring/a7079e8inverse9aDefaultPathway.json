@@ -3,7 +3,7 @@
         "id": "a7079e8inverse9a-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Satsen om inversa funktioner kommer att tala om för oss lutningen på tangentlinjen till den inversa funktionen.",
+        "title": "Satsen om inversa funktioner kommer att berätta för oss lutningen på tangentlinjen till den inversa funktionen.",
         "text": "Satsen om inversa funktioner är att (f**(-1))'*(x)=1/(f'*(f**-1)*(x)).",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
@@ -15,8 +15,8 @@
         "dependencies": [
             "a7079e8inverse9a-h1"
         ],
-        "title": "Att hitta inversen av f(x) vid $$a=0$$.",
-        "text": "För att hitta inversen av f(x) där $$a=16$$ (kom ihåg att a är lika med x-värdet av en punkt), måste vi först hitta vilket värde av $$x$$ när vi sätter in det i f(x) som ger oss ett värde av $$16$$. I detta fall är det när $$x=1$$, så vi vet att $$16f^{\\\\left(-1\\\\right)}=1$$.",
+        "title": "Hitta inversen av f(x) vid $$a=0$$.",
+        "text": "För att hitta inversen av f(x) där $$a=16$$ (remember that a is equal to the x-value of a point), måste vi först hitta vilket värde på $$x$$ när vi sätter in det i f(x) som ger oss ett värde på $$16$$. I detta fall är det när $$x=1$$, så vi vet att $$16f^{\\left(-1\\right)}=1$$.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -39,8 +39,8 @@
         "dependencies": [
             "a7079e8inverse9a-h3"
         ],
-        "title": "Tillämpning av inversa funktionsteoremet",
-        "text": "Eftersom vi redan har funnit $$16f^{\\\\left(-1\\\\right)}=1$$ och derivatan av f(x), kan vi använda det vi vet i inversa funktionsteoremet. Vår resulterande lutning är $$\\\\frac{1}{96}$$.",
+        "title": "Tillämpar inversa funktionssatsen",
+        "text": "Eftersom vi redan har funnit $$16f^{\\left(-1\\right)}=1$$ och derivatan av f(x), kan vi använda det vi vet i inversa funktionsteoremet. Vår resulterande lutning är $$\\frac{1}{96}$$.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""

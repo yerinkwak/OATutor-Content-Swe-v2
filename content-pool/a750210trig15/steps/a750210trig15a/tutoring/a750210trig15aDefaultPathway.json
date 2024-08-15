@@ -3,8 +3,8 @@
         "id": "a750210trig15a-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Angles",
-        "text": "Värdet inuti parentesen för sin syftar på en vinkel som också motsvarar en punkt på enhetscirkeln, men i detta fall gör det inte det.",
+        "title": "Vinklar",
+        "text": "Värdet inuti parentesen av sin hänvisar till en vinkel som också motsvarar en punkt på enhetscirkeln, men i detta fall gör det inte det.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -16,7 +16,7 @@
             "a750210trig15a-h1"
         ],
         "title": "Ersättningsvinklar",
-        "text": "Eftersom $$\\\\frac{\\\\pi}{12}$$ inte är på den gemensamma enhetscirkeln, kan vi använda ersättningsvinklarna $$\\\\frac{\\\\pi}{3}$$ och $$\\\\frac{\\\\pi}{4}$$. Dvs. $$\\\\frac{\\\\pi}{12}$$ $$=$$ \\pi/3-\\pi/4)",
+        "text": "Eftersom $$\\frac{\\pi}{12}$$ inte är på den gemensamma enhetscirkeln, kan vi använda ersättningsvinklarna $$\\frac{\\pi}{3}$$ och $$\\frac{\\pi}{4}$$. D.v.s. $$\\frac{\\pi}{12}$$ $$=$$ \\frac{\\pi}{3} - \\frac{\\pi}{4}",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -27,7 +27,7 @@
         "dependencies": [
             "a750210trig15a-h2"
         ],
-        "title": "Subtraktionsformeln för \\(\\sin x\\)",
+        "title": "Subtraktionsformel för sinx",
         "text": "Subtraktionsformeln för sinx är sin $$(A-B)=sinA CosB-cosA sinB$$.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
@@ -44,8 +44,8 @@
         "dependencies": [
             "a750210trig15a-h3"
         ],
-        "title": "Calculate",
-        "text": "Beräkna $$sin\\\\left(\\\\frac{\\\\pi}{3}\\\\right) cos\\\\left(\\\\frac{\\\\pi}{4}\\\\right)-cos\\\\left(\\\\frac{\\\\pi}{3}\\\\right) sin\\\\left(\\\\frac{\\\\pi}{4}\\\\right)$$",
+        "title": "Beräkna",
+        "text": "Beräkna $$sin\\left(\\frac{\\pi}{3}\\right) cos\\left(\\frac{\\pi}{4}\\right)-cos\\left(\\frac{\\pi}{3}\\right) sin\\left(\\frac{\\pi}{4}\\right)$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "",
@@ -63,7 +63,7 @@
             "a750210trig15a-h3"
         ],
         "title": "Enhetscirkel",
-        "text": "Ersättningsvinklarna $$\\\\frac{\\\\pi}{3}$$ och $$\\\\frac{\\\\pi}{4}$$ är på den gemensamma enhetscirkeln och sinx $$=$$ $$y$$ värdet medan cosx $$=$$ $$x$$ värdet av motsvarande punkt på enhetscirkeln.",
+        "text": "Ersättningsvinklarna $$\\frac{\\pi}{3}$$ och $$\\frac{\\pi}{4}$$ är på den gemensamma enhetscirkeln och sinx $$=$$ $$y$$ värdet medan cosx $$=$$ $$x$$ värdet av motsvarande punkt på enhetscirkeln.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""

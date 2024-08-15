@@ -49,7 +49,7 @@
         "dependencies": [
             "ae173b9deriv12a-h3"
         ],
-        "title": "Att ersätta $$x$$ $$=$$ $$101$$",
+        "title": "Ersätter $$x$$ $$=$$ $$101$$",
         "text": "Sätt in $$x$$ $$=$$ $$101$$ i R(x) $$=$$ $$-0.03x^2$$ + $$9x$$ för att lösa för R(101).",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
@@ -61,8 +61,8 @@
         "dependencies": [
             "ae173b9deriv12a-h4"
         ],
-        "title": "Beräkna R(101)",
-        "text": "R(x) $$=$$ $$-0.03x^2$$ + $$9x$$\\\\nR(101) $$=$$ $$-\\\\left({\\\\operatorname{0.03}\\\\left(101\\\\right)}^2\\\\right)$$ + 9(101)\\\\nR(101) $$=$$ $$-306.03$$ + $$909$$\\\\nR(101) $$=$$ $$602.97$$",
+        "title": "Beräkning av R(101)",
+        "text": "R(x) $$=$$ $$-0.03x^2$$ + $$9x$$\\nR(101) $$=$$ $$-\\left({\\operatorname{0.03}\\left(101\\right)}^2\\right)$$ + 9(101)\\nR(101) $$=$$ $$-306.03$$ + $$909$$\\nR(101) $$=$$ $$602.97$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -102,8 +102,8 @@
         "dependencies": [
             "ae173b9deriv12a-h7"
         ],
-        "title": "Beräkna R(100)",
-        "text": "R(x) $$=$$ $$-0.03x^2$$ + $$9x$$\\\\nR(100) $$=$$ $$-\\\\left({\\\\operatorname{0.03}\\\\left(100\\\\right)}^2\\\\right)$$ + 9(100)\\\\nR(100) $$=$$ $$-300$$ + $$900$$\\\\nR(100) $$=$$ $$600$$",
+        "title": "Beräkning av R(100)",
+        "text": "R(x) $$=$$ $$-0.03x^2$$ + $$9x$$\\nR(100) $$=$$ $$-\\left({\\operatorname{0.03}\\left(100\\right)}^2\\right)$$ + 9(100)\\nR(100) $$=$$ $$-300$$ + $$900$$\\nR(100) $$=$$ $$600$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -136,7 +136,7 @@
         "dependencies": [
             "ae173b9deriv12a-h9"
         ],
-        "title": "Slutliga beräkningar",
+        "title": "De slutliga beräkningarna",
         "text": "R(101) - R(100) $$=$$ $$602.97$$ - $$600$$. Vad är den faktiska intäkten från försäljningen av den 101:a middagen?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
@@ -149,7 +149,7 @@
             "ae173b9deriv12a-h10"
         ],
         "title": "Tolkning av svaret",
-        "text": "Eftersom den uppskattade intäkten från försäljningen av den 101:a middagen är ungefär $3, och den faktiska intäkten var $$\\\\$2.97$$, är marginalintäkten en ganska bra uppskattning i detta fall och har fördelen att vara lätt att beräkna.",
+        "text": "Eftersom den uppskattade intäkten från försäljningen av den 101:a middagen är cirka $3, och den faktiska intäkten var $$\\$2.97$$, är marginalintäkten en ganska bra uppskattning i detta fall och har fördelen att vara lätt att beräkna.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""

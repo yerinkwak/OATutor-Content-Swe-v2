@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Derivatafunktion",
-        "text": "Eftersom $$v(t)=s′(t)$$ och $$a(t)=v′(t)=s''(t)$$, börjar vi med att hitta derivatan av s(t): $$s'(t)=\\\\lim_{h\\\\to0} \\\\frac{s\\\\left(t+h\\\\right)-s\\\\left(t\\\\right)}{h}$$",
+        "text": "Eftersom $$v(t)=s′(t)$$ och $$a(t)=v′(t)=s''(t)$$, börjar vi med att hitta derivatan av s(t): $$s'(t)=\\lim_{h\\to0} \\frac{s\\left(t+h\\right)-s\\left(t\\right)}{h}$$",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -16,7 +16,7 @@
             "acf60f3DerivativeFunction13a-h1"
         ],
         "title": "Derivatafunktion",
-        "text": "Vi kommer att få $$s'(t)=\\\\lim_{h\\\\to0} \\\\frac{{\\\\left(t+h\\\\right)}^3-t^3}{h}$$",
+        "text": "Vi kommer att få $$s'(t)=\\lim_{h\\to0} \\frac{{\\left(t+h\\right)}^3-t^3}{h}$$",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -27,8 +27,8 @@
         "dependencies": [
             "acf60f3DerivativeFunction13a-h2"
         ],
-        "title": "Expand",
-        "text": "Expandera $$\\\\frac{{\\\\left(t+h\\\\right)}^3-t^3}{h}$$ och förenkla",
+        "title": "Expandera",
+        "text": "Expandera $$\\frac{{\\left(t+h\\right)}^3-t^3}{h}$$ och förenkla",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -44,8 +44,8 @@
         "dependencies": [
             "acf60f3DerivativeFunction13a-h3"
         ],
-        "title": "Simplify",
-        "text": "Vad får vi?",
+        "title": "Förenkla",
+        "text": "Vad kommer vi att få?",
         "variabilization": {},
         "oer": "",
         "license": "",
@@ -62,7 +62,7 @@
             "acf60f3DerivativeFunction13a-h4"
         ],
         "title": "Utvärdera gränsvärdet",
-        "text": "Utvärdera gränsvärdet genom att sätta in \\( h \\to 0 \\) $$=$$ $$h=0$$",
+        "text": "Utvärdera gränsvärdet genom att sätta in h-->0 $$=$$ $$h=0$$",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -91,7 +91,7 @@
             "acf60f3DerivativeFunction13a-h6"
         ],
         "title": "Andraderivata",
-        "text": "Nästa, behöver hitta s''(t) från $$s'(t)=3t^2$$",
+        "text": "Nästa steg är att hitta s''(t) från $$s'(t)=3t^2$$",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -103,7 +103,7 @@
             "acf60f3DerivativeFunction13a-h7"
         ],
         "title": "Andraderivata",
-        "text": "Använd $$s''(t)=\\\\lim_{h\\\\to0} \\\\frac{\\\\operatorname{s'}\\\\left(t+h\\\\right)-\\\\operatorname{s'}\\\\left(t\\\\right)}{h}$$ för att hitta andraderivatan",
+        "text": "Använd $$s''(t)=\\lim_{h\\to0} \\frac{\\operatorname{s'}\\left(t+h\\right)-\\operatorname{s'}\\left(t\\right)}{h}$$ för att hitta andraderivatan",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -115,7 +115,7 @@
             "acf60f3DerivativeFunction13a-h8"
         ],
         "title": "Derivatafunktion",
-        "text": "Vi kommer att få $$s''(t)=\\\\lim_{h\\\\to0} \\\\frac{3{\\\\left(t+h\\\\right)}^2-3t^2}{h}$$",
+        "text": "Vi kommer att få $$s''(t)=\\lim_{h\\to0} \\frac{3{\\left(t+h\\right)}^2-3t^2}{h}$$",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -127,7 +127,7 @@
             "acf60f3DerivativeFunction13a-h9"
         ],
         "title": "Expand",
-        "text": "Expandera $$\\\\frac{3{\\\\left(t+h\\\\right)}^2-3t^2}{h}$$ och förenkla",
+        "text": "Expandera $$\\frac{3{\\left(t+h\\right)}^2-3t^2}{h}$$ och förenkla",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -143,7 +143,7 @@
         "dependencies": [
             "acf60f3DerivativeFunction13a-h10"
         ],
-        "title": "Simplify",
+        "title": "Förenkla",
         "text": "Vad kommer att få?",
         "variabilization": {},
         "oer": "",
@@ -161,7 +161,7 @@
             "acf60f3DerivativeFunction13a-h11"
         ],
         "title": "Utvärdera gränsvärdet",
-        "text": "För att få ett slutgiltigt svar, utvärdera gränsvärdet genom att sätta in \\( h \\to 0 \\) $$=$$ $$h=0$$",
+        "text": "För att få ett slutgiltigt svar, utvärdera gränsvärdet genom att sätta in h-->0 $$=$$ $$h=0$$",
         "variabilization": {},
         "oer": "",
         "license": ""

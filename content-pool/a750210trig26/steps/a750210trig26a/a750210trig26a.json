@@ -4,7 +4,7 @@
         "$$\\operatorname{sec}\\left(x\\right) \\operatorname{sec}\\left(x\\right)$$"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "För $${\\\\left(1+tan\\\\left(x\\\\right)\\\\right)}^2-2tan\\\\left(x\\\\right)$$, skriv uttrycket i termer av sinus och cosinus, och förenkla sedan. Det slutliga svaret behöver inte vara enbart i termer av sinus och cosinus.",
+    "stepTitle": "För $${\\left(1+tan\\left(x\\right)\\right)}^2-2tan\\left(x\\right)$$, skriv uttrycket i termer av sinus och cosinus, och förenkla sedan. Det slutliga svaret behöver inte bara vara i termer av sinus och cosinus.",
     "stepBody": "",
     "answerType": "string",
     "variabilization": {},

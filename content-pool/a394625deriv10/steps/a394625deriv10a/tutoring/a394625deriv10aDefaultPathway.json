@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Bryta ner frågan",
-        "text": "Vi kan separera funktionerna till cos(x) och $$1+\\\\operatorname{csc}\\\\left(x\\\\right)$$",
+        "text": "Vi kan separera funktionerna i cos(x) och $$1+\\operatorname{csc}\\left(x\\right)$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -20,8 +20,8 @@
         "dependencies": [
             "a394625deriv10a-h1"
         ],
-        "title": "Sub-question",
-        "text": "Vad är derivatan av cos(x)",
+        "title": "Deluppgift",
+        "text": "Vad är derivatan av \\(\\cos(x)\\)",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "",
@@ -42,8 +42,8 @@
         "dependencies": [
             "a394625deriv10a-h2"
         ],
-        "title": "Sub-question",
-        "text": "Vad är derivatan av $$1+\\\\operatorname{csc}\\\\left(x\\\\right)$$",
+        "title": "Delfråga",
+        "text": "Vad är derivatan av $$1+\\operatorname{csc}\\left(x\\right)$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "",
@@ -60,7 +60,7 @@
             "a394625deriv10a-h3"
         ],
         "title": "Tillämpa deriveringsregeln",
-        "text": "Applicera produktregeln för derivator av sammansatta funktioner för att hitta den slutliga lösningen.",
+        "text": "Tillämpa produktregeln för sammansatta funktioner för att hitta den slutliga lösningen",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""

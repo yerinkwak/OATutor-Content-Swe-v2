@@ -4,7 +4,7 @@
         "$$1$$"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "För $$\\\\operatorname{sec}\\\\left(x\\\\right) sin\\\\left(x\\\\right) \\\\operatorname{cot}\\\\left(x\\\\right)$$, skriv uttrycket i termer av sinus och cosinus, och förenkla sedan. Det slutliga svaret behöver inte vara enbart i termer av sinus och cosinus.",
+    "stepTitle": "För $$\\operatorname{sec}\\left(x\\right) sin\\left(x\\right) \\operatorname{cot}\\left(x\\right)$$, skriv uttrycket i termer av sinus och cosinus, och förenkla sedan. Det slutliga svaret behöver inte bara vara i termer av sinus och cosinus.",
     "stepBody": "",
     "answerType": "string",
     "variabilization": {},

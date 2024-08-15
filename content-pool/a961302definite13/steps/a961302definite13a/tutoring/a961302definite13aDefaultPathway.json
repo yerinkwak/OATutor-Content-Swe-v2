@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Ställ upp integraler",
-        "text": "Ställ upp tre bestämda integraler. Eftersom den mellersta triangeln är under x-axeln, subtraherar vi dess area från de andra två trianglarna som är ovanför x-axeln. Integranderna är redan tillhandahållna för dig på grafen. Se till att använda rätt intervall.",
+        "text": "Ställ upp tre bestämda integraler. Eftersom den mellersta triangeln är under x-axeln, subtraherar vi dess area från de andra två trianglarna som är ovanför x-axeln. Integranderna är redan tillhandahållna för dig på grafen. Se till att använda de korrekta intervallen.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -19,7 +19,7 @@
         ],
         "dependencies": [],
         "title": "Utvärdera integralerna",
-        "text": "Utvärdera de bestämda integralerna du ställt upp.",
+        "text": "Utvärdera de bestämda integralerna du ställde upp.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "",

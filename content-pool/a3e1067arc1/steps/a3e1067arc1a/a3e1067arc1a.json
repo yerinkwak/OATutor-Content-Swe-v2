@@ -4,7 +4,7 @@
         "$$2.268$$"
     ],
     "problemType": "TextBox",
-    "stepTitle": "Låt f(x) $$=$$ $$2x^{\\\\frac{3}{2}}$$. Beräkna båglängden av grafen för f(x) över intervallet [0,1]. Avrunda svaret till tre decimaler.",
+    "stepTitle": "Låt f(x) $$=$$ $$2x^{\\frac{3}{2}}$$. Beräkna båglängden av grafen av f(x) över intervallet [0,1]. Avrunda svaret till tre decimaler.",
     "stepBody": "",
     "answerType": "arithmetic",
     "variabilization": {},

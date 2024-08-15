@@ -1,10 +1,10 @@
 {
     "id": "a3e1067arc14",
     "title": "Hitta ytarean",
-    "body": "Hitta ytan av volymen som genereras när följande kurvor roterar runt x-axeln. Om du inte kan beräkna integralen exakt, använd din miniräknare för att approximera den.",
+    "body": "Hitta ytarean av volymen som genereras när följande kurvor roterar runt x-axeln. Om du inte kan beräkna integralen exakt, använd din miniräknare för att approximera den.",
     "variabilization": {},
     "oer": "https://openstax.org/details/books/calculus-volume-1 <OpenStax: Calculus Volume 1>",
     "license": 0.0,
-    "lesson": "6.4 Båglängd av en kurva och yta",
+    "lesson": "6.4 Båglängd av en kurva och ytarea",
     "courseName": "OpenStax: Calculus Volume 1"
 }

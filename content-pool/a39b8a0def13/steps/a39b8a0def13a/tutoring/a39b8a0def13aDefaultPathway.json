@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Derivataekvation",
-        "text": "Derivatan av funktionen f(x) vid a definieras av $$\\\\lim_{x\\\\toa} \\\\frac{f{\\\\left(x\\\\right)}-f{\\\\left(a\\\\right)}}{x-a}$$.",
+        "text": "Derivatan av funktionen f(x) vid a definieras av $$\\lim_{x\\toa} \\frac{f{\\left(x\\right)}-f{\\left(a\\right)}}{x-a}$$.",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -15,7 +15,7 @@
         "dependencies": [
             "a39b8a0def13a-h1"
         ],
-        "title": "Inkoppling",
+        "title": "Inmatning",
         "text": "Sätt in $$4$$ i a och utveckla ekvationen.",
         "variabilization": {},
         "oer": "",
@@ -27,8 +27,8 @@
         "dependencies": [
             "a39b8a0def13a-h2"
         ],
-        "title": "Simplify",
-        "text": "Förenkla den resulterande ekvationen: $$\\\\frac{\\\\sqrt{x}-\\\\sqrt{4}}{x-4}$$",
+        "title": "Förenkla",
+        "text": "Förenkla den resulterande ekvationen: $$\\frac{\\sqrt{x}-\\sqrt{4}}{x-4}$$",
         "variabilization": {},
         "oer": "",
         "license": ""

@@ -15,8 +15,8 @@
         "dependencies": [
             "a3e1067arc4a-h1"
         ],
-        "title": "Sätt in f'(x) i båglängdsformeln med de givna gränserna.",
-        "text": "Båge $$Length=\\\\int_{0}^{pi} \\\\sqrt{1+cos^2\\\\left(x\\\\right)} \\\\,dx$$",
+        "title": "Sätt in f'(x) i formeln för båglängd med de givna gränserna.",
+        "text": "Båge $$Length=\\int_{0}^{pi} \\sqrt{1+cos^2\\left(x\\right)} \\,dx$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""

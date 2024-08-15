@@ -15,8 +15,8 @@
         "dependencies": [
             "a39b8a0def18a-h1"
         ],
-        "title": "Lutningsekvation",
-        "text": "Ekvationen för att hitta lutningen är $$\\\\frac{y_2-y_1}{x_2-x_1}$$.",
+        "title": "Lutningsformel",
+        "text": "Ekvationen för att hitta lutningen är $$\\frac{y_2-y_1}{x_2-x_1}$$.",
         "variabilization": {},
         "oer": "",
         "license": ""

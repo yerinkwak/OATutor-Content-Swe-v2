@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Hitta ytarean",
-        "text": "Ytarean kan beräknas med $$(2*pi)*\\\\int_{a}^{b} f{\\\\left(x\\\\right)} \\\\sqrt{1+{\\\\operatorname{f'}\\\\left(x\\\\right)}^2} \\\\,dx$$, där f'(x) anger derivatan av f(x). Vi behöver sätta in f(x) och intervall i denna ekvation",
+        "text": "Ytarean kan hittas med $$(2*pi)*\\int_{a}^{b} f{\\left(x\\right)} \\sqrt{1+{\\operatorname{f'}\\left(x\\right)}^2} \\,dx$$, där f'(x) anger derivatan av f(x). Vi behöver sätta in f(x) och intervall i denna ekvation",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -37,8 +37,8 @@
         "dependencies": [
             "a3e1067arc15a-h2"
         ],
-        "title": "Förenkla $${\\\\operatorname{f'}\\\\left(x\\\\right)}^2$$",
-        "text": "Vad är $${\\\\operatorname{f'}\\\\left(x\\\\right)}^2$$?",
+        "title": "Förenkla $${\\operatorname{f'}\\left(x\\right)}^2$$",
+        "text": "Vad är $${\\operatorname{f'}\\left(x\\right)}^2$$?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -50,7 +50,7 @@
             "a3e1067arc15a-h3"
         ],
         "title": "Hitta ytarean",
-        "text": "Efter att ha satt in f(x) och intervallet i ekvationen, får vi ytan $$Area=(2*pi)*\\\\int_{-1}^{1} 7x \\\\sqrt{1+49} \\\\,dx=(2*pi)*\\\\int_{-1}^{1} 7x \\\\sqrt{50} \\\\,dx$$",
+        "text": "Efter att ha satt in f(x) och intervallet i ekvationen, kommer vi att ha ytan $$Area=(2*pi)*\\int_{-1}^{1} 7x \\sqrt{1+49} \\,dx=(2*pi)*\\int_{-1}^{1} 7x \\sqrt{50} \\,dx$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""

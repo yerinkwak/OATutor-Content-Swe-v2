@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Satsen om inversa funktioner",
-        "text": "Satsen om inversa funktioner är att \\((f^{-1})'(x) = \\frac{1}{f'((f^{-1})(x))}\\).",
+        "text": "Satsen om inversa funktioner är att (f**(-1))'(x)=(1/f'((f**-1)(x))).",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -15,8 +15,8 @@
         "dependencies": [
             "a7079e8inverse24a-h1"
         ],
-        "title": "Att hitta inversen av f(x) vid $$a=0$$.",
-        "text": "För att hitta inversen av f(x) där $$a=-8$$, behöver vi först hitta vilket värde av $$x$$ när vi sätter in det i f(x) som ger oss ett värde av $$-8$$. I detta fall är det när $$x=\\\\frac{1}{3}$$, så vi vet att $$f^{\\\\left(-1\\\\right)} \\\\left(-8\\\\right)=\\\\frac{1}{3}$$.",
+        "title": "Hitta inversen av f(x) vid $$a=0$$.",
+        "text": "För att hitta inversen av f(x) där $$a=-8$$, behöver vi först hitta vilket värde av $$x$$ när vi sätter in det i f(x) som ger oss ett värde av $$-8$$. I detta fall är det när $$x=\\frac{1}{3}$$, så vi vet att $$f^{\\left(-1\\right)} \\left(-8\\right)=\\frac{1}{3}$$.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -27,8 +27,8 @@
         "dependencies": [
             "a7079e8inverse24a-h2"
         ],
-        "title": "Att hitta derivatan av \\( f(f^{-1}(x)) \\)",
-        "text": "Vi fann att inversen av f(x) $$=\\\\frac{1}{3}$$ i den tidigare ledtråden, därför behöver vi nu veta vad $$\\\\operatorname{f'}\\\\left(\\\\frac{1}{3}\\\\right)$$ är lika med, vilket är givet för oss, det är $$2$$.",
+        "title": "Att hitta derivatan av \\( f \\)",
+        "text": "Vi fann att inversen av f(x) $$=\\frac{1}{3}$$ i den föregående ledtråden, därför behöver vi nu veta vad $$\\operatorname{f'}\\left(\\frac{1}{3}\\right)$$ är lika med, vilket ges till oss, det är $$2$$.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -39,8 +39,8 @@
         "dependencies": [
             "a7079e8inverse24a-h3"
         ],
-        "title": "Tillämpning av inversa funktionsteoremet",
-        "text": "Eftersom vi vet att $$\\\\operatorname{f'}\\\\left(f^{\\\\left(-1\\\\right)} \\\\frac{1}{3}\\\\right)$$ är lika med $$2$$, kan vi tillämpa inversa funktionsteoremet genom att göra 1/(vårt svar). I detta fall är detta $$\\\\frac{1}{2}=\\\\frac{1}{2}$$.",
+        "title": "Tillämpar inversa funktionssatsen",
+        "text": "Eftersom vi vet att $$\\operatorname{f'}\\left(f^{\\left(-1\\right)} \\frac{1}{3}\\right)$$ är lika med $$2$$, kan vi tillämpa inversa funktionsteoremet genom att göra 1/(our answer). I detta fall är detta $$\\frac{1}{2}=\\frac{1}{2}$$.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""

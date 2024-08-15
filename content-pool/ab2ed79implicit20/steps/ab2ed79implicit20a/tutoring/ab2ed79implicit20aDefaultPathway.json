@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Implicit differentiering",
-        "text": "Använd implicit differentiering för att hitta $$\\\\frac{dy}{dx}$$. Derivera båda sidor av ekvationen, förenkla sedan.",
+        "text": "Använd implicit differentiering för att hitta $$\\frac{dy}{dx}$$. Derivera båda sidor av ekvationen, förenkla sedan.",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -16,7 +16,7 @@
             "ab2ed79implicit20a-h1"
         ],
         "title": "Punkt-lutningsform",
-        "text": "Sätt in $$(81,16)$$ i $$\\\\frac{dy}{dx}$$-ekvationen för lutningen av ekvationen vid $$(81,16)$$.",
+        "text": "Sätt in $$(81,16)$$ i $$\\frac{dy}{dx}$$-ekvationen för lutningen av ekvationen vid $$(81,16)$$.",
         "variabilization": {},
         "oer": "",
         "license": ""

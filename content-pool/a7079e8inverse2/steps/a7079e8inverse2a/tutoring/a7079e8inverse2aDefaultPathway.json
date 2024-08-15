@@ -15,8 +15,8 @@
         "dependencies": [
             "a7079e8inverse2a-h1"
         ],
-        "title": "Att hitta inversen av f(x) vid $$a=0$$.",
-        "text": "För att hitta inversen av f(x) där $$a=2$$, behöver vi först hitta vilket värde på $$x$$ som, när vi sätter in det i f(x), ger oss ett värde på $$2$$. I detta fall är det när $$x=-1$$, så vi vet att $$2f^{\\\\left(-1\\\\right)}=-1$$.",
+        "title": "Hitta inversen av f(x) vid $$a=0$$.",
+        "text": "För att hitta inversen av f(x) där $$a=2$$, behöver vi först hitta vilket värde av $$x$$ när vi sätter in det i f(x) som ger oss ett värde av $$2$$. I detta fall är det när $$x=-1$$, så vi vet att $$2f^{\\left(-1\\right)}=-1$$.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -28,7 +28,7 @@
             "a7079e8inverse2a-h2"
         ],
         "title": "Att hitta derivatan av f(x)",
-        "text": "Nästa, för att hitta derivatan av f(x), kan vi använda potensregeln. För att göra detta kan vi multiplicera koefficienten för varje $$x$$ med dess nuvarande exponent och sedan subtrahera $$1$$ från exponenten. Kom ihåg, konstanter blir $$0$$ när vi tar derivatan av en funktion.",
+        "text": "Nästa, för att hitta derivatan av f(x), kan vi använda potensregeln. För att göra detta kan vi multiplicera koefficienten för varje $$x$$ med dess nuvarande exponent, och sedan subtrahera $$1$$ från exponenten. Kom ihåg, konstanter blir $$0$$ när vi tar derivatan av en funktion.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -39,8 +39,8 @@
         "dependencies": [
             "a7079e8inverse2a-h3"
         ],
-        "title": "Tillämpning av inversa funktionsteoremet",
-        "text": "Eftersom vi redan har funnit $$2f^{\\\\left(-1\\\\right)}=-1$$ och derivatan av f(x), kan vi använda det vi vet i inversa funktionsteoremet.",
+        "title": "Tillämpar inversa funktionssatsen",
+        "text": "Eftersom vi redan har funnit $$2f^{\\left(-1\\right)}=-1$$ och derivatan av f(x), kan vi använda det vi vet i inversa funktionsteoremet.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""

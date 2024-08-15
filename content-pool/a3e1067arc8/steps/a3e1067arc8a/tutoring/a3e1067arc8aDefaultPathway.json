@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Hitta g(y)",
-        "text": "Observera att vi roterar kurvan runt y-axeln, och intervallet är i termer av $$y$$, så vi vill skriva om funktionen som en funktion av $$y$$. Vi får $$x=g(y)=\\\\frac{1}{3} y^3$$",
+        "text": "Observera att vi roterar kurvan runt y-axeln, och intervallet är i termer av $$y$$, så vi vill skriva om funktionen som en funktion av $$y$$. Vi får $$x=g(y)=\\frac{1}{3} y^3$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -15,8 +15,8 @@
         "dependencies": [
             "a3e1067arc8a-h1"
         ],
-        "title": "Graphing",
-        "text": "Först måste vi rita en graf av g(y) och rotationsytan, som visas i följande figur. Notera att (a) är grafen av g(y) och (b) är rotationsytan.\\\\n##figure1.gif##",
+        "title": "Grafritning",
+        "text": "Först måste vi rita en graf av g(y) och rotationsytan, som visas i följande figur. Note (a) is the graph of g(y) and (b) is the surface of rotation.\\n##figure1.gif##",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -28,7 +28,7 @@
             "a3e1067arc8a-h2"
         ],
         "title": "Hitta ytarean",
-        "text": "Ytan kan hittas med $$\\\\int_{a}^{b} 2\\\\pi g{\\\\left(y\\\\right)} \\\\sqrt{1+{\\\\operatorname{g'}\\\\left(y\\\\right)}^2} \\\\,dy$$, där g'(y) indikerar derivatan av g(y). Vi behöver sätta in g(y) och intervall i denna ekvation.",
+        "text": "Ytarean kan hittas med $$\\int_{a}^{b} 2\\pi g{\\left(y\\right)} \\sqrt{1+{\\operatorname{g'}\\left(y\\right)}^2} \\,dy$$, där g'(y) anger derivatan av g(y). Vi behöver sätta in g(y) och intervall i denna ekvation",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -61,8 +61,8 @@
         "dependencies": [
             "a3e1067arc8a-h4"
         ],
-        "title": "Förenkla $${\\\\operatorname{g'}\\\\left(y\\\\right)}^2$$",
-        "text": "Vad är $${\\\\operatorname{g'}\\\\left(y\\\\right)}^2$$?",
+        "title": "Förenkla $${\\operatorname{g'}\\left(y\\right)}^2$$",
+        "text": "Vad är $${\\operatorname{g'}\\left(y\\right)}^2$$?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -74,7 +74,7 @@
             "a3e1067arc8a-h5"
         ],
         "title": "Hitta ytarean",
-        "text": "Efter att ha satt in g(y) och intervallet i ekvationen, får vi ytan $$Area=\\\\int_{0}^{2} 2\\\\pi \\\\frac{1}{3} y^3 \\\\sqrt{1+y^4} \\\\,dy$$",
+        "text": "Efter att ha satt in g(y) och intervallet i ekvationen, kommer vi att ha ytan $$Area=\\int_{0}^{2} 2\\pi \\frac{1}{3} y^3 \\sqrt{1+y^4} \\,dy$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -85,8 +85,8 @@
         "dependencies": [
             "a3e1067arc8a-h6"
         ],
-        "title": "Simpify",
-        "text": "Efter att ha förenklat ekvationen, kommer vi att ha ytan $$Area=((2*pi)/3)*(\\\\int_{0}^{2} y^3 \\\\sqrt{1+y^4} \\\\,dy)$$",
+        "title": "Förenkla",
+        "text": "Efter att ha förenklat ekvationen, kommer vi att ha ytan $$Area=((2*pi)/3)*(\\int_{0}^{2} y^3 \\sqrt{1+y^4} \\,dy)$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -98,7 +98,7 @@
             "a3e1067arc8a-h7"
         ],
         "title": "Utvärdera integralen",
-        "text": "Låt $$u=y^4+1$$. Då $$du=4y^3 dy$$. När $$y=0$$, $$u=1$$, och när $$y=2$$, $$u=17$$. Sedan, $$((2*pi)/3)*(\\\\int_{0}^{2} y^3 \\\\sqrt{1+y^4} \\\\,dy)=((2*pi)/3)*\\\\int_{1}^{17} \\\\frac{1}{4} \\\\sqrt{u} \\\\,du$$",
+        "text": "Låt $$u=y^4+1$$. Då $$du=4y^3 dy$$. När $$y=0$$, $$u=1$$, och när $$y=2$$, $$u=17$$. Sedan, $$((2*pi)/3)*(\\int_{0}^{2} y^3 \\sqrt{1+y^4} \\,dy)=((2*pi)/3)*\\int_{1}^{17} \\frac{1}{4} \\sqrt{u} \\,du$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""

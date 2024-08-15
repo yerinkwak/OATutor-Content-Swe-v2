@@ -4,7 +4,7 @@
         "$$2$$"
     ],
     "problemType": "TextBox",
-    "stepTitle": "Att hitta en andraderivata",
+    "stepTitle": "Hitta en andraderivata",
     "stepBody": "Next, find f''(x) by taking the derivative of $$f′(x)=2x$$.",
     "answerType": "arithmetic",
     "variabilization": {},

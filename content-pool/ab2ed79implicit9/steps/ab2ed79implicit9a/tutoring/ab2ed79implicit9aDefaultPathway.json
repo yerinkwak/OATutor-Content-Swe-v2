@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Implicit differentiering",
-        "text": "Först, använd implicit differentiering för att hitta $$\\\\frac{dy}{dx}$$. Derivera båda sidor av ekvationen, förenkla sedan.",
+        "text": "Först, använd implicit differentiering för att hitta $$\\frac{dy}{dx}$$. Derivera båda sidor av ekvationen, förenkla sedan.",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -16,7 +16,7 @@
             "ab2ed79implicit9a-h1"
         ],
         "title": "$$\\frac{dy}{dx}$$",
-        "text": "$$\\frac{dy}{dx}$$ is $$\\frac{-y}{x}$$",
+        "text": "$$\\frac{dy}{dx}$$ är $$\\frac{-y}{x}$$",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -27,8 +27,8 @@
         "dependencies": [
             "ab2ed79implicit9a-h2"
         ],
-        "title": "Hitta lutningen",
-        "text": "För att hitta lutningen, sätt in $$(2,1)$$ i $$\\\\frac{dy}{dx}$$.",
+        "title": "Att hitta lutningen",
+        "text": "För att hitta lutningen, sätt in $$(2,1)$$ i $$\\frac{dy}{dx}$$.",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -40,7 +40,7 @@
             "ab2ed79implicit9a-h3"
         ],
         "title": "Punkt-lutningsform",
-        "text": "Substituera in i punkt-lutning ekvationen för linjen för att erhålla ekvationen.",
+        "text": "Substituera in i enpunktsformen av linjens ekvation för att erhålla ekvationen.",
         "variabilization": {},
         "oer": "",
         "license": ""

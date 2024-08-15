@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Kedjeregeln",
-        "text": "Kom ihåg, kedjeregeln i Leibniz notation säger oss att $$\\\\frac{dy}{dx}=\\\\frac{dy}{du} \\\\frac{du}{dx}$$",
+        "text": "Kom ihåg att kedjeregeln i Leibniz notation säger oss att $$\\frac{dy}{dx}=\\frac{dy}{du} \\frac{du}{dx}$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"

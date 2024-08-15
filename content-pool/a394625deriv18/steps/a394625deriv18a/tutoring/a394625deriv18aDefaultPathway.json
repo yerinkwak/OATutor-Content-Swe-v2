@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Bryta ner frågan",
-        "text": "Skriv \\(\\sec(x)\\) som \\(\\sin(x)\\) och \\(\\cos(x)\\)",
+        "text": "Uttryck sec(x) med hjälp av sin(x) och cos(x)",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -20,7 +20,7 @@
         "dependencies": [
             "a394625deriv18a-h1"
         ],
-        "title": "Sub-question",
+        "title": "Deluppgift",
         "text": "Vad är sec(x)?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
@@ -42,8 +42,8 @@
         "dependencies": [
             "a394625deriv18a-h2"
         ],
-        "title": "Sub-question",
-        "text": "Vad är derivatan av \\(\\cos(x)\\)?",
+        "title": "Deluppgift",
+        "text": "Vad är derivatan av cos(x)",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "",
@@ -64,8 +64,8 @@
         "dependencies": [
             "a394625deriv18a-h3"
         ],
-        "title": "Sub-question",
-        "text": "Vad är derivatan av $$\\\\frac{1}cos^$\\\\left(x\\\\righ$$",
+        "title": "Deluppgift",
+        "text": "Vad är derivatan av $$\\frac{1}{\\cos^2\\left(x\\right)}$$?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "",
@@ -82,7 +82,7 @@
             "a394625deriv18a-h4"
         ],
         "title": "Ändra representationer",
-        "text": "Ändra sin och cos till tan och sec",
+        "text": "Byt sin och cos till tan och sec",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""

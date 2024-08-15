@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Andraderivata",
-        "text": "Derivatan av ett tal (oavsett om det är negativt eller positivt) är noll.",
+        "text": "Derivatan av talet (whether negative or positive) är noll",
         "variabilization": {},
         "oer": "",
         "license": ""

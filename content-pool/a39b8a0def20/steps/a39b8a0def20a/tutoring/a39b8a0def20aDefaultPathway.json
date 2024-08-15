@@ -3,8 +3,8 @@
         "id": "a39b8a0def20a-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Gränsdefinitionen av derivatan",
-        "text": "Gränsvärdesdefinitionen av en derivata är $$\\\\lim_{h\\\\to0} \\\\frac{f{\\\\left(x+h\\\\right)}-f{\\\\left(x\\\\right)}}{h}$$.",
+        "title": "Gränsvärdesdefinitionen av derivatan",
+        "text": "Definitionen av derivatans gränsvärde är $$\\lim_{h\\to0} \\frac{f{\\left(x+h\\right)}-f{\\left(x\\right)}}{h}$$.",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -16,7 +16,7 @@
             "a39b8a0def20a-h1"
         ],
         "title": "Inkoppling",
-        "text": "Sätt in $$h=0$$ i den föregående ekvationen.",
+        "text": "Sätt in $$h=0$$ i den tidigare ekvationen.",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -33,7 +33,7 @@
             "a39b8a0def20a-h2"
         ],
         "title": "Resulterande gränsvärde",
-        "text": "Vad är värdet av detta gränsvärde?",
+        "text": "Vad är värdet av denna gräns?",
         "variabilization": {},
         "oer": "",
         "license": "",

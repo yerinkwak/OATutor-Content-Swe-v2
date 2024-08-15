@@ -4,7 +4,7 @@
         "$$2.694$$"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "För funktionen $$f(x)=x^3-2x^2-11x+12$$, rita grafen på grafräknaren. Hitta sedan ett värde på a där $$f'(a)=0$$.",
+    "stepTitle": "För funktionen $$f(x)=x^3-2x^2-11x+12$$, rita funktionen på den grafritande miniräknaren. Hitta sedan ett värde på a där $$f'(a)=0$$.",
     "stepBody": "",
     "answerType": "string",
     "variabilization": {},

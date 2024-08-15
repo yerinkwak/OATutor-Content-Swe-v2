@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Rita en funktion",
-        "text": "För varje trettio miles som färdas används $$1$$ gallon bensin. I denna ekvation skulle $$x$$ vara antalet gallon bensin som förbrukas.",
+        "text": "För varje trettio mil som körs, används $$1$$ gallon bensin. I denna ekvation skulle $$x$$ vara antalet gallon bensin som förbrukas.",
         "variabilization": {},
         "oer": "",
         "license": ""

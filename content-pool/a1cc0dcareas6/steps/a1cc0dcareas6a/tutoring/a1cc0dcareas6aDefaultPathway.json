@@ -16,7 +16,7 @@
             "a1cc0dcareas6a-h1"
         ],
         "title": "Hitta gränsvärdena",
-        "text": "$$x^2-3=1$$ sedan $$x=2$$ och $$x=-2$$. Så vi erhåller $$x=-2$$ som en undre gräns och $$x=2$$ som en övre gräns.",
+        "text": "$$x^2-3=1$$ sedan $$x=2$$ och $$x=-2$$. Så vi erhåller $$x=-2$$ som en nedre gräns och $$x=2$$ som en övre gräns.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -28,7 +28,7 @@
             "a1cc0dcareas6a-h2"
         ],
         "title": "Definiera den övre grafen",
-        "text": "Arean av A ges av $$int{|f(x)-g(x)|, a, b, x$$, eftersom f(x) är en övre graf och g(x) är den nedre.",
+        "text": "Arean av \\( A \\) ges av $$int{|f(x)-g(x)|, a, b, x$$, eftersom f(x) är en övre graf och g(x) är den nedre.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -73,7 +73,7 @@
             "a1cc0dcareas6a-h5"
         ],
         "title": "Beräkna integralen",
-        "text": "$$4x-\\frac{x^3}{3}$$ as the limtis go from $$x=-2$$ to $$x=2$$",
+        "text": "$$4x-\\frac{x^3}{3}$$ när gränserna går från $$x=-2$$ till $$x=2$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -84,7 +84,7 @@
         "dependencies": [
             "a1cc0dcareas6a-h6"
         ],
-        "title": "Evaluate",
+        "title": "Utvärdera",
         "text": "$$4\\times2-\\frac{2^3}{3}-4\\left(-2\\right)-\\frac{{\\left(-2\\right)}^3}{3}=\\frac{32}{3}$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",

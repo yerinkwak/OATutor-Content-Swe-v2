@@ -3,8 +3,8 @@
         "id": "a39b8a0def9a-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Tangentlinjens ekvation",
-        "text": "Tangenten till f(x) vid a är linjen som passerar genom punkten (a,f(a)) med lutning $$\\\\lim_{h\\\\to0} \\\\frac{f{\\\\left(a+h\\\\right)}-f{\\\\left(a\\\\right)}}{h}$$.",
+        "title": "Tangetlinjens ekvation",
+        "text": "Tangenten till f(x) vid a är linjen som passerar genom punkten (a,f(a)) med lutning $$\\lim_{h\\to0} \\frac{f{\\left(a+h\\right)}-f{\\left(a\\right)}}{h}$$.",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -15,7 +15,7 @@
         "dependencies": [
             "a39b8a0def9a-h1"
         ],
-        "title": "Inkoppling",
+        "title": "Inmatning",
         "text": "Som $$a=-2$$ i denna ekvation, sätt in $$2$$ i f(a).",
         "variabilization": {},
         "oer": "",
@@ -27,8 +27,8 @@
         "dependencies": [
             "a39b8a0def9a-h2"
         ],
-        "title": "Simplify",
-        "text": "Förenkla den resulterande ekvationen: $$\\\\frac{2-3{\\\\left(h-2\\\\right)}^2-3-3{\\\\left(-2\\\\right)}^2}{h}$$",
+        "title": "Förenkla",
+        "text": "Förenkla den resulterande ekvationen: $$\\frac{2-3{\\left(h-2\\right)}^2-3-3{\\left(-2\\right)}^2}{h}$$",
         "variabilization": {},
         "oer": "",
         "license": ""

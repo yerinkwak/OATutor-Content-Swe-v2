@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Derivatafunktion",
-        "text": "Börja direkt med definitionen av derivatafunktionen. I logik används ofta en uppsättning symboler för att uttrycka logisk representation.",
+        "text": "Börja direkt med definitionen av derivatafunktionen. $$f′(x)=\\lim_{h\\to0} \\frac{f{\\left(x+h\\right)}-f{\\left(x\\right)}}{h}$$",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -16,7 +16,7 @@
             "acf60f3DerivativeFunction7a-h1"
         ],
         "title": "Derivatafunktion",
-        "text": "Vi kommer att få $$f'(x)=\\\\lim_{h\\\\to0} \\\\frac{\\\\frac{9}{x+h}-\\\\frac{9}{x}}{h}$$",
+        "text": "Vi kommer att få $$f'(x)=\\lim_{h\\to0} \\frac{\\frac{9}{x+h}-\\frac{9}{x}}{h}$$",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -33,7 +33,7 @@
             "acf60f3DerivativeFunction7a-h2"
         ],
         "title": "Förenkla täljaren",
-        "text": "Vad är den förenklade täljaren $$\\\\frac{9}{x+h}-\\\\frac{9}{x}$$?",
+        "text": "Vad är den förenklade täljaren $$\\frac{9}{x+h}-\\frac{9}{x}$$?",
         "variabilization": {},
         "oer": "",
         "license": "",
@@ -48,8 +48,8 @@
         "dependencies": [
             "acf60f3DerivativeFunction7a-h3"
         ],
-        "title": "Simplify",
-        "text": "$$\\frac{\\left(-\\frac{9}{x^2+xh}\\right)}{h}$$ equals to $$\\frac{1}{h} \\left(-\\frac{9}{x^2+xh}\\right)$$",
+        "title": "Förenkla",
+        "text": "$$\\frac{\\left(-\\frac{9}{x^2+xh}\\right)}{h}$$ är lika med $$\\frac{1}{h} \\left(-\\frac{9}{x^2+xh}\\right)$$",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -60,8 +60,8 @@
         "dependencies": [
             "acf60f3DerivativeFunction7a-h4"
         ],
-        "title": "Simplify",
-        "text": "Strunta i den gemensamma faktorn $$h$$",
+        "title": "Förenkla",
+        "text": "Sträck över den gemensamma faktorn $$h$$",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -77,7 +77,7 @@
         "dependencies": [
             "acf60f3DerivativeFunction7a-h5"
         ],
-        "title": "Simplify",
+        "title": "Förenkla",
         "text": "Vad kommer att få?",
         "variabilization": {},
         "oer": "",
@@ -95,7 +95,7 @@
             "acf60f3DerivativeFunction7a-h6"
         ],
         "title": "Utvärdera gränsvärdet",
-        "text": "För att få ett slutgiltigt svar, utvärdera gränsvärdet genom att sätta in \\( h \\to 0 \\) $$=$$ $$h=0$$",
+        "text": "För att få ett slutgiltigt svar, utvärdera gränsvärdet genom att sätta in h-->0 $$=$$ $$h=0$$",
         "variabilization": {},
         "oer": "",
         "license": ""

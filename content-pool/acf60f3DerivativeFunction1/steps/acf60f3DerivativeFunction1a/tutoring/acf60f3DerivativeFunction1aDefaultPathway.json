@@ -3,8 +3,8 @@
         "id": "acf60f3DerivativeFunction1a-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Derivatafunktion",
-        "text": "Börja direkt med definitionen av derivatafunktionen. $$f′(x)=\\\\lim_{h\\\\to0} \\\\frac{f{\\\\left(x+h\\\\right)}-f{\\\\left(x\\\\right)}}{h}$$",
+        "title": "Derivata",
+        "text": "Börja direkt med definitionen av derivatafunktionen. $$f′(x)=\\lim_{h\\to0} \\frac{f{\\left(x+h\\right)}-f{\\left(x\\right)}}{h}$$",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -16,7 +16,7 @@
             "acf60f3DerivativeFunction1a-h1"
         ],
         "title": "Derivatafunktion",
-        "text": "Vi kommer att få $$f'(x)=\\\\lim_{h\\\\to0} \\\\frac{\\\\sqrt{x+h}-\\\\sqrt{x}}{h}$$",
+        "text": "Vi kommer att få $$f'(x)=\\lim_{h\\to0} \\frac{\\sqrt{x+h}-\\sqrt{x}}{h}$$",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -27,8 +27,8 @@
         "dependencies": [
             "acf60f3DerivativeFunction1a-h2"
         ],
-        "title": "Simplify",
-        "text": "För att förenkla, multiplicera täljare och nämnare med $$\\\\sqrt{h+x}+\\\\sqrt{x}$$ utan att fördela i nämnaren",
+        "title": "Förenkla",
+        "text": "För att förenkla, multiplicera täljaren och nämnaren med $$\\sqrt{h+x}+\\sqrt{x}$$ utan att distribuera i nämnaren.",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -44,8 +44,8 @@
         "dependencies": [
             "acf60f3DerivativeFunction1a-h3"
         ],
-        "title": "Simplify",
-        "text": "Vad får vi efter multiplikation?",
+        "title": "Förenkla",
+        "text": "Vad får man efter multiplikation?",
         "variabilization": {},
         "oer": "",
         "license": "",
@@ -63,8 +63,8 @@
                     "h"
                 ],
                 "dependencies": [],
-                "title": "Simplify",
-                "text": "Vad är $$\\\\left(\\\\sqrt{x+h}-\\\\sqrt{x}\\\\right) \\\\left(\\\\sqrt{x+h}+\\\\sqrt{x}\\\\right)$$?",
+                "title": "Förenkla",
+                "text": "Vad är $$\\left(\\sqrt{x+h}-\\sqrt{x}\\right) \\left(\\sqrt{x+h}+\\sqrt{x}\\right)$$?",
                 "variabilization": {},
                 "oer": "",
                 "license": ""
@@ -78,7 +78,7 @@
             "acf60f3DerivativeFunction1a-h4"
         ],
         "title": "Utvärdera gränsvärdet",
-        "text": "För att få ett slutgiltigt svar, utvärdera gränsvärdet genom att sätta in \\( h \\to 0 \\) $$=$$ $$h=0$$",
+        "text": "För att få ett slutgiltigt svar, utvärdera gränsvärdet genom att sätta in h-->0 $$=$$ $$h=0$$",
         "variabilization": {},
         "oer": "",
         "license": ""

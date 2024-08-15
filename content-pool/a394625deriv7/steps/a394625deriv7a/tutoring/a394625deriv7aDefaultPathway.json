@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Bryta ner frågan",
-        "text": "Vi kan dela upp funktionerna i $$x+cos\\\\left(x\\\\right)$$ och $$1-sin(x)$$",
+        "text": "Vi kan dela upp funktionerna i $$x+cos\\left(x\\right)$$ och $$1-sin(x)$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -20,8 +20,8 @@
         "dependencies": [
             "a394625deriv7a-h1"
         ],
-        "title": "Sub-question",
-        "text": "Vad är derivatan av $$x+cos\\\\left(x\\\\right)$$",
+        "title": "Delfråga",
+        "text": "Vad är derivatan av $$x+cos\\left(x\\right)$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "",
@@ -42,7 +42,7 @@
         "dependencies": [
             "a394625deriv7a-h2"
         ],
-        "title": "Sub-question",
+        "title": "Deluppgift",
         "text": "Vad är derivatan av $$1-sin(x)$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
@@ -59,8 +59,8 @@
         "dependencies": [
             "a394625deriv7a-h3"
         ],
-        "title": "Tillämpa deriveringsregeln",
-        "text": "Tillämpa produktregeln för derivator av sammansatta funktioner för att hitta den slutliga lösningen.",
+        "title": "Tillämpa derivatregeln",
+        "text": "Tillämpa produktregeln för sammansatta funktioner för att hitta den slutliga lösningen",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""

@@ -28,7 +28,7 @@
             "a1cc0dcareas8a-h2"
         ],
         "title": "Definiera den högra grafen",
-        "text": "Arean av A ges av $$\\\\int_{c}^{d} |u\\\\left(y\\\\right)-v\\\\left(y\\\\right)| \\\\,dy$$, eftersom u(y) är en övre graf och v(y) är den nedre.",
+        "text": "Arean av A ges av $$\\int_{c}^{d} |u\\left(y\\right)-v\\left(y\\right)| \\,dy$$, eftersom u(y) är en övre graf och v(y) är den nedre.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -73,7 +73,7 @@
             "a1cc0dcareas8a-h5"
         ],
         "title": "Beräkna integralen",
-        "text": "$$9y-\\frac{y^3}{3}$$ as the limits go from $$y=-3$$ to $$y=3$$",
+        "text": "$$9y-\\frac{y^3}{3}$$ när gränserna går från $$y=-3$$ till $$y=3$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -84,7 +84,7 @@
         "dependencies": [
             "a1cc0dcareas8a-h6"
         ],
-        "title": "Evaluate",
+        "title": "Utvärdera",
         "text": "$$9\\times3-\\frac{3^3}{3}-9\\left(-3\\right)-\\frac{{\\left(-3\\right)}^3}{3}=36$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",

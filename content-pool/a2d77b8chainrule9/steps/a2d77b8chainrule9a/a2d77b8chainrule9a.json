@@ -4,7 +4,7 @@
         "$$-\\operatorname{csc}\\left(x+1\\right) \\operatorname{cot}\\left(x+1\\right)$$"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "Hitta $$\\\\frac{dy}{dx}$$",
+    "stepTitle": "Hitta $$\\frac{dy}{dx}$$",
     "stepBody": "",
     "answerType": "string",
     "variabilization": {},

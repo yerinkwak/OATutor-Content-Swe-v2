@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Implicit differentiering",
-        "text": "Först, använd implicit differentiering för att hitta $$\\\\frac{dy}{dx}$$. Derivera båda sidor av ekvationen, förenkla sedan.",
+        "text": "Först, använd implicit differentiering för att hitta $$\\frac{dy}{dx}$$. Derivera båda sidor av ekvationen, förenkla sedan.",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -16,7 +16,7 @@
             "ab2ed79implicit10a-h1"
         ],
         "title": "$$\\frac{dy}{dx}$$",
-        "text": "$$\\frac{dy}{dx}$$ is $$\\frac{-y {sec}^2 x y}{x {sec}^2 x y-1}$$",
+        "text": "$$\\frac{dy}{dx}$$ är $$\\frac{-y {sec}^2 x y}{x {sec}^2 x y-1}$$",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -27,8 +27,8 @@
         "dependencies": [
             "ab2ed79implicit10a-h2"
         ],
-        "title": "Hitta lutningen",
-        "text": "För att hitta lutningen, sätt in $$(\\\\frac{\\\\pi}{4},1)$$ i $$\\\\frac{dy}{dx}$$.",
+        "title": "Att hitta lutningen",
+        "text": "För att hitta lutningen, sätt in $$(\\frac{\\pi}{4},1)$$ i $$\\frac{dy}{dx}$$.",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -40,7 +40,7 @@
             "ab2ed79implicit10a-h3"
         ],
         "title": "Punkt-lutningsform",
-        "text": "Substituera in i punkt-lutningsformen för linjens ekvation för att erhålla ekvationen.",
+        "text": "Substituera in i enpunktsformen av linjen för att erhålla ekvationen.",
         "variabilization": {},
         "oer": "",
         "license": ""

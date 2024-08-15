@@ -3,8 +3,8 @@
         "id": "a3e1067arc11a-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Formel för båglängd",
-        "text": "Båglängd kan hittas genom att beräkna $$\\\\int_{a}^{b} \\\\sqrt{1+{\\\\operatorname{g'}\\\\left(y\\\\right)}^2} \\\\,dy$$, g'(y) är derivatan av g(y) och intervallet [a,b]",
+        "title": "Formeln för båglängd",
+        "text": "Båglängd kan hittas genom att beräkna $$\\int_{a}^{b} \\sqrt{1+{\\operatorname{g'}\\left(y\\right)}^2} \\,dy$$, g'(y) är derivatan av g(y) och intervallet [a,b]",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -28,7 +28,7 @@
             "a3e1067arc11a-h2"
         ],
         "title": "Sätt in",
-        "text": "Efter att vi har satt in g'(y) och intervallet, kommer vi att ha Arc $$Length=\\\\int_{-1}^{1} \\\\sqrt{1+4^2} \\\\,dy=\\\\int_{-1}^{1} \\\\sqrt{17} \\\\,dy$$",
+        "text": "Efter att vi har satt in g'(y) och intervallet, kommer vi att ha Arc $$Length=\\int_{-1}^{1} \\sqrt{1+4^2} \\,dy=\\int_{-1}^{1} \\sqrt{17} \\,dy$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -40,7 +40,7 @@
             "a3e1067arc11a-h3"
         ],
         "title": "Utvärdera integralen",
-        "text": "Vi kan ta $$\\\\sqrt{17}$$ ut ur integralen, vilket ger oss Arc $$Length=\\\\sqrt{17}$$ gånger $$y$$ med gräns från $$-1$$ till $$1$$.",
+        "text": "Vi kan ta $$\\sqrt{17}$$ ut ur integralen, vilket ger oss Arc $$Length=\\sqrt{17}$$ gånger $$y$$ med gräns från $$-1$$ till $$1$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -57,7 +57,7 @@
             "a3e1067arc11a-h4"
         ],
         "title": "Utvärdera integralen",
-        "text": "Vad är $$\\\\sqrt{17} \\\\left(1-\\\\left(-1\\\\right)\\\\right)$$?",
+        "text": "Vad är $$\\sqrt{17} \\left(1-\\left(-1\\right)\\right)$$?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""

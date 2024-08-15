@@ -20,7 +20,7 @@
         "dependencies": [
             "a394625deriv14a-h1"
         ],
-        "title": "Sub-question",
+        "title": "Deluppgift",
         "text": "Vad är derivatan av $$-sin(x)$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
@@ -42,7 +42,7 @@
         "dependencies": [
             "a394625deriv14a-h2"
         ],
-        "title": "Sub-question",
+        "title": "Deluppgift",
         "text": "Vad är derivatans värde vid $$x$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
@@ -59,7 +59,7 @@
         "dependencies": [
             "a394625deriv14a-h3"
         ],
-        "title": "Sub-question",
+        "title": "Deluppgift",
         "text": "Vad är funktionsvärdet vid $$x$$?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
@@ -71,8 +71,8 @@
         "dependencies": [
             "a394625deriv14a-h4"
         ],
-        "title": "En fast punkt och bestämd lutning bestämmer linjen",
-        "text": "Vi fick linjen att passera tangentpunkten och vi fick dess lutning till att vara derivatans värde, så vi kan bestämma linjen.",
+        "title": "En fast punkt och bestämd lutning bestämmer linjen.",
+        "text": "Vi fick linjen att passera genom tangentpunkten och vi fick dess lutning till att vara derivatans värde, så vi kan bestämma linjen.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""

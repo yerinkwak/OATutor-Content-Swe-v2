@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Bryta ner frågan",
-        "text": "Vi kan separera funktionerna i $$x^2$$ $$-sec(x)$$ och $$1$$",
+        "text": "Vi kan dela upp funktionerna i $$x^2$$ $$-sec(x)$$ och $$1$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -20,7 +20,7 @@
         "dependencies": [
             "a394625deriv1a-h1"
         ],
-        "title": "Sub-question",
+        "title": "Deluppgift",
         "text": "Vad är derivatan av $$x^2$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
@@ -42,7 +42,7 @@
         "dependencies": [
             "a394625deriv1a-h2"
         ],
-        "title": "Sub-question",
+        "title": "Delfråga",
         "text": "Vad är derivatan av sec(x)",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
@@ -60,7 +60,7 @@
             "a394625deriv1a-h3"
         ],
         "title": "Addering av derivator",
-        "text": "Lägg ihop alla derivator och få det slutliga svaret. Derivator av konstanter är 0.",
+        "text": "Addera alla derivator och få det slutliga svaret. (Derivatives of constants are 0)",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""

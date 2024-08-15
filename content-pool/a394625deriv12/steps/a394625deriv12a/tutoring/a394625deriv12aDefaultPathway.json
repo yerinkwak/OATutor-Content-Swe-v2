@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Bryta ner frågan",
-        "text": "Hitta derivatans värde och det kommer att vara lutningen",
+        "text": "Hitta derivatans värde och det kommer att vara lutningen.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -20,7 +20,7 @@
         "dependencies": [
             "a394625deriv12a-h1"
         ],
-        "title": "Sub-question",
+        "title": "Deluppgift",
         "text": "Vad är derivatan av csc(x)",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
@@ -42,7 +42,7 @@
         "dependencies": [
             "a394625deriv12a-h2"
         ],
-        "title": "Sub-question",
+        "title": "Deluppgift",
         "text": "Vad är derivatans värde vid $$x$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
@@ -63,7 +63,7 @@
         "dependencies": [
             "a394625deriv12a-h3"
         ],
-        "title": "Sub-question",
+        "title": "Deluppgift",
         "text": "Vad är funktionsvärdet vid $$x$$?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
@@ -76,7 +76,7 @@
             "a394625deriv12a-h4"
         ],
         "title": "En fast punkt och bestämd lutning bestämmer linjen",
-        "text": "Vi fick linjen att passera tangeringspunkten och vi fick dess lutning att vara derivatans värde, så vi kan bestämma linjen.",
+        "text": "Vi fick linjen att passera genom tangentpunkten och vi fick dess lutning att vara derivatans värde, så vi kan bestämma linjen.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""

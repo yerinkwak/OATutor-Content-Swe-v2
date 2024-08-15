@@ -3,8 +3,8 @@
         "id": "a39b8a0def21b-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Närmar sig momentan hastighet",
-        "text": "Värdet som medelhastigheterna närmar sig när $$t$$ kommer närmare $$4$$ sekunder är sannolikt den momentana hastigheten när $$t=4$$.",
+        "title": "Närmar sig momentanhastighet",
+        "text": "Värdet som medelhastigheterna närmar sig när $$t$$ kommer närmare $$4$$ sekunder är troligtvis momentanhastigheten när $$t=4$$.",
         "variabilization": {},
         "oer": "",
         "license": ""

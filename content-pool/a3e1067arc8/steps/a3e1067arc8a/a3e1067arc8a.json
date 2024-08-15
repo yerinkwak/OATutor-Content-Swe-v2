@@ -4,7 +4,7 @@
         "$$24.118$$"
     ],
     "problemType": "TextBox",
-    "stepTitle": "Låt $$f(x)=y=\\\\sqrt[3]{3x}$$. Betrakta den del av kurvan där $$0 \\\\leq y \\\\leq 2$$. Hitta ytan av ytan som genereras genom att rotera grafen av f(x) runt y-axeln.",
+    "stepTitle": "Låt $$f(x)=y=\\sqrt[3]{3x}$$. Betrakta den del av kurvan där $$0 \\leq y \\leq 2$$. Hitta ytarean av ytan som genereras genom att rotera grafen av f(x) runt y-axeln.",
     "stepBody": "",
     "answerType": "arithmetic",
     "variabilization": {},

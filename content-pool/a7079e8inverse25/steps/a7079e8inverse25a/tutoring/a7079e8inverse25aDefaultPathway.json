@@ -15,7 +15,7 @@
         "dependencies": [
             "a7079e8inverse25a-h1"
         ],
-        "title": "Att hitta inversen av f(x) vid $$a=0$$.",
+        "title": "Hitta inversen av f(x) vid $$a=0$$.",
         "text": "För att hitta inversen av f(x) där $$a=-3$$, behöver vi först hitta vilket värde av $$x$$ när vi sätter in det i f(x) som ger oss ett värde av $$-3$$. I det här fallet är det när $$x=1$$, så vi vet att f**-1(-3)=1.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
@@ -27,8 +27,8 @@
         "dependencies": [
             "a7079e8inverse25a-h2"
         ],
-        "title": "Att hitta derivatan av \\( f(f^{-1}(x)) \\)",
-        "text": "Vi fann att inversen av f(x) $$=1$$ i den tidigare ledtråden, därför behöver vi nu veta vad f'(1) är lika med, vilket är givet till oss, det är $$10$$.",
+        "title": "Att hitta derivatan av \\( f \\)",
+        "text": "Vi fann att inversen av f(x) $$=1$$ i den föregående ledtråden, därför behöver vi nu veta vad f'(1) är lika med, vilket ges till oss, det är $$10$$.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -39,8 +39,8 @@
         "dependencies": [
             "a7079e8inverse25a-h3"
         ],
-        "title": "Tillämpning av inversa funktionsteoremet",
-        "text": "Eftersom vi vet att $$\\\\operatorname{f'}\\\\left(1f^{\\\\left(-1\\\\right)}\\\\right)$$ är lika med $$10$$, kan vi tillämpa inversa funktionsteoremet genom att göra 1/(vårt svar). I det här fallet är detta $$\\\\frac{1}{10}=\\\\frac{1}{10}$$.",
+        "title": "Tillämpar inversa funktionssatsen",
+        "text": "Eftersom vi vet att $$\\operatorname{f'}\\left(1f^{\\left(-1\\right)}\\right)$$ är lika med $$10$$, kan vi tillämpa inversa funktionsteoremet genom att göra 1/(our answer). I det här fallet är detta $$\\frac{1}{10}=\\frac{1}{10}$$.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""

@@ -4,7 +4,7 @@
         "$$0.2$$"
     ],
     "problemType": "TextBox",
-    "stepTitle": "Hitta lutningen på sekantlinjen mellan värdena $$x_1$$ och $$x_2$$ för $$f(x)=\\\\sqrt{x}$$, där $$x_1=1$$ och $$x_2=16$$.",
+    "stepTitle": "Hitta lutningen på sekantlinjen mellan värdena $$x_1$$ och $$x_2$$ för $$f(x)=\\sqrt{x}$$, där $$x_1=1$$ och $$x_2=16$$.",
     "stepBody": "",
     "answerType": "arithmetic",
     "variabilization": {},

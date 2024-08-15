@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Skriv om integralen",
-        "text": "Skriv om integralen som $$\\\\int z\\\\left({\\\\left(z^2-5\\\\right)}^{\\\\frac{1}{2}}\\\\right) \\\\,dz$$.",
+        "text": "Skriv om integralen som $$\\int z\\left({\\left(z^2-5\\right)}^{\\frac{1}{2}}\\right) \\,dz$$.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -27,8 +27,8 @@
         "dependencies": [
             "a82ea5csubstitution2a-h2"
         ],
-        "title": "Ändra uttrycket genom att multiplicera med $$\\\\frac{1}{2}$$",
-        "text": "Ändra uttrycket för du eller integralen i u kommer att vara dubbelt så stor som den borde vara. Vi kan göra detta genom att multiplicera båda sidorna av du-ekvationen med $$\\\\frac{1}{2}$$.",
+        "title": "Ändra uttrycket genom att multiplicera med $$\\frac{1}{2}$$",
+        "text": "Ändra uttrycket för du eller integralen i u kommer att vara dubbelt så stor som den borde vara. Vi kan göra detta genom att multiplicera båda sidor av du-ekvationen med $$\\frac{1}{2}$$.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -40,7 +40,7 @@
             "a82ea5csubstitution2a-h3"
         ],
         "title": "Skriv integralen i termer av u",
-        "text": "Skriv integralen i termer av u, men dra ut $$\\\\frac{1}{2}$$ utanför integrationssymbolen.",
+        "text": "Skriv integralen i termer av u, men dra ut $$\\frac{1}{2}$$ utanför integrationssymbolen.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""

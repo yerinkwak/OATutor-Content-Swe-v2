@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Bryta ner frågan",
-        "text": "Vi kan separera funktionerna till tan(x) och $$1-sec(x)$$",
+        "text": "Vi kan separera funktionerna i tan(x) och $$1-sec(x)$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -20,8 +20,8 @@
         "dependencies": [
             "a394625deriv8a-h1"
         ],
-        "title": "Sub-question",
-        "text": "Vad är derivatan av tan(x)",
+        "title": "Deluppgift",
+        "text": "Vad är derivatan av \\(\\tan(\\text(x))\\)?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "",
@@ -42,7 +42,7 @@
         "dependencies": [
             "a394625deriv8a-h2"
         ],
-        "title": "Sub-question",
+        "title": "Deluppgift",
         "text": "Vad är derivatan av $$1-sec(x)$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
@@ -60,7 +60,7 @@
             "a394625deriv8a-h3"
         ],
         "title": "Tillämpa deriveringsregeln",
-        "text": "Tillämpa kvotregeln för derivator av sammansatta funktioner för att hitta den slutliga lösningen.",
+        "text": "Tillämpa kvotregeln för sammansatta funktioner för att hitta den slutliga lösningen",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""

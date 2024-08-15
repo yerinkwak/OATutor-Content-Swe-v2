@@ -16,7 +16,7 @@
             "a961302definite4a-h1"
         ],
         "title": "Vad som behövs för att hitta den totala arean",
-        "text": "För att hitta den totala arean, ta arean under x-axeln över delintervallet [0, 2] och lägg till den till arean ovanför x-axeln på delintervallet [2, 6]. Utifrån detta har vi $$\\\\int_{0}^{6} |x-2| \\\\,dx=A_2+A_1$$.",
+        "text": "För att hitta den totala arean, ta arean under x-axeln över delintervallet [0, 2] och lägg till den till arean ovanför x-axeln på delintervallet [2, 6]. Av detta har vi $$\\int_{0}^{6} |x-2| \\,dx=A_2+A_1$$.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -28,7 +28,7 @@
             "a961302definite4a-h2"
         ],
         "title": "Hitta arean av två trianglar $$A_2$$ och $$A_1$$",
-        "text": "Använd formeln för arean av en triangel, $$A=\\\\frac{1}{2} b h$$ för att erhålla $$A_2$$ och $$A_1$$.",
+        "text": "Använd formeln för arean av en triangel, $$A=\\frac{1}{2} b h$$ för att erhålla $$A_2$$ och $$A_1$$.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -64,7 +64,7 @@
             "a961302definite4a-h4"
         ],
         "title": "Lägg till $$A_1$$ och $$A_2$$ för att hitta den totala arean",
-        "text": "Nu när vi vet $$A_1$$ och $$A_2$$, kan vi lägga ihop de två områdena för att hitta den totala arean.",
+        "text": "Nu när vi vet $$A_1$$ och $$A_2$$, kan vi lägga ihop de två areorna för att hitta den totala arean.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -80,7 +80,7 @@
         "dependencies": [
             "a961302definite4a-h5"
         ],
-        "title": "Addera $$A_1$$ och $$A_2$$ för att hitta den totala arean",
+        "title": "Lägg till $$A_1$$ och $$A_2$$ för att hitta den totala arean",
         "text": "Vad är $$A_1+A_2$$?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",

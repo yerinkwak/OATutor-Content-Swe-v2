@@ -3,8 +3,8 @@
         "id": "a750210trig25a-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Reciproka trigonometriska identiteter",
-        "text": "Kom ihåg att cscx är lika med $$\\\\frac{1}{sinx}$$",
+        "title": "Reciproka trigonometriska identiteten",
+        "text": "Kom ihåg att cscx är lika med $$\\frac{1}{sinx}$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""

@@ -1,10 +1,10 @@
 {
-    "id": "a82ea5csubstitution3",
-    "title": "Using Substitution with Integrals of Trigonometric Functions",
-    "body": "",
+    "id": "a961302definite3",
+    "title": "Hitta det netto undertecknade området",
+    "body": "\\n##figure1.gif",
     "variabilization": {},
     "oer": "https://openstax.org/details/books/calculus-volume-1 <OpenStax: Calculus Volume 1>",
     "license": 0.0,
-    "lesson": "5.5 Substitution",
+    "lesson": "5.2 Det bestämda integralen",
     "courseName": "OpenStax: Calculus Volume 1"
 }

@@ -4,7 +4,7 @@
         "$$\\frac{-7}{9}$$"
     ],
     "problemType": "TextBox",
-    "stepTitle": "Hitta lutningen på tangentlinjen $$m=f'(a)$$, där $$f(x)=\\\\frac{7}{x}$$ och $$a=3$$",
+    "stepTitle": "Hitta lutningen på tangentlinjen $$m=f'(a)$$, där $$f(x)=\\frac{7}{x}$$ och $$a=3$$",
     "stepBody": "",
     "answerType": "arithmetic",
     "variabilization": {},

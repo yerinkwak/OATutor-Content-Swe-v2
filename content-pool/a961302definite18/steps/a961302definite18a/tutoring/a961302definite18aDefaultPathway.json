@@ -3,8 +3,8 @@
         "id": "a961302definite18a-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Använd egenskapen för integralen av en summa och skillnad",
-        "text": "För addition, $$\\\\int_{a}^{b} f{\\\\left(x\\\\right)}+g{\\\\left(x\\\\right)} \\\\,dx=\\\\int_{a}^{b} f(x) \\\\,dx+\\\\int_{a}^{b} g(x) \\\\,dx$$. Med andra ord, integralen av en summa är summan av integralerna. För subtraktion, $$\\\\int_{a}^{b} f(x)-g(x) \\\\,dx=\\\\int_{a}^{b} f(x) \\\\,dx-int{g(x),a,b,x}$$. Detta innebär att separera termerna i tre olika integraler med lämpligt tecken.",
+        "title": "Tillämpa egenskapen för integralen av en summa och skillnad",
+        "text": "För addition, $$\\int_{a}^{b} f{\\left(x\\right)}+g{\\left(x\\right)} \\,dx=\\int_{a}^{b} f(x) \\,dx+\\int_{a}^{b} g(x) \\,dx$$. Med andra ord, integralen av en summa är summan av integralerna. För subtraktion, $$\\int_{a}^{b} f(x)-g(x) \\,dx=\\int_{a}^{b} f(x) \\,dx-int{g(x),a,b,x}$$. Detta innebär att separera termerna i tre olika integraler med lämpligt tecken.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -44,7 +44,7 @@
                 ],
                 "dependencies": [],
                 "title": "Utvärdera integralerna",
-                "text": "Vad är $$1-\\\\frac{1}{2}+\\\\frac{1}{3}-\\\\frac{1}{4}$$?",
+                "text": "Vad är $$1-\\frac{1}{2}+\\frac{1}{3}-\\frac{1}{4}$$?",
                 "variabilization": {},
                 "oer": "https://OATutor.io <OATutor>",
                 "license": ""

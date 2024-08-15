@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Position",
-        "text": "Positionen för båda fordonen ges av s, som mäts i fot.",
+        "text": "Positionen för båda fordonen ges av s, vilket mäts i fot.",
         "variabilization": {},
         "oer": "",
         "license": ""

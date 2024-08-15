@@ -16,7 +16,7 @@
             "a7079e8inverse3a-h1"
         ],
         "title": "Hitta inversen av f(x) vid $$a=0$$.",
-        "text": "För att hitta inversen av f(x) där $$a=2$$, måste vi först hitta vilket värde av $$x$$ när vi sätter in det i f(x) som ger oss ett värde av $$2$$. I detta fall är det när $$x=1$$, så vi vet att $$2f^{\\\\left(-1\\\\right)}=1$$.",
+        "text": "För att hitta inversen av f(x) där $$a=2$$, behöver vi först hitta vilket värde av $$x$$ när vi sätter in det i f(x) som ger oss ett värde av $$2$$. I detta fall är det när $$x=1$$, så vi vet att $$2f^{\\left(-1\\right)}=1$$.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -39,8 +39,8 @@
         "dependencies": [
             "a7079e8inverse3a-h3"
         ],
-        "title": "Tillämpa inversa funktionsteoremet",
-        "text": "Eftersom vi redan har funnit $$2f^{\\\\left(-1\\\\right)}=1$$ och derivatan av f(x), kan vi använda det vi vet i inversa funktionsteoremet.",
+        "title": "Tillämpar inversa funktionssatsen",
+        "text": "Eftersom vi redan har funnit $$2f^{\\left(-1\\right)}=1$$ och derivatan av f(x), kan vi använda det vi vet i inversa funktionens sats.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""

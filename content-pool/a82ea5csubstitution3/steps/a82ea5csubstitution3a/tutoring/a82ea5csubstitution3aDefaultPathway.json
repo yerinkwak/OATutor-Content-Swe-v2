@@ -45,7 +45,7 @@
             "a82ea5csubstitution3a-h3"
         ],
         "title": "Utvärdera integralen",
-        "text": "Vad är resultatet av att beräkna integralen?",
+        "text": "Vad är resultatet av att evaluera integralen?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "",
@@ -63,7 +63,7 @@
             "a82ea5csubstitution3a-h4"
         ],
         "title": "Sätt tillbaka svaret",
-        "text": "Skriv svaret i termer av $$t$$.",
+        "text": "Sätt tillbaka svaret i termer av $$t$$.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""

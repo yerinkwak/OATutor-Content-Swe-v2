@@ -4,7 +4,7 @@
         "$$0.25$$"
     ],
     "problemType": "TextBox",
-    "stepTitle": "Hitta lutningen på sekantlinjen mellan värdena $$x_1$$ och $$x_2$$ för $$f(x)=x^{\\\\frac{1}{3}}+1$$, där $$x_1=0$$ och $$x_2=8$$.",
+    "stepTitle": "Hitta lutningen på sekantlinjen mellan värdena $$x_1$$ och $$x_2$$ för $$f(x)=x^{\\frac{1}{3}}+1$$, där $$x_1=0$$ och $$x_2=8$$.",
     "stepBody": "",
     "answerType": "arithmetic",
     "variabilization": {},

@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Hitta \\(\\sec x\\)",
-        "text": "längden av $$\\\\frac{hypotenuse}{length}$$ av närliggande.",
+        "text": "Längden av $$\\frac{hypotenuse}{length}$$ av närliggande.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -15,7 +15,7 @@
         "dependencies": [
             "a750210trig20f-h1"
         ],
-        "title": "Lengths",
+        "title": "Längder",
         "text": "Längden på kateten mittemot A är $$a=84$$, längden på kateten intill A är $$b=13$$, och längden på hypotenusan är $$c=85$$.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",

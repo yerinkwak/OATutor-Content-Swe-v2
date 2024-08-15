@@ -4,7 +4,7 @@
         "$$-3\\operatorname{csc}\\left(x\\right) \\operatorname{cot}\\left(x\\right)-\\frac{5}{x^2}$$"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "För följande övningar, hitta $$\\\\frac{dy}{dx}$$ för de givna funktionerna.",
+    "stepTitle": "För följande övningar, hitta $$\\frac{dy}{dx}$$ för de givna funktionerna.",
     "stepBody": "$$y=3\\operatorname{csc}\\left(x\\right)+\\frac{5}{x}$$",
     "answerType": "string",
     "variabilization": {},

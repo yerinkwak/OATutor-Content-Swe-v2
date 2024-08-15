@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Tillämpa produktregeln.",
-        "text": "Eftersom vi multiplicerar $$2$$ funktioner, behöver vi använda produktregeln för att hitta derivatan. För referens är produktregeln $$\\\\frac{d}{dy} f{\\\\left(x\\\\right)} g{\\\\left(x\\\\right)}=\\\\operatorname{f'}\\\\left(x\\\\right) g{\\\\left(x\\\\right)}+f{\\\\left(x\\\\right)} \\\\operatorname{g'}\\\\left(x\\\\right)$$.",
+        "text": "Eftersom vi multiplicerar $$2$$ funktioner, måste vi använda produktregeln för att hitta derivatan. För referens är produktregeln $$\\frac{d}{dy} f{\\left(x\\right)} g{\\left(x\\right)}=\\operatorname{f'}\\left(x\\right) g{\\left(x\\right)}+f{\\left(x\\right)} \\operatorname{g'}\\left(x\\right)$$.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -15,8 +15,8 @@
         "dependencies": [
             "a7079e8inverse17a-h1"
         ],
-        "title": "Derivatan av inversa trigonometriska funktioner: \\(\\cos(x)\\) och \\(\\sin(x)\\)",
-        "text": "Formeln för derivatan av invers sin(x) är $$\\\\frac{d}{dx} {sin}^{-1} x=\\\\frac{1}{\\\\sqrt{1-x^2}}$$. Formeln för derivatan av invers cos(x) är $$\\\\frac{d}{dx} {cos}^{-1} x=\\\\frac{-1}{\\\\sqrt{1-x^2}}$$.",
+        "title": "Derivatan av inversa trigonometriska funktioner: \\cos^{-1} och \\sin^{-1}",
+        "text": "Formeln för derivatan av invers sin(x) är $$\\frac{d}{dx} {sin}^{-1} x=\\frac{1}{\\sqrt{1-x^2}}$$. Formeln för derivatan av invers cos(x) är $$\\frac{d}{dx} {cos}^{-1} x=\\frac{-1}{\\sqrt{1-x^2}}$$.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -28,7 +28,7 @@
             "a7079e8inverse17a-h2"
         ],
         "title": "Tillämpa kedjeregeln",
-        "text": "Eftersom inversen av cos och sin har en funktion inom sina parenteser, \"2x\" i detta fall, måste vi tillämpa kedjeregeln innan vi använder formeln från den tidigare ledtråden. För referens är kedjeregeln $$(f(g(x)))'=\\\\operatorname{f'}\\\\left(g{\\\\left(x\\\\right)}\\\\right) \\\\operatorname{g'}\\\\left(x\\\\right)$$.",
+        "text": "Eftersom inversen av cos och sin har en funktion inom sina parenteser, \"2x\" i detta fall, måste vi tillämpa kedjeregeln innan vi använder formeln från föregående tips. För referens är kedjeregeln $$(f(g(x)))'=\\operatorname{f'}\\left(g{\\left(x\\right)}\\right) \\operatorname{g'}\\left(x\\right)$$.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""

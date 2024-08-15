@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Bryta ner frågan",
-        "text": "Vi kan separera funktionerna i sin(x) och tan(x)",
+        "text": "Vi kan separera funktionerna i \\(\\sin\\{paren1\\}\\) och \\(\\tan\\{paren1\\}\\)",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -20,8 +20,8 @@
         "dependencies": [
             "a394625deriv6a-h1"
         ],
-        "title": "Sub-question",
-        "text": "Vad är derivatan av sin(x)",
+        "title": "Deluppgift",
+        "text": "Vad är derivatan av \\(\\sin\\{paren1\\}\\)",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "",
@@ -42,7 +42,7 @@
         "dependencies": [
             "a394625deriv6a-h2"
         ],
-        "title": "Sub-question",
+        "title": "Deluppgift",
         "text": "Vad är derivatan av tan(x)",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
@@ -59,8 +59,8 @@
         "dependencies": [
             "a394625deriv6a-h3"
         ],
-        "title": "Använd deriveringsregeln",
-        "text": "Tillämpa produktregeln för derivator av sammansatta funktioner för att hitta den slutliga lösningen",
+        "title": "Tillämpa deriveringsregeln",
+        "text": "Tillämpa produktregeln för sammansatta funktioner för att hitta den slutliga lösningen",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""

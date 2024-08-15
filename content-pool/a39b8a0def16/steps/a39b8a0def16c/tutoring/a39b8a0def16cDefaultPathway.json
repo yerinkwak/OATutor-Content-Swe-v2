@@ -3,8 +3,8 @@
         "id": "a39b8a0def16c-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Ekvationen för momentan hastighet",
-        "text": "Den momentana hastigheten vid a ges av v(a)=lim{t,a,(s(t)-s(a))/(t-a)}",
+        "title": "Ekvationen för momentanhastighet",
+        "text": "Momentanhastigheten vid a ges av v(a)=lim{t,a,(s(t)-s(a))/(t-a)}",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -16,7 +16,7 @@
             "a39b8a0def16c-h1"
         ],
         "title": "Inkoppling",
-        "text": "Sätt in $$a=2$$ i ekvationen för momentanhastighet.",
+        "text": "Sätt in $$a=2$$ i momentanhastighetsekvationen.",
         "variabilization": {},
         "oer": "",
         "license": ""

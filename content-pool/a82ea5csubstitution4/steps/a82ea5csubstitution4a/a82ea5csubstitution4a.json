@@ -4,7 +4,7 @@
         "$$\\frac{2}{3} {\\left(x-1\\right)}^{\\frac{1}{2}} \\left(x+2\\right)+C$$"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "Använd substitution för att hitta antiderivatan $$\\\\int \\\\frac{x}{\\\\sqrt{x-1}} \\\\,dx$$.",
+    "stepTitle": "Använd substitution för att hitta antiderivatan $$\\int \\frac{x}{\\sqrt{x-1}} \\,dx$$.",
     "stepBody": "",
     "answerType": "string",
     "variabilization": {},

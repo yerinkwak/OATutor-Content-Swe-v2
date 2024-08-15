@@ -4,7 +4,7 @@
         "$$\\frac{1}{30}$$"
     ],
     "problemType": "TextBox",
-    "stepTitle": "\\($$N(x)=\\\\frac{x}{30}$$\\) är antalet gallon bensin som används av ett fordon efter att ha färdats \\($$x$$\\) miles. Vad är N′(100)? Detta är bränsleförbrukningen i gallon per mil som fordonet uppnår efter att ha kört $$100$$ miles.",
+    "stepTitle": "$$N(x)=\\frac{x}{30}$$ är antalet gallon bensin som används av ett fordon efter att ha kört $$x$$ miles. Vad är N′(100)? Detta är bränsleförbrukningen i gallon per mil som fordonet uppnår efter att ha kört $$100$$ mil.",
     "stepBody": "",
     "answerType": "arithmetic",
     "variabilization": {},

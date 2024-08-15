@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Att uttrycka gränsvärden som bestämda integraler",
-        "text": "Betrakta gränsvärdet av $$R_n$$ som en Riemannsumma som representerar integralen av $$f(x)=x$$ över intervallet från $$0$$ till $$1$$.",
+        "text": "Betrakta gränsvärdet av $$R_n$$ som en Riemanns summa som representerar integralen av $$f(x)=x$$ över intervallet från $$0$$ till $$1$$.",
         "variabilization": {},
         "oer": "",
         "license": ""

@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Rita en funktion",
-        "text": "Använd en grafräknare för att rita f(x). Använd sedan ZOOM-funktionen för att approximera värdena på a.",
+        "text": "Använd en grafritande miniräknare för att rita f(x). Använd sedan ZOOM-funktionen för att approximera värdena på a.",
         "variabilization": {},
         "oer": "",
         "license": ""

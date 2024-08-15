@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Rita funktionen",
-        "text": "Om vi ritar grafen för funktionen $$3-|x-3|$$, märker vi att grafen representerar en symmetrisk triangel från [0, 6]. Vi kommer att använda formeln för en triangels area.",
+        "text": "Om vi ritar funktionen $$3-|x-3|$$, märker vi att grafen representerar en symmetrisk triangel från [0, 6]. Vi kommer att använda formeln för arean av en triangel.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -28,7 +28,7 @@
             "a961302definite14a-h2"
         ],
         "title": "Formel för arean av en triangel",
-        "text": "Formeln för arean av en triangel är $$A=\\\\frac{1}{2} b h$$.",
+        "text": "Formeln för arean av en triangel är $$A=\\frac{1}{2} b h$$.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""

@@ -3,8 +3,8 @@
         "id": "acf60f3DerivativeFunction5a-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Deriverad funktion",
-        "text": "Börja direkt med definitionen av derivatafunktionen. $$f′(x)=\\\\lim_{h\\\\to0} \\\\frac{f{\\\\left(x+h\\\\right)}-f{\\\\left(x\\\\right)}}{h}$$",
+        "title": "Derivata",
+        "text": "Börja direkt med definitionen av derivatafunktionen. $$f′(x)=\\lim_{h\\to0} \\frac{f{\\left(x+h\\right)}-f{\\left(x\\right)}}{h}$$",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -15,8 +15,8 @@
         "dependencies": [
             "acf60f3DerivativeFunction5a-h1"
         ],
-        "title": "Derivatafunktion",
-        "text": "Vi kommer att få $$f'(x)=\\\\lim_{h\\\\to0} \\\\frac{4{\\\\left(x+h\\\\right)}^2-4x^2}{h}$$",
+        "title": "Derivata",
+        "text": "Vi kommer att få $$f'(x)=\\lim_{h\\to0} \\frac{4{\\left(x+h\\right)}^2-4x^2}{h}$$",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -27,8 +27,8 @@
         "dependencies": [
             "acf60f3DerivativeFunction5a-h2"
         ],
-        "title": "Expand",
-        "text": "Expandera $$\\\\frac{4{\\\\left(x+h\\\\right)}^2-4x^2}{h}$$ och förenkla",
+        "title": "Expandera",
+        "text": "Expandera $$\\frac{4{\\left(x+h\\right)}^2-4x^2}{h}$$ och förenkla",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -44,8 +44,8 @@
         "dependencies": [
             "acf60f3DerivativeFunction5a-h3"
         ],
-        "title": "Simplify",
-        "text": "Vad blir resultatet?",
+        "title": "Förenkla",
+        "text": "Vad kommer att få?",
         "variabilization": {},
         "oer": "",
         "license": "",
@@ -61,8 +61,8 @@
         "dependencies": [
             "acf60f3DerivativeFunction5a-h4"
         ],
-        "title": "Simplify",
-        "text": "Strunta i den gemensamma faktorn $$h$$",
+        "title": "Förenkla",
+        "text": "Förkorta den gemensamma faktorn $$h$$",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -78,8 +78,8 @@
         "dependencies": [
             "acf60f3DerivativeFunction5a-h5"
         ],
-        "title": "Simplify",
-        "text": "Vad kommer att få?",
+        "title": "Förenkla",
+        "text": "Vad blir ?",
         "variabilization": {},
         "oer": "",
         "license": "",
@@ -96,7 +96,7 @@
             "acf60f3DerivativeFunction5a-h6"
         ],
         "title": "Utvärdera gränsvärdet",
-        "text": "För att få ett slutgiltigt svar, utvärdera gränsvärdet genom att sätta in \\( h \\rightarrow 0 \\) $$=$$ $$h=0$$",
+        "text": "För att få ett slutgiltigt svar, beräkna gränsvärdet genom att sätta in h-->0 $$=$$ $$h=0$$",
         "variabilization": {},
         "oer": "",
         "license": ""

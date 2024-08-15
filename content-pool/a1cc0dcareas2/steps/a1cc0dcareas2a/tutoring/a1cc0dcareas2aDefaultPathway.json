@@ -34,7 +34,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Bestäm integrationsgränserna",
-        "text": "Som $$f(x)=g(x)$$ har vi då $$9-{\\\\left(\\\\frac{x}{2}\\\\right)}^2=6-x$$",
+        "text": "Som $$f(x)=g(x)$$, har vi då $$9-{\\left(\\frac{x}{2}\\right)}^2=6-x$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -44,7 +44,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Lös för $$x$$",
-        "text": "$$9-\\\\frac{x}{4}=6-x$$ sedan $$\\\\left(x-6\\\\right) \\\\left(x+2\\\\right)=0$$. Graferna av funktionerna skär varandra när $$x=6$$ och $$x=-2$$ så vi vill integrera från $$-2$$ till $$6$$.",
+        "text": "$$9-\\frac{x}{4}=6-x$$ sedan $$\\left(x-6\\right) \\left(x+2\\right)=0$$. Graferna av funktionerna skär varandra när $$x=6$$ och $$x=-2$$ så vi vill integrera från $$-2$$ till $$6$$.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -67,8 +67,8 @@
         "dependencies": [
             "a1cc0dcareas2a-h3"
         ],
-        "title": "Evaluate",
-        "text": "$$3x-\\frac{x^3}{12}+\\frac{x^2}{2}$$ as the limits go from $$x=-2$$ to $$x=6$$",
+        "title": "Utvärdera",
+        "text": "$$3x-\\frac{x^3}{12}+\\frac{x^2}{2}$$ när gränserna går från $$x=-2$$ till $$x=6$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -79,8 +79,8 @@
         "dependencies": [
             "a1cc0dcareas2a-h4"
         ],
-        "title": "Conclusion",
-        "text": "Arean av området är $$\\\\frac{64}{3}$$ $${unit}^2$$",
+        "title": "Slutsats",
+        "text": "Arean av området är $$\\frac{64}{3}$$ $${unit}^2$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
