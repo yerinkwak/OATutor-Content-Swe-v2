@@ -26,9 +26,9 @@
         "oer": "https://OATutor.io <OATutor>",
         "license": "",
         "choices": [
-            "cos(x)",
+            "$$cos(x)$$",
             "$$-cos(x)$$",
-            "sin(x)"
+            "$$sin(x)$$"
         ]
     },
     {

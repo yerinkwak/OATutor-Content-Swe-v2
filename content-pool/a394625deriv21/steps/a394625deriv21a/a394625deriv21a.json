@@ -11,7 +11,7 @@
     "answerLatex": "$$-2sin(x)cos(x)$$",
     "choices": [
         "$$-2sin(x)cos(x)$$",
-        "2sin(x)cos(x)",
-        "sin(x)cos(x)"
+        "$$2sin(x)cos(x)$$",
+        "$$sin(x)cos(x)$$"
     ]
 }

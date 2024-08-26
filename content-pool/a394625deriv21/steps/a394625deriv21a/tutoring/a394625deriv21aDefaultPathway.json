@@ -27,8 +27,8 @@
         "license": "",
         "choices": [
             "$$cos^2\\left(x\\right)-sin^2\\left(x\\right)$$",
-            "cos(x)",
-            "sin(x)"
+            "$$cos(x)$$",
+            "$$sin(x)$$"
         ]
     },
     {
@@ -49,8 +49,8 @@
         "license": "",
         "choices": [
             "$$-2sin(x)cos(x)$$",
-            "2sin(x)cos(x)",
-            "sin(x)cos(x)"
+            "$$2sin(x)cos(x)$$",
+            "$$sin(x)cos(x)$$"
         ]
     },
     {
