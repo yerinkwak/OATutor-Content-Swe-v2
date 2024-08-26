@@ -1,7 +1,7 @@
 {
     "id": "a2d77b8chainrule4a",
     "stepAnswer": [
-        "$$\\frac{\\operatorname{sin}\\left(\\frac{x}{8}\\right)}{8}$$"
+        "$$\\frac{\\sin\\left(-\\frac{x}{8}\\right)}{8}$$"
     ],
     "problemType": "MultipleChoice",
     "stepTitle": "$$y=cos(u)$$, $$u=\\frac{-x}{8}$$",
@@ -10,9 +10,9 @@
     "variabilization": {},
     "answerLatex": "$$\\frac{\\operatorname{sin}\\left(\\frac{x}{8}\\right)}{8}$$",
     "choices": [
-        "$$\\frac{\\operatorname{sin}\\left(\\frac{x}{8}\\right)}{8}$$",
-        "$$\\frac{-\\operatorname{sin}\\left(\\frac{x}{8}\\right)}{8}$$",
-        "$$\\operatorname{sin}\\left(\\frac{x}{8}\\right)$$",
-        "$$-\\operatorname{sin}\\left(\\frac{x}{8}\\right)$$"
+        "$$\\frac{\\sin\\left(-\\frac{x}{8}\\right)}{8}$$",
+        "$$-\\frac{\\sin\\left(-\\frac{x}{8}\\right)}{8}$$",
+        "$$\\sin\\left(-\\frac{x}{8}\\right)$$",
+        "$$-\\sin\\left(-\\frac{x}{8}\\right)$$"
     ]
 }
