@@ -1,98 +1,38 @@
 {
-	"trigonometric_identities": {
-		"probMastery": 0.1,
-		"probTransit": 0.1,
-		"probSlip": 0.1,
-		"probGuess": 0.1
-	},
-	"implicit_differentiation": {
-		"probMastery": 0.1,
-		"probTransit": 0.1,
-		"probSlip": 0.1,
-		"probGuess": 0.1
-	},
-	"arc_length_of_a_curve_and_surface_area": {
-		"probMastery": 0.1,
-		"probTransit": 0.1,
-		"probSlip": 0.1,
-		"probGuess": 0.1
-	},
-	"proof": {
-		"probMastery": 0.1,
-		"probTransit": 0.1,
-		"probSlip": 0.1,
-		"probGuess": 0.1
-	},
-	"derivatives_of_inverse_functions": {
-		"probMastery": 0.1,
-		"probTransit": 0.1,
-		"probSlip": 0.1,
-		"probGuess": 0.1
-	},
-	"area_and_the_definite_integral": {
-		"probMastery": 0.1,
-		"probTransit": 0.1,
-		"probSlip": 0.1,
-		"probGuess": 0.1
-	},
-	"area_of_a_region_between_two_curves": {
-		"probMastery": 0.1,
-		"probTransit": 0.1,
-		"probSlip": 0.1,
-		"probGuess": 0.1
-	},
-	"the_derivative_as_a_function": {
-		"probMastery": 0.1,
-		"probTransit": 0.1,
-		"probSlip": 0.1,
-		"probGuess": 0.1
-	},
-	"derivatives_of_trigonometric_functions": {
-		"probMastery": 0.1,
-		"probTransit": 0.1,
-		"probSlip": 0.1,
-		"probGuess": 0.1
-	},
-	"defining_the_derivative": {
-		"probMastery": 0.1,
-		"probTransit": 0.1,
-		"probSlip": 0.1,
-		"probGuess": 0.1
-	},
-	"areas_of_compound_regions": {
-		"probMastery": 0.1,
-		"probTransit": 0.1,
-		"probSlip": 0.1,
-		"probGuess": 0.1
-	},
-	"section_2.1_exercises": {
-		"probMastery": 0.1,
-		"probTransit": 0.1,
-		"probSlip": 0.1,
-		"probGuess": 0.1
-	},
-	"changes_in_cost_and_revenue": {
-		"probMastery": 0.1,
-		"probTransit": 0.1,
-		"probSlip": 0.1,
-		"probGuess": 0.1
-	},
-	"the_chain_rule": {
-		"probMastery": 0.1,
-		"probTransit": 0.1,
-		"probSlip": 0.1,
-		"probGuess": 0.1
-	},
-	"differentiation_rules": {
-		"probMastery": 0.1,
-		"probTransit": 0.1,
-		"probSlip": 0.1,
-		"probGuess": 0.1
-	},
-	"section_5.2_exercises": {
-		"probMastery": 0.1,
-		"probTransit": 0.1,
-		"probSlip": 0.1,
-		"probGuess": 0.1
-	}
+    "kedjeregeln": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "Areor": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "deriveringsregler": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "områden_av_sammansatta_regioner": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "derivator_av_trigonometriska_funktioner": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "area_av_ett_område_mellan_två_kurvor": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    }
 }
