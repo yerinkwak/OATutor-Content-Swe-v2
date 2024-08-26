@@ -1,66 +1,15 @@
 {
-    "a39b8a0def15a": [
-        "definiera_derivatan"
-    ],
-    "a39b8a0def22b": [
-        "definiera_derivatan"
-    ],
-    "a39b8a0def22a": [
-        "definiera_derivatan"
-    ],
-    "a394625deriv18a": [
-        "derivator_av_trigonometriska_funktioner"
-    ],
     "a2d77b8chainrule7a": [
         "kedjeregeln"
-    ],
-    "a394625deriv2a": [
-        "derivator_av_trigonometriska_funktioner"
-    ],
-    "a39b8a0def26a": [
-        "definiera_derivatan"
     ],
     "aca1a7dderivativetangent4a": [
         "deriveringsregler"
     ],
-    "a1cc0dcareas8a": [
-        "avsnitt_2.1_övningar"
-    ],
-    "a7079e8inverse23a": [
-        "derivator_av_inversa_funktioner"
-    ],
-    "a7079e8inverse1a": [
-        "derivator_av_inversa_funktioner"
-    ],
-    "a3e1067arc10a": [
-        "båglängd_av_en_kurva_och_yta"
-    ],
-    "a7079e8inverse14a": [
-        "derivator_av_inversa_funktioner"
-    ],
-    "a7079e8inverse25a": [
-        "derivator_av_inversa_funktioner"
-    ],
     "aca1a7dtangentline1a": [
         "deriveringsregler"
     ],
-    "acf60f3DerivativeFunction8a": [
-        "derivatan_som_en_funktion"
-    ],
-    "acf60f3DerivativeFunction8b": [
-        "derivatan_som_en_funktion"
-    ],
-    "a39b8a0def6a": [
-        "definiera_derivatan"
-    ],
     "a1cc0dcareas10a": [
-        "avsnitt_2.1_övningar"
-    ],
-    "a39b8a0def11a": [
-        "definiera_derivatan"
-    ],
-    "a3e1067arc14a": [
-        "båglängd_av_en_kurva_och_yta"
+        "Areor"
     ],
     "a2d77b8chainrule6a": [
         "kedjeregeln"
@@ -71,131 +20,20 @@
     "a2d77b8chainrule11a": [
         "kedjeregeln"
     ],
-    "a7079e8inverse10a": [
-        "derivator_av_inversa_funktioner"
-    ],
-    "a7079e8inverse10b": [
-        "derivator_av_inversa_funktioner"
-    ],
-    "ab2ed79implicit25a": [
-        "implicit_derivering"
-    ],
-    "a3e1067arc4a": [
-        "båglängd_av_en_kurva_och_yta"
-    ],
-    "a39b8a0def8a": [
-        "definiera_derivatan"
-    ],
-    "a7079e8inverse15a": [
-        "derivator_av_inversa_funktioner"
-    ],
-    "a7079e8inverse6a": [
-        "derivator_av_inversa_funktioner"
-    ],
-    "ab2ed79implicit21a": [
-        "implicit_derivering"
-    ],
-    "a7079e8inverse9a": [
-        "derivator_av_inversa_funktioner"
-    ],
-    "a7079e8inverse9b": [
-        "derivator_av_inversa_funktioner"
-    ],
-    "a39b8a0def19a": [
-        "definiera_derivatan"
-    ],
-    "a961302definite15a": [
-        "avsnitt_5.2_övningar"
-    ],
-    "a7079e8inverse17a": [
-        "derivator_av_inversa_funktioner"
-    ],
-    "a7079e8inverse18a": [
-        "derivator_av_inversa_funktioner"
-    ],
     "aca1a7dderivative2a": [
         "deriveringsregler"
     ],
     "a394625deriv7a": [
         "derivator_av_trigonometriska_funktioner"
     ],
-    "a7079e8inverse8a": [
-        "derivator_av_inversa_funktioner"
-    ],
-    "a7079e8inverse8b": [
-        "derivator_av_inversa_funktioner"
-    ],
-    "acf60f3DerivativeFunction4a": [
-        "derivatan_som_en_funktion"
-    ],
-    "a3e1067arc2a": [
-        "båglängd_av_en_kurva_och_yta"
-    ],
-    "a3e1067arc13a": [
-        "båglängd_av_en_kurva_och_yta"
-    ],
-    "a7079e8inverse2a": [
-        "derivator_av_inversa_funktioner"
-    ],
-    "a39b8a0def9a": [
-        "definiera_derivatan"
-    ],
-    "acf60f3DerivativeFunction10a": [
-        "derivatan_som_en_funktion"
-    ],
-    "acf60f3DerivativeFunction10b": [
-        "derivatan_som_en_funktion"
-    ],
-    "a961302definite9a": [
-        "avsnitt_5.2_övningar"
-    ],
-    "a961302definite4a": [
-        "area_och_determinant_integral"
-    ],
-    "a961302definite14a": [
-        "avsnitt_5.2_övningar"
-    ],
-    "ab2ed79implicit20a": [
-        "implicit_derivering"
-    ],
-    "a7079e8inverse5a": [
-        "derivator_av_inversa_funktioner"
-    ],
-    "acf60f3DerivativeFunction14a": [
-        "derivatan_som_en_funktion"
-    ],
-    "a3e1067arc1a": [
-        "båglängd_av_en_kurva_och_yta"
-    ],
     "a2d77b8chainrule1a": [
         "kedjeregeln"
-    ],
-    "a7079e8inverse7b": [
-        "derivator_av_inversa_funktioner"
-    ],
-    "a7079e8inverse7a": [
-        "derivator_av_inversa_funktioner"
-    ],
-    "a39b8a0def3a": [
-        "definiera_derivatan"
-    ],
-    "a39b8a0def25a": [
-        "definiera_derivatan"
     ],
     "a394625deriv6a": [
         "derivator_av_trigonometriska_funktioner"
     ],
-    "a394625deriv19a": [
-        "derivator_av_trigonometriska_funktioner"
-    ],
     "aca1a7dtangentline3a": [
         "deriveringsregler"
-    ],
-    "a7079e8inverse12a": [
-        "derivator_av_inversa_funktioner"
-    ],
-    "a394625deriv1a": [
-        "derivator_av_trigonometriska_funktioner"
     ],
     "aca1a7dderivative4a": [
         "deriveringsregler"
@@ -203,98 +41,26 @@
     "a394625deriv20a": [
         "derivator_av_trigonometriska_funktioner"
     ],
-    "acf60f3DerivativeFunction15a": [
-        "derivatan_som_en_funktion"
-    ],
-    "acf60f3DerivativeFunction12a": [
-        "derivatan_som_en_funktion"
-    ],
-    "a394625deriv10a": [
-        "derivator_av_trigonometriska_funktioner"
-    ],
-    "a39b8a0def7a": [
-        "definiera_derivatan"
-    ],
     "aca1a7dderivative10a": [
         "deriveringsregler"
-    ],
-    "a961302definite16a": [
-        "avsnitt_5.2_övningar"
-    ],
-    "a3e1067arc3a": [
-        "båglängd_av_en_kurva_och_yta"
     ],
     "aca1a7dtangentline4a": [
         "deriveringsregler"
     ],
-    "a39b8a0def23a": [
-        "definiera_derivatan"
-    ],
-    "a3e1067arc15a": [
-        "båglängd_av_en_kurva_och_yta"
-    ],
-    "a2d77b8chainrule9a": [
-        "kedjeregeln"
-    ],
-    "a3e1067arc11a": [
-        "båglängd_av_en_kurva_och_yta"
-    ],
-    "ab2ed79implicit23a": [
-        "implicit_derivering"
-    ],
-    "acf60f3DerivativeFunction7a": [
-        "derivatan_som_en_funktion"
-    ],
     "aca1a7dtangentline7a": [
         "deriveringsregler"
-    ],
-    "a7079e8inverse4a": [
-        "derivator_av_inversa_funktioner"
-    ],
-    "a1cc0dcareas2a": [
-        "area_av_ett_område_mellan_två_kurvor"
-    ],
-    "a394625deriv5a": [
-        "derivator_av_trigonometriska_funktioner"
-    ],
-    "a961302definite21b": [
-        "avsnitt_5.2_övningar"
-    ],
-    "a961302definite21a": [
-        "avsnitt_5.2_övningar"
     ],
     "aca1a7dderivative12a": [
         "deriveringsregler"
     ],
-    "a961302definite13a": [
-        "avsnitt_5.2_övningar"
-    ],
     "aca1a7dtangentline6a": [
         "deriveringsregler"
-    ],
-    "acf60f3DerivativeFunction6a": [
-        "derivatan_som_en_funktion"
-    ],
-    "a7079e8inverse16a": [
-        "derivator_av_inversa_funktioner"
     ],
     "a394625deriv15a": [
         "derivator_av_trigonometriska_funktioner"
     ],
-    "ae173b9deriv12a": [
-        "förändringar_i_kostnad_och_intäkt"
-    ],
     "aca1a7dderivativetangent1a": [
         "deriveringsregler"
-    ],
-    "a82ea5csubstitution4a": [
-        "bevis"
-    ],
-    "a961302definite18a": [
-        "avsnitt_5.2_övningar"
-    ],
-    "a961302definite20a": [
-        "avsnitt_5.2_övningar"
     ],
     "a2d77b8chainrule2a": [
         "kedjeregeln"
@@ -302,74 +68,23 @@
     "a1cc0dcareas4a": [
         "områden_av_sammansatta_regioner"
     ],
-    "a961302definite11a": [
-        "avsnitt_5.2_övningar"
-    ],
     "a1cc0dcareas1a": [
         "area_av_ett_område_mellan_två_kurvor"
     ],
-    "ab2ed79implicit22a": [
-        "implicit_derivering"
-    ],
-    "a39b8a0def21a": [
-        "definiera_derivatan"
-    ],
-    "a39b8a0def21b": [
-        "definiera_derivatan"
-    ],
-    "a394625deriv9a": [
-        "derivator_av_trigonometriska_funktioner"
-    ],
     "a394625deriv4a": [
         "derivator_av_trigonometriska_funktioner"
-    ],
-    "a39b8a0def17b": [
-        "definiera_derivatan"
-    ],
-    "a39b8a0def17a": [
-        "definiera_derivatan"
-    ],
-    "a39b8a0def2a": [
-        "definiera_derivatan"
     ],
     "aca1a7dtangentline2a": [
         "deriveringsregler"
     ],
     "a1cc0dcareas11a": [
-        "avsnitt_2.1_övningar"
+        "Areor"
     ],
     "aca1a7dderivative5a": [
         "deriveringsregler"
     ],
-    "a39b8a0def1a": [
-        "definiera_derivatan"
-    ],
-    "a39b8a0def5a": [
-        "definiera_derivatan"
-    ],
-    "a394625deriv12a": [
-        "derivator_av_trigonometriska_funktioner"
-    ],
-    "acf60f3DerivativeFunction2a": [
-        "derivatan_som_en_funktion"
-    ],
-    "acf60f3DerivativeFunction5a": [
-        "derivatan_som_en_funktion"
-    ],
     "a1cc0dcareas3a": [
         "områden_av_sammansatta_regioner"
-    ],
-    "a39b8a0def18a": [
-        "definiera_derivatan"
-    ],
-    "a961302definite17a": [
-        "avsnitt_5.2_övningar"
-    ],
-    "a961302definite17b": [
-        "avsnitt_5.2_övningar"
-    ],
-    "a39b8a0def4a": [
-        "definiera_derivatan"
     ],
     "aca1a7dderivativetangent3a": [
         "deriveringsregler"
@@ -380,113 +95,32 @@
     "a394625deriv11a": [
         "derivator_av_trigonometriska_funktioner"
     ],
-    "a7079e8inverse22a": [
-        "derivator_av_inversa_funktioner"
-    ],
     "a394625deriv23a": [
         "derivator_av_trigonometriska_funktioner"
     ],
     "a2d77b8chainrule8a": [
         "kedjeregeln"
     ],
-    "acf60f3DerivativeFunction1a": [
-        "derivatan_som_en_funktion"
-    ],
-    "a961302definite19a": [
-        "avsnitt_5.2_övningar"
-    ],
     "a394625deriv21a": [
         "derivator_av_trigonometriska_funktioner"
-    ],
-    "a2d77b8chainrule10a": [
-        "kedjeregeln"
-    ],
-    "a394625deriv16a": [
-        "derivator_av_trigonometriska_funktioner"
-    ],
-    "a82ea5csubstitution1a": [
-        "bevis"
     ],
     "aca1a7dderivative9a": [
         "deriveringsregler"
     ],
-    "a39b8a0def14a": [
-        "definiera_derivatan"
-    ],
     "aca1a7dtangentline8a": [
         "deriveringsregler"
-    ],
-    "ab2ed79implicit9a": [
-        "implicit_derivering"
     ],
     "aca1a7dderivativetangent2a": [
         "deriveringsregler"
     ],
-    "a3e1067arc6a": [
-        "båglängd_av_en_kurva_och_yta"
-    ],
     "aca1a7dderivative7a": [
         "deriveringsregler"
-    ],
-    "a39b8a0def16c": [
-        "definiera_derivatan"
-    ],
-    "a39b8a0def16b": [
-        "definiera_derivatan"
-    ],
-    "a39b8a0def16a": [
-        "definiera_derivatan"
-    ],
-    "ab2ed79implicit10a": [
-        "implicit_derivering"
-    ],
-    "a7079e8inverse20a": [
-        "derivator_av_inversa_funktioner"
-    ],
-    "a39b8a0def24a": [
-        "definiera_derivatan"
-    ],
-    "a2d77b8chainrule5a": [
-        "kedjeregeln"
     ],
     "aca1a7dderivative1a": [
         "deriveringsregler"
     ],
-    "a3e1067arc5a": [
-        "båglängd_av_en_kurva_och_yta"
-    ],
-    "acf60f3DerivativeFunction9a": [
-        "derivatan_som_en_funktion"
-    ],
-    "acf60f3DerivativeFunction9b": [
-        "derivatan_som_en_funktion"
-    ],
-    "a394625deriv8a": [
-        "derivator_av_trigonometriska_funktioner"
-    ],
-    "a394625deriv22a": [
-        "derivator_av_trigonometriska_funktioner"
-    ],
-    "a961302definite12a": [
-        "avsnitt_5.2_övningar"
-    ],
-    "a3e1067arc12a": [
-        "båglängd_av_en_kurva_och_yta"
-    ],
-    "a3e1067arc7a": [
-        "båglängd_av_en_kurva_och_yta"
-    ],
-    "a2d77b8chainrule13a": [
-        "kedjeregeln"
-    ],
-    "ab2ed79implicit24a": [
-        "implicit_derivering"
-    ],
     "aca1a7dderivative8a": [
         "deriveringsregler"
-    ],
-    "a39b8a0def13a": [
-        "definiera_derivatan"
     ],
     "a2d77b8chainrule4a": [
         "kedjeregeln"
@@ -494,53 +128,17 @@
     "aca1a7dderivative11a": [
         "deriveringsregler"
     ],
-    "a82ea5csubstitution3a": [
-        "bevis"
-    ],
     "a1cc0dcareas6a": [
-        "avsnitt_2.1_övningar"
-    ],
-    "ae173b9deriv11a": [
-        "förändringar_i_kostnad_och_intäkt"
+        "Areor"
     ],
     "aca1a7dderivative6a": [
         "deriveringsregler"
     ],
-    "a394625deriv14a": [
-        "derivator_av_trigonometriska_funktioner"
-    ],
     "a394625deriv25a": [
         "derivator_av_trigonometriska_funktioner"
     ],
-    "a39b8a0def10a": [
-        "definiera_derivatan"
-    ],
-    "a1cc0dcareas7a": [
-        "avsnitt_2.1_övningar"
-    ],
-    "a394625deriv17a": [
-        "derivator_av_trigonometriska_funktioner"
-    ],
-    "a7079e8inverse11a": [
-        "derivator_av_inversa_funktioner"
-    ],
-    "a7079e8inverse11b": [
-        "derivator_av_inversa_funktioner"
-    ],
-    "a394625deriv3a": [
-        "derivator_av_trigonometriska_funktioner"
-    ],
-    "a2d77b8chainrule15a": [
-        "kedjeregeln"
-    ],
-    "a7079e8inverse24a": [
-        "derivator_av_inversa_funktioner"
-    ],
     "a2d77b8chainrule3a": [
         "kedjeregeln"
-    ],
-    "a3e1067arc8a": [
-        "båglängd_av_en_kurva_och_yta"
     ],
     "a394625deriv13a": [
         "derivator_av_trigonometriska_funktioner"
@@ -548,115 +146,13 @@
     "a394625deriv24a": [
         "derivator_av_trigonometriska_funktioner"
     ],
-    "acf60f3DerivativeFunction13a": [
-        "derivatan_som_en_funktion"
-    ],
-    "a961302definite10a": [
-        "avsnitt_5.2_övningar"
-    ],
     "a2d77b8chainrule12a": [
         "kedjeregeln"
-    ],
-    "acf60f3DerivativeFunction3a": [
-        "derivatan_som_en_funktion"
-    ],
-    "a7079e8inverse19a": [
-        "derivator_av_inversa_funktioner"
     ],
     "aca1a7dtangentline5a": [
         "deriveringsregler"
     ],
-    "a7079e8inverse13a": [
-        "derivator_av_inversa_funktioner"
-    ],
-    "a7079e8inverse21a": [
-        "derivator_av_inversa_funktioner"
-    ],
-    "a39b8a0def12a": [
-        "definiera_derivatan"
-    ],
-    "a7079e8inverse3a": [
-        "derivator_av_inversa_funktioner"
-    ],
-    "a82ea5csubstitution2a": [
-        "bevis"
-    ],
-    "a961302definite3a": [
-        "area_och_determinant_integral"
-    ],
     "a2d77b8chainrule14a": [
         "kedjeregeln"
-    ],
-    "a3e1067arc9a": [
-        "båglängd_av_en_kurva_och_yta"
-    ],
-    "acf60f3DerivativeFunction11b": [
-        "derivatan_som_en_funktion"
-    ],
-    "acf60f3DerivativeFunction11a": [
-        "derivatan_som_en_funktion"
-    ],
-    "a39b8a0def20b": [
-        "definiera_derivatan"
-    ],
-    "a39b8a0def20a": [
-        "definiera_derivatan"
-    ],
-    "a1cc0dcareas9a": [
-        "avsnitt_2.1_övningar"
-    ],
-    "a750210trig16a": [
-        "trigonometriska_identitieter"
-    ],
-    "a750210trig20b": [
-        "trigonometriska_identitieter"
-    ],
-    "a750210trig20g": [
-        "trigonometriska_identitieter"
-    ],
-    "a750210trig20a": [
-        "trigonometriska_identitieter"
-    ],
-    "a750210trig20e": [
-        "trigonometriska_identitieter"
-    ],
-    "a750210trig20c": [
-        "trigonometriska_identitieter"
-    ],
-    "a750210trig20f": [
-        "trigonometriska_identitieter"
-    ],
-    "a750210trig20d": [
-        "trigonometriska_identitieter"
-    ],
-    "a750210trig23a": [
-        "trigonometriska_identitieter"
-    ],
-    "a750210trig25a": [
-        "trigonometriska_identitieter"
-    ],
-    "a750210trig15a": [
-        "trigonometriska_identitieter"
-    ],
-    "a750210trig11a": [
-        "trigonometriska_identitieter"
-    ],
-    "a750210trig14a": [
-        "trigonometriska_identitieter"
-    ],
-    "a750210trig24a": [
-        "trigonometriska_identitieter"
-    ],
-    "a750210trig26a": [
-        "trigonometriska_identitieter"
-    ],
-    "a750210trig22a": [
-        "trigonometriska_identitieter"
-    ],
-    "a750210trig13a": [
-        "trigonometriska_identitieter"
-    ],
-    "a750210trig12a": [
-        "trigonometriska_identitieter"
     ]
 }
