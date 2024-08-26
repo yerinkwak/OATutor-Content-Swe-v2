@@ -28,7 +28,7 @@
             "a1cc0dcareas6a-h2"
         ],
         "title": "Definiera den övre grafen",
-        "text": "Arean av \\( A \\) ges av $$int{|f(x)-g(x)|, a, b, x$$, eftersom f(x) är en övre graf och g(x) är den nedre.",
+        "text": "Arean av A ges av $$int{|f(x)-g(x)|, a, b, x$$, eftersom f(x) är en övre graf och g(x) är den nedre.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
