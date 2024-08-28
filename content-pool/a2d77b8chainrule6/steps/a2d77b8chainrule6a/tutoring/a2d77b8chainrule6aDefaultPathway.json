@@ -15,8 +15,8 @@
         "dependencies": [
             "a2d77b8chainrule6a-h1"
         ],
-        "title": "Hitta derivatan",
-        "text": "Först, försök att hitta derivatan av $$y$$ med avseende på u. Bestäm sedan derivatan av u med avseende på $$x$$. Att multiplicera de två borde ge rätt svar!",
+        "title": "Bestäm derivatan",
+        "text": "Först, försök att bestäm derivatan av $$y$$ med avseende på u. Bestäm sedan derivatan av u med avseende på $$x$$. Att multiplicera de två borde ge rätt svar!",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
@@ -32,7 +32,7 @@
         "dependencies": [
             "a2d77b8chainrule6a-h2"
         ],
-        "title": "Hitta $$\\frac{dy}{du}$$",
+        "title": "Bestäm $$\\frac{dy}{du}$$",
         "text": "Vad är $$\\frac{dy}{du}$$?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
@@ -55,7 +55,7 @@
         "dependencies": [
             "a2d77b8chainrule6a-h3"
         ],
-        "title": "Hitta $$\\frac{du}{dx}$$",
+        "title": "Bestäm $$\\frac{du}{dx}$$",
         "text": "Vad är $$\\frac{du}{dx}$$?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",

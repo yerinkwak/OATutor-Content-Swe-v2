@@ -1,7 +1,7 @@
 {
     "id": "aca1a7dderivativetangent1",
     "title": "",
-    "body": "Utvärdera f'(a), och hitta ekvationen för tangentlinjen f(x) vid $$x$$ $$=$$ a.",
+    "body": "Utvärdera f'(a), och bestäm ekvationen för tangentlinjen f(x) vid $$x$$ $$=$$ a.",
     "variabilization": {},
     "oer": "https://openstax.org/details/books/calculus-volume-1 <OpenStax: Calculus Volume 1>",
     "license": 0.0,

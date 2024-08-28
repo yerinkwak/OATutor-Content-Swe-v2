@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Identifiera kurvorna",
-        "text": "Först måste du identifiera de två kurvorna som definierar området vars area du vill hitta. I detta fall är f(x) den övre kurvan och g(x) den nedre kurvan",
+        "text": "Först måste du identifiera de två kurvorna som definierar området vars area du vill bestäm. I detta fall är f(x) den övre kurvan och g(x) den nedre kurvan",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -39,7 +39,7 @@
         "dependencies": [
             "a1cc0dcareas1a-h3"
         ],
-        "title": "Hitta integralen",
+        "title": "Bestäm integralen",
         "text": "$$\\int_{1}^{4} \\frac{3x}{2}+1 \\,dx=\\frac{3x^2}{4}+x$$ när gränserna går från $$x=1$$ till $$x=4$$",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",

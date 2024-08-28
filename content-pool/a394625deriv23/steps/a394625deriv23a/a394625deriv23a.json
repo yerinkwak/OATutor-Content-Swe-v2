@@ -4,7 +4,7 @@
         "$$3sin\\left(x\\right)$$"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "För följande övningar, hitta den begärda högre ordningens derivata för de givna funktionerna.",
+    "stepTitle": "För följande övningar, bestäm den begärda högre ordningens derivata för de givna funktionerna.",
     "stepBody": "$$y=3cos\\left(x\\right)$$, tredje derivatan",
     "answerType": "string",
     "variabilization": {},

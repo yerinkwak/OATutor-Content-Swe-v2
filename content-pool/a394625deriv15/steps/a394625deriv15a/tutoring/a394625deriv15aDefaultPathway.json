@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Bryta ner frågan",
-        "text": "Hitta derivatans värde och det kommer att vara lutningen.",
+        "text": "Bestäm derivatans värde och det kommer att vara lutningen.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""

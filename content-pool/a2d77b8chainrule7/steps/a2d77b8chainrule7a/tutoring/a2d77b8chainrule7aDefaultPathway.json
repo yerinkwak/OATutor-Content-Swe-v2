@@ -16,7 +16,7 @@
             "a2d77b8chainrule7a-h1"
         ],
         "title": "Dekomponera funktionen",
-        "text": "Först behöver vi dela upp vår funktion $$y$$ i formen $$y=f(u)$$ och $$u=g(x)$$, försök hitta vad f(u) och g(x) bör vara i detta fall!",
+        "text": "Först behöver vi dela upp vår funktion $$y$$ i formen $$y=f(u)$$ och $$u=g(x)$$, försök bestäm vad f(u) och g(x) bör vara i detta fall!",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
@@ -32,7 +32,7 @@
         "dependencies": [
             "a2d77b8chainrule7a-h2"
         ],
-        "title": "Hitta f(u)",
+        "title": "Bestäm f(u)",
         "text": "Vad är f(u)?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
@@ -55,7 +55,7 @@
         "dependencies": [
             "a2d77b8chainrule7a-h3"
         ],
-        "title": "Hitta g(x)",
+        "title": "Bestäm g(x)",
         "text": "Vad är g(x)?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
@@ -73,7 +73,7 @@
         "dependencies": [
             "a2d77b8chainrule7a-h4"
         ],
-        "title": "Hitta derivatan",
+        "title": "Bestäm derivatan",
         "text": "Nästa, tar vi derivatan av f(u) med avseende på u, $$\\frac{dy}{du}$$, och derivatan av g(x) med avseende på $$x$$, $$\\frac{du}{dx}$$. Att multiplicera dessa två uttryck tillsammans ger vårt slutgiltiga svar, dy/dx!",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
@@ -90,7 +90,7 @@
         "dependencies": [
             "a2d77b8chainrule7a-h5"
         ],
-        "title": "Hitta $$\\frac{dy}{du}$$",
+        "title": "Bestäm $$\\frac{dy}{du}$$",
         "text": "Vad är $$\\frac{dy}{du}$$?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
@@ -113,7 +113,7 @@
         "dependencies": [
             "a2d77b8chainrule7a-h6"
         ],
-        "title": "Hitta $$\\frac{du}{dx}$$",
+        "title": "Bestäm $$\\frac{du}{dx}$$",
         "text": "Vad är $$\\frac{du}{dx}$$?",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
@@ -132,7 +132,7 @@
             "a2d77b8chainrule7a-h7"
         ],
         "title": "Anslut",
-        "text": "Slutligen behöver vi bara multiplicera dessa två uttryck för att hitta vårt slutgiltiga svar. Glöm inte att sätta in vad vi har för u i termer av $$x$$ i vårt slutgiltiga svar!",
+        "text": "Slutligen behöver vi bara multiplicera dessa två uttryck för att bestäm vårt slutgiltiga svar. Glöm inte att sätta in vad vi har för u i termer av $$x$$ i vårt slutgiltiga svar!",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"

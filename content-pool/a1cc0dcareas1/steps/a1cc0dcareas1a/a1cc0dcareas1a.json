@@ -4,7 +4,7 @@
         "$$\\frac{57}{4}$$"
     ],
     "problemType": "TextBox",
-    "stepTitle": "Om R är området som begränsas ovan av grafen för funktionen $$f(x)=x+4$$ och nedan av grafen för funktionen $$g(x)=3-\\frac{x}{2}$$ över intervallet [1,4], hitta arean av området R.",
+    "stepTitle": "Om R är området som begränsas ovan av grafen för funktionen $$f(x)=x+4$$ och nedan av grafen för funktionen $$g(x)=3-\\frac{x}{2}$$ över intervallet [1,4], bestäm arean av området R.",
     "stepBody": "##figure1.gif## ",
     "answerType": "arithmetic",
     "variabilization": {},
