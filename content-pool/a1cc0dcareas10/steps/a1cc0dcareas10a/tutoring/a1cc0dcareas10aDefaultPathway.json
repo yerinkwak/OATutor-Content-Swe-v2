@@ -73,7 +73,7 @@
             "a1cc0dcareas10a-h5"
         ],
         "title": "Beräkna integralen",
-        "text": "$$-\\left(\\frac{2x^2}{3}\\right)+\\frac{18x^2}{2}$$ när gränserna går från $$x=0$$ till $$x=9$$.",
+        "text": "$$-\\left(\\frac{2x^3}{3}\\right)+\\frac{18x^2}{2}$$ när gränserna går från $$x=0$$ till $$x=9$$.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
