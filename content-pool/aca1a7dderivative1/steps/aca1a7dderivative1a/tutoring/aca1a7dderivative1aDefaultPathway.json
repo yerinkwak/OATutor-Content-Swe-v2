@@ -3,7 +3,7 @@
         "id": "aca1a7dderivative1a-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Kraftregeln",
+        "title": "Potensregeln",
         "text": "Om $$f(x)=x^n$$, då $$f'(x)={nx}^{n-1}$$.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
