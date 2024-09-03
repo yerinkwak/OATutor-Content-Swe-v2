@@ -4,7 +4,7 @@
         "$$-7cos\\left(cos\\left(7x\\right)\\right) sin\\left(7x\\right)$$"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "Bestäm $$\\frac{dy}{dx}$$",
+    "stepTitle": "Hitta $$\\frac{dy}{dx}$$",
     "stepBody": "",
     "answerType": "string",
     "variabilization": {},

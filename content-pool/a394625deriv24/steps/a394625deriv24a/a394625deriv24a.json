@@ -4,7 +4,7 @@
         "$$5cos\\left(x\\right)$$"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "För följande övningar, bestäm andraderivatan för de givna funktionerna.",
+    "stepTitle": "För följande övningar, hitta andraderivatan för de givna funktionerna.",
     "stepBody": "$$y=5cos\\left(x\\right)$$, fjärde derivatan",
     "answerType": "string",
     "variabilization": {},

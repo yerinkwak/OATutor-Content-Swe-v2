@@ -3,8 +3,8 @@
         "id": "a1cc0dcareas6a-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Bestäm gränsvärdena",
-        "text": "För att ställa upp de bestämda integralerna av $$2$$-funktionerna måste vi bestäm gränserna där de skär varandra genom att sätta dem lika och lösa för $$x$$.",
+        "title": "Hitta gränsvärdena",
+        "text": "För att ställa upp de bestämda integralerna av $$2$$-funktionerna måste vi hitta gränserna där de skär varandra genom att sätta dem lika och lösa för $$x$$.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -15,7 +15,7 @@
         "dependencies": [
             "a1cc0dcareas6a-h1"
         ],
-        "title": "Bestäm gränsvärdena",
+        "title": "Hitta gränsvärdena",
         "text": "$$x^2-3=1$$ sedan $$x=2$$ och $$x=-2$$. Så vi erhåller $$x=-2$$ som en nedre gräns och $$x=2$$ som en övre gräns.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
