@@ -16,7 +16,7 @@
             "a2d77b8chainrule2a-h1"
         ],
         "title": "Bestäm derivatan",
-        "text": "Först, försök att hitta derivatan av $$y$$ med avseende på u. Sedan, hitta derivatan av u med avseende på $$x$$. Att multiplicera de två borde ge rätt svar!",
+        "text": "Först, försök att hitta derivatan av $$y$$ med avseende på u. Sedan, bestäm derivatan av u med avseende på $$x$$. Att multiplicera de två borde ge rätt svar!",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
