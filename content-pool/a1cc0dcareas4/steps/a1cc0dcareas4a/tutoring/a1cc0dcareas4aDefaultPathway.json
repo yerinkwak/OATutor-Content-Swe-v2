@@ -3,7 +3,7 @@
         "id": "a1cc0dcareas4a-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Hitta skärningspunkten för $$2$$ funktioner",
+        "title": "Bestäm skärningspunkten för $$2$$ funktioner",
         "text": "Ställ in $$f(x)=g(x)$$ och lös för $$x$$. Efter att ha löst för $$x$$, får vi $$x=1$$ där graferna skär varandra.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
